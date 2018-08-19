@@ -29,7 +29,7 @@ script src="{{$js.Permalink}}"
 
     jQuery("b.headline").fitText(.55);
     //jQuery(".short").fitText(0.75);
-    jQuery("h2.big").fitText(0.85);
+    jQuery(".big").fitText(0.85);
     jQuery(".home h2").fitText(0.85);
     $('.bigger').flowtype({ minimum: 600, maximum: 1200});
     

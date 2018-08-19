@@ -1,7 +1,7 @@
 {{ partial "header" .}}
   .container
     .headline style="width: 100%"
-      h1.short {{ .Title}}
+      h1.big {{ .Title}}
     hr
     .row
       .col-md-4.main

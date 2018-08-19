@@ -1,39 +1,15 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container.home
-      / peace, man
-        .row.flag
-          .col-xs-12
-            .centered
-              h2 &#9774;
-
-      /
-        .row.flag
-          .col-xs-4 style="background: #0055A4"
-          .col-xs-4 style="background: #fff"
-          .col-xs-4 style="background: #EF4135"
-      /
-        .row
-          .col-md-8
-          .col-md-2
-            a href="/about" About
-          .col-md-2
-            a href="/contact" Contact
-      / h1.name ISOKON
-      / h1.name ABSTRAKTOR
-      h1.name Peter Kappus
-      hr
-      h2
-        a href="/cv" Consulting
-      h2.subheaded
-        a href="/blog" Blog
-      h2
-        a href="/music" Music
-      h2
-        a href="/art" Art
-      / h3 Infrequent
-      hr
-      p.bigger Hello! I'm Peter Kappus and I write <a href="/music">music</a>, make <a href="/art">art</a> and help teams to <a href="/cv">transform the way they work</a> and to deliver outstanding services based around user needs. Follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a>, <a href="http://instagram.com/peterkappus">Instagram</a>, or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>. Connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a> or <a href="/contact"> contact me.</a> Yep, this site uses cookies.
-      {{ partial "footer" .}}
+{{ partial "header" .}}
+.container.home
+  h1.name Peter Kappus
+  hr
+  h2
+    a href="/cv" Consulting
+  h2
+    a href="/blog" Blog
+  h2
+    a href="/music" Music
+  h2
+    a href="/art" Art
+  hr
+  p.bigger Hello! I'm Peter Kappus and I write <a href="/music">music</a>, make <a href="/art">art</a> and help teams to <a href="/cv">transform the way they work</a> and to deliver outstanding services based around user needs. Follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a>, <a href="http://instagram.com/peterkappus">Instagram</a>, or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>. Connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a> or <a href="/contact"> contact me.</a> Yep, this site uses cookies.
+  {{ partial "footer" .}}
