@@ -1,34 +1,25 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container
-      {{ partial "nav" .}}
-      / Don't show the sub-menu on single pages (hacky!)
-      {{ if ne .Type "page"}}
-      h4.capitalize.nav
-        a href="/{{.Type}}" {{.Type}}
+{{ partial "header" .}}
+.container class="{{.Type}}"
+  .headline style="width: 100%"
+    h1.short {{ .Title}}
+  hr
+  .row
+    .col-md-4.main
+      {{ .Content}}
+    .col-md-8.media_
+      {{ if isset .Params "soundcloud" }}
+      .embed-container
+        iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .Params.soundcloud }}&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
       {{ end }}
-      .headline style="width: 100%"
-        h1.short {{ .Title}}
-      hr
-      .row
-        .col-md-4.main
-          {{ .Content}}
-        .col-md-8.media_
-          {{ if isset .Params "soundcloud" }}
-          .embed-container
-            iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .Params.soundcloud }}&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
-          {{ end }}
-          {{ if isset .Params "top_content" }}
-            {{ .Params.top_content | safeHTML}}
-          {{else}}
-            img.img-responsive.big_pic src=/images/big_pics/{{.Params.cover}}
-          {{ end }}
-          {{ if isset .Params "more_pix"}}
-            {{ $folder := .Params.pix_folder}}
-            {{ range .Params.more_pix}}
-              img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
-            {{ end }}
-          {{ end }}
-      {{ partial "footer" .}}
+      {{ if isset .Params "top_content" }}
+        {{ .Params.top_content | safeHTML}}
+      {{else}}
+        img.img-fluid.big_pic src=/images/big_pics/{{.Params.cover}}
+      {{ end }}
+      {{ if isset .Params "more_pix"}}
+        {{ $folder := .Params.pix_folder}}
+        {{ range .Params.more_pix}}
+          img.img-fluid.big_pic src=/images/big_pics/{{$folder }}/{{.}}
+        {{ end }}
+      {{ end }}
+  {{ partial "footer" .}}

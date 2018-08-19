@@ -1,88 +1,82 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container
-      {{ partial "nav" .}}
-      h4.capitalize
-        a href="/{{.Type}}" {{.Type}}
-      .headline style="width: 100%"        
-        h1.short {{ .Title}}
+{{ partial "header" .}}
+.container
+  .headline style="width: 100%"        
+    h1.short {{ .Title}}
+  hr
+  .row
+    .col-md-8.main
+      {{ if isset .Params "top_content" }}
+        {{ .Params.top_content | safeHTML}}
+      {{else}}
+        .big_pic
+          / img.img-fluid src=/images/big_pics/{{.Params.cover}}
+          img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+          .credit
+            {{partial "getCoverCredit.html" . }}
+      {{ end }}
+      .blogdate {{ .Date.Format "2 January 2006" }}
+      .blog style="margin-top: 2.5rem"
+        {{ .Content}}
+      p.blognote
+        | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
+
+      / NOT YET.... (24 March 2018)
+        #disqus_thread style="margin-bottom: 3rem"
+        = javascript
+          /**
+          *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+          *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+          
+          var disqus_config = function () {
+          this.page.url = "{{.URL}}";  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = "{{.UniqueID}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+          };
+          
+          (function() { // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script');
+          s.src = 'https://publicreviewer.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();
+
+
+      {{ if isset .Params "more_pix"}}
+        {{ $folder := .Params.pix_folder}}
+        {{ range .Params.more_pix}}
+          img.img-fluid.big_pic src=/images/big_pics/{{$folder }}/{{.}}
+        {{ end }}
+      {{ end }}
+    .col-md-4.sidebar
+      hr.d-lg-none.d-md-none
+      h2 About Peter Kappus
+      p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
+      a href="/cv" Find out more. 
       hr
-      .row
-        .col-md-8.main
-          {{ if isset .Params "top_content" }}
-            {{ .Params.top_content | safeHTML}}
-          {{else}}
-            .big_pic
-              / img.img-responsive src=/images/big_pics/{{.Params.cover}}
-              img.img-responsive src="{{ trim (partial "getCover.html" . ) "\n"  }}"
-              .credit
-                {{partial "getCoverCredit.html" . }}
+      h2 Contact me
+      p Want to find out more about something you've read?  Got an idea? Can I help with something you're working on?
+      a.btn.btn-primary.btn-lg href="/contact" Let's talk!
+      {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 3}}
+      {{ with $related }}  
+        hr
+        .hidden-sm.hidden-xs
+          h2 Other posts
+          {{ range .}}
+            p
+              a href="{{ .Permalink }}" {{ .Title }}
           {{ end }}
-          .blogdate {{ .Date.Format "2 January 2006" }}
-          .blog style="margin-top: 2.5rem"
-            {{ .Content}}
-          p.blognote
-            | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
+      {{- end -}}            
+      a href="/blog" More &raquo;
+      hr
+      h2 Follow me
+      p
+        a href="http://twitter.com/peterkappus" target="_blank" Twitter
+      p
+        a href="http://linkedin.com/in/peterkappus" target="_blank" LinkedIn
+      p
+        a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
+      p
+        a href="http://instagram.com/abstraktor" target="_blank" Instagram
+        
+  = include partials/relatedContent.html .
 
-          / NOT YET.... (24 March 2018)
-            #disqus_thread style="margin-bottom: 3rem"
-            = javascript
-              /**
-              *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-              
-              var disqus_config = function () {
-              this.page.url = "{{.URL}}";  // Replace PAGE_URL with your page's canonical URL variable
-              this.page.identifier = "{{.UniqueID}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-              };
-              
-              (function() { // DON'T EDIT BELOW THIS LINE
-              var d = document, s = d.createElement('script');
-              s.src = 'https://publicreviewer.disqus.com/embed.js';
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-              })();
-
-
-          {{ if isset .Params "more_pix"}}
-            {{ $folder := .Params.pix_folder}}
-            {{ range .Params.more_pix}}
-              img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
-            {{ end }}
-          {{ end }}
-        .col-md-4.sidebar
-          hr.hidden-lg.hidden-md
-          h2 About Peter Kappus
-          p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
-          a href="/cv" Find out more. 
-          hr
-          h2 Contact me
-          p Want to find out more about something you've read?  Got an idea? Can I help with something you're working on?
-          a.btn.btn-primary.btn-lg href="/contact" Let's talk!
-          {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 3}}
-          {{ with $related }}  
-            hr
-            .hidden-sm.hidden-xs
-              h2 Other posts
-              {{ range .}}
-                p
-                  a href="{{ .Permalink }}" {{ .Title }}
-              {{ end }}
-          {{- end -}}            
-          a href="/blog" More &raquo;
-          hr
-          h2 Follow me
-          p
-            a href="http://twitter.com/peterkappus" target="_blank" Twitter
-          p
-            a href="http://linkedin.com/in/peterkappus" target="_blank" LinkedIn
-          p
-            a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
-          p
-            a href="http://instagram.com/abstraktor" target="_blank" Instagram
-            
-      = include partials/relatedContent.html .
-
-      {{ partial "footer" .}}
+  {{ partial "footer" .}}

@@ -1,11 +1,18 @@
-.pull-right
-  h2
-  {{if or (eq .Title "Get in touch") (eq .Title "Contact Peter") }}
-  a href="/blog" style="display: inline-block; margin-right: 2rem" Blog
-  a href="/cv" CV
-  {{- else -}}
-  a href="/contact" Contact
-  {{- end -}}
-h3
-  a href="/" Peter Kappus
-hr
+nav.navbar.navbar-expand-md.navbar-light.bg-white.px-0
+  a.navbar-brand href="/"  Peter Kappus
+  button.navbar-toggler aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" data-target="#navbarSupportedContent" data-toggle="collapse" type="button" 
+    span.navbar-toggler-icon
+  div style="width: 100%"
+    .float-right
+      #navbarSupportedContent.collapse.navbar-collapse
+        ul.navbar-nav.mr-auto
+          li.nav-item class="{{if (eq .Type "art")}}active{{end}}"
+            a.nav-link href="/art"  Art
+          li.nav-item class="{{if (eq .Type "music")}}active{{end}}"
+            a.nav-link href="/music"  Music
+          li.nav-item class="{{if (eq .Type "cv")}}active{{end}}"
+            a.nav-link href="/cv" CV
+          li.nav-item class="{{if (eq .Type "blog")}}active{{end}}"
+            a.nav-link href="/blog" Blog
+          li.nav-item class="{{if (eq .Type "contact")}}active{{end}}"
+            a.nav-link href="/contact"  Contact

@@ -1,19 +1,8 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container
-      {{ partial "nav" .}}
-      / Don't show the sub-menu on single pages (hacky!)
-      {{ if ne .Type "page"}}
-      h4
-        a href="/{{.Type}}" {{.Type}}
-      {{ end }}
-      .headline style="width: 100%"
-        h1.short {{ .Title}}
-      hr
-      .single_page
-        .row
-          .col-md-12
-            {{ .Content}}
-      {{ partial "footer" .}}
+{{ partial "header" .}}
+.container
+  .headline style="width: 100%"
+    h1.short {{ .Title}}
+  hr
+  .single_page
+    {{ .Content}}
+  {{ partial "footer" .}}

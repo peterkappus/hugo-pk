@@ -1,11 +1,12 @@
 footer
   hr
-  p.pull-right
+  p.float-right
     a href="/colophon" Made in London.
   p.pull-left &copy; {{ now.Format "2006"}}
-script src="/js/jquery.min.js"
+script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"
+script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"
+script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"
 script src="/js/fitty.min.js"
-script src="/js/bootstrap.min.js"
 script src="/js/blazy.min.js"
 script src="/js/jquery.fittext.js"
 script src="/js/flowtype.js"
@@ -19,7 +20,7 @@ script src="{{$js.Permalink}}"
   (function() {
     fitty(".fit");
     //fitty(".cvname")
-    //jQuery("h1").fitText(0.8);
+    jQuery("h1").fitText(1.5);
     jQuery("h1.name").fitText(0.65);
     //jQuery("h1.short").fitText(1.3);
     //jQuery(".short").fitText(0.85);

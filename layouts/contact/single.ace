@@ -1,15 +1,11 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container
-      {{ partial "nav" .}}
-      .headline style="width: 100%"
-        h1.short {{ .Title}}
-      hr
-      .row
-        .col-md-4.main
-          img.img-responsive src="{{ trim (partial "getCover.html" . ) "\n"  }}"
-        .col-md-8.main
-          {{ .Content}}                  
-      {{ partial "footer" .}}
+{{ partial "header" .}}
+  .container
+    .headline style="width: 100%"
+      h1.short {{ .Title}}
+    hr
+    .row
+      .col-md-4.main
+        img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+      .col-md-8.main
+        {{ .Content}}                  
+    {{ partial "footer" .}}

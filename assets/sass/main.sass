@@ -16,16 +16,13 @@
   
 blockquote
   background: #fafafa
-  margin: 5rem 0
   border: 1px solid #999
-  font-size: 2rem
-  padding: 3rem
+  padding: 2.5rem
   h3
     margin: 0
-  li
-    line-height: 3.2rem
-    margin-bottom: 1rem
-    
+  b, strong
+    font-size: 1.5rem
+
 figure
   margin-bottom: 5rem
   h4
@@ -39,8 +36,6 @@ figure
   color: #999
 
 /* e.g. inside a post */
-h1
-  font-size: 6.5rem
 .main
   h2
     margin-top: 4rem
@@ -49,19 +44,10 @@ h1
     margin-top: 5rem
     background: #eee
     padding: 2rem
-    font-size: 1.8rem
   p
     line-height: 28px
     margin-bottom: 25px
-  .job
-    p
-      margin-bottom: 0.5rem
-    ul
-      li
-        line-height: 2.2rem
-        font-size: 1.6rem
-        /*margin-bottom: 8px*/
-      margin-bottom: 10px
+    
 .sidebar
   h2
     margin-top: 0
@@ -79,18 +65,17 @@ h1
     margin-bottom: 0
 
 .big_pic
-  margin-bottom: 5rem
   img
     width: 100%
   /*&:last-of-type
     margin-bottom: 0*/
-
-hr
-  border-bottom: 1.2rem solid #000
+.art .big_pic
   margin-bottom: 2rem
-
-.cv .col-sm-2
-  margin-bottom: 3rem
+  
+hr, nav
+  border-bottom: 0.85rem solid #000
+  .active
+    background: #eee
 
 .flag
   div
@@ -101,31 +86,24 @@ hr
 
 .bigger
   margin-bottom: 3rem
+
 .credit
+  font-size: 1rem
   margin-top: 0.5rem
-  font-size: 1.5rem
   color: #bbb
   float: right
+
 .single_page p
-  font-size: 2.5rem
+  font-size: 1.25rem
   margin-bottom: 2.5rem
 
 .cv
   .profile
     p.top
-      font-size: 2.3rem
-      line-height: 2.8rem
-    p
-      font-size: 1.8rem
-      line-height: 2.5rem
+      font-size: 1.5rem
+      line-height: 1.8rem    
   h2,h4, h3
     margin-top: 0
-  h5
-    margin-bottom: 2rem
-  p
-    margin-bottom: 2rem
-    font-size: 1.5rem
-    line-height: 2rem
   .school
     margin-bottom: 2rem
     h5
@@ -137,7 +115,7 @@ hr
     font-size: 1.8rem
 
 .contact-info
-  margin: 2.5rem 0
+  margin: 2.5rem 0 0 0
   text-align: right
 
 ul.skills
@@ -146,22 +124,28 @@ ul.skills
 
   li
     float: left
-    margin: 0 0 1rem 0
+    margin: 0 0 0.8rem 0
     list-style-type: none
-    font-size: 1.4rem
+    font-size: 1rem
     width: 33%
     display: block
 
-.job .small
-  padding-left: 0.5rem
-  display: inline-block
+.job 
+  margin-bottom: 3rem
+  .small
+    padding-left: 0.5rem
+    display: inline-block
+  h5
+    font-size: 1rem
+    color: #999
+    
 
 .job
   //padding-bottom: 2rem
-  margin-bottom: 20px
 
+  
 .blogdate
-  font-size: 1.5rem
+  font-size: 1rem
   color: #999
   margin: 10px 0 5px 0
   display: block
@@ -212,10 +196,7 @@ ul.skills
   background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9) ),url('/images/memory.png')
   background-position: -30px -30px
   background-attachment: fixed
-
-.navbar
-  margin-bottom: 0 !important
-
+  
 .thumb_grid
   a
     display: block
@@ -227,9 +208,7 @@ ul.skills
   margin-top: 0
   line-height: 3rem 
   h3
-    line-height: 3rem
-  ul, ol
-    margin-bottom: 3rem 
+    line-height: 2.5rem
   img
     width: 100%
 
@@ -242,24 +221,9 @@ h1, h2, h3, h4
   //font-family: /*LeagueSpartanBold,*/ helvetica
   font-weight: bold
   
-h4.nav
-  font-size: 2.5rem
-
-h4
-  font-size: 1.8rem
-
-h4.capitalize
-  text-transform: capitalize
-
 @media(min-width: 990px)
   .container
     width: 990px
-  .thumb_grid a.title
-    min-height: 5rem
-
-.navbar-brand
-  font-size: 4rem
-  font-weight: bold
 
 @media print
   .noprint
@@ -299,6 +263,11 @@ body
   font-size: 19px
   line-height: 1.31578947
   //for fixed nav
-  //margin-top: 50px
+  margin-top: 80px
   
+a 
+  color: #4282c7
   
+.navbar-brand
+  font-size: 1.5rem
+  font-weight: bold

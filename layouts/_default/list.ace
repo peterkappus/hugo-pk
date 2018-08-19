@@ -1,18 +1,14 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container
-      {{ partial "nav" .}}
-      h2.big {{.Title}}
-      hr
-      .bigger 
-        {{.Content}}
-      .row.thumb_grid
-        {{ range .Data.Pages}}
-          .col-md-4
-            a href="{{ .RelPermalink }}"
-              .img.b-lazy data-src="{{ trim (partial "getCover.html" .) "\n" }}"
-            a.title href="{{ .RelPermalink}}" {{ .Title}}
-        {{end}}
-      {{ partial "footer" .}}
+{{ partial "header" .}}
+.container
+  h2.big {{.Title}}
+  hr
+  .bigger 
+    {{.Content}}
+  .row.thumb_grid
+    {{ range .Data.Pages}}
+      .col-md-4
+        a href="{{ .RelPermalink }}"
+          .img.b-lazy data-src="{{ trim (partial "getCover.html" .) "\n" }}"
+        a.title href="{{ .RelPermalink}}" {{ .Title}}
+    {{end}}
+  {{ partial "footer" .}}
