@@ -25,7 +25,7 @@ script src="{{$js.Permalink}}"
     //jQuery("h1.name").fitText(0.65);
     jQuery("h1.cvname").fitText(0.75);
     jQuery("b.headline").fitText(.55);
-    //jQuery(".headline h1").fitText(1.25);
+    jQuery(".headline h1").fitText(1.25);
     
     jQuery(".big").fitText(0.85);
     // jQuery(".home h2").fitText(0.62);

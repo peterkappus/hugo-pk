@@ -1,6 +1,6 @@
 {{ partial "header" .}}
   .container.okrs
-    .headline
+    .top
       .vertical-center
         h1 {{ .Title}}
     hr

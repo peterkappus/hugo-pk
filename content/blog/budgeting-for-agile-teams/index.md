@@ -1,6 +1,6 @@
 ---
 author: p3trk
-featured: true
+featured: false
 categories:
 - Blog
 keywords: [featured]
