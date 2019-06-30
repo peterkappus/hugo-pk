@@ -69,6 +69,12 @@ The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but u
 The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance using an S3 Bucket as the origin. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
 
 
+## HTTPS Certificates
+Follow this guide:
+https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2
+
+If you use docker, make sure to use a python:2 image. The LE script isn't compatible w/ python 3
+
 ## Other stuff...
 ### Image manipulation
 This isn't necessary anymore now that I'm using the built-in resource (image cropping) tools within hugo. But in case you ever need to do it with ImageMagick, here you go:

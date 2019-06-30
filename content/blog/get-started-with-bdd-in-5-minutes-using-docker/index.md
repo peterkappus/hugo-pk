@@ -20,6 +20,7 @@ resources:
       link: https://unsplash.com/photos/mQHEgroKw2k
   
 ---
+*UPDATE (May 2019): The video below has been updated and expanded. Check it out!*
 
 [Behaviour Driven Development (or BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) ensures everyone has the same understanding of how an application should work and gives you a clear indication when a feature is finished. In general, any test-automation dramatically speeds up acceptance and regression testing. 
 
@@ -32,7 +33,7 @@ For more advanced BDD, check out things like the Java-based [Serenity](http://ww
 ## Get started in 5 minutes
 Here's a quick and easy way to set up a BDD environment using [Docker](https://docker.io) and [standalone Selenium containers](https://github.com/SeleniumHQ/docker-selenium). In the video below we create a browser container, connect to it with [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing) so we can see what's happening, then create another container to run Ruby/Capybara and then we test Google to make sure that we see the word "dog" when we search for "puppies".
 
-{{< youtube xjwdaE36oIY >}}
+{{< youtube cPF3GKkBHHY >}}
 
 <br>
 ## Step by step

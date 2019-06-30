@@ -20,3 +20,9 @@ nav.navbar.navbar-expand-md.navbar-light.bg-white.px-0
             a.nav-link href="/music"  Music
           li.nav-item class="{{if (eq .Type "contact")}}active{{end}}"
             a.nav-link href="/contact"  Contact
+.pride-bar style="background: #750787"
+.pride-bar style="background: #004dff"
+.pride-bar style="background: #008026"
+.pride-bar style="background: #ffed00"
+.pride-bar style="background: #ff8c00"
+.pride-bar style="background: #e40303"
