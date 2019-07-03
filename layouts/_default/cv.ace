@@ -1,5 +1,5 @@
 {{ partial "header" .}}
-{{ $available_msg := "Available in <b>April 2019</b> for interim roles in central London." }}
+{{ $available_msg := "Available in <b>Jan 2020</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 .container.main
@@ -246,6 +246,19 @@
       .col-sm-3
         h3 Experience
       .col-sm-9
+        .job
+          h3 Agile & OKR Coach
+          h4 Société Générale Corporate & Investment Banking (SGCIB) 
+          h5 May 2019 - present
+          p Agile & OKR coaching as part of an ambitious agile at scale transformation programme (including 5,000+ people) at one of the worlds biggest oldest banks.
+          ul
+            li Definig transformation MVP (including Target Operating Model) for two tribes
+            li Coaching 15+ teams (250+ people) including product owners and senior leadership
+            li Coaching internal coaches and supporting the UK agile community
+            li Coaching technical and non-technical teams
+            li Agile ways of working, DevOps/code as craft, and agile at scale
+            li Introducting OKRS across multiple tribes
+            li Teams delivering mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.99% availability
         .job
           h3 Agile & OKR Coach / Delivery Manager
           / i.small (Contract)
