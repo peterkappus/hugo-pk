@@ -103,7 +103,7 @@ When the sprint is over and the work has been delivered, the team conducts a **s
 Some teams also have a **pre-planning** session or **backlog refinement** session to ensure the items at the top of the backlog are well-defined and understood by the whole team.
 
 ## Kanban
-The other major agile framework, **Kanban**, comes from another Japanese word which means "signboard". The kanban method originated at Toyota where sign cards would be placed in a stack of automobile parts (e.g. tires) to indicate when the assembly technicians should request more stock. In this way, they reduced excess inventory build up and ensured parts were always available when needed.
+The other major agile framework, **kanban**, comes from another Japanese word which means "signboard". The kanban method originated at Toyota where sign cards would be placed in a stack of automobile parts (e.g. tires) to indicate when the assembly technicians should request more stock. In this way, they reduced excess inventory build up and ensured parts were always available when needed.
 
 In software development, kanban creates a visible workflow of different states and encourages individuals to "pull" work through the system as they have capacity to prevent unfinished work from building up. The four basic steps of kanban are to:
 
@@ -118,7 +118,7 @@ Kanban is useful when you can't predict what's coming next or when you want to u
 
 A kanban board is very useful in showing where work is getting "stuck" so that you can focus on improving those areas and maximising flow.
 
-Many teams using Kanban also use daily standups, demos (or reviews) to share what they've done, and retrospectives to keep improving.
+Many teams using kanban also use daily standups, demos (or reviews) to share what they've done, and retrospectives to keep improving.
 
 Teams often combine elements of both in something called **Scrumban**. In this model, teams may visualise their work and maximise flow (as in kanban) but use the sprint **timebox** to help define clear goals and measure how much work they can deliver in a given time period.
 
