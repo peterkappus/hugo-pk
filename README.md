@@ -70,7 +70,9 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 
 ## HTTPS Certificates
-Follow this guide:
+REMINDER: You've got a [private gist](https://gist.github.com/peterkappus) with a script.
+
+Otherwise, follow this guide:
 https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2
 
 If you use docker, make sure to use a python:2 image. The LE script isn't compatible w/ python 3

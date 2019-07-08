@@ -4,6 +4,7 @@ date: 2019-04-11T19:23:10Z
 categories: blog  
 tags: 
   - project management
+  - agile
 resources:
   - name: cover
     src: jack-hamilton-320934-unsplash.jpg

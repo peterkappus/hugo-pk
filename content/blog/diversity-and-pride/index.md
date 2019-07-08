@@ -3,6 +3,8 @@ title: "On Diversity and Pride"
 date: 2019-06-30T11:09:36Z
 categories: blog  
 featured: true
+tags:
+  - Teams
 resources:
   - name: cover
     src: sharon-mccutcheon-h1RMkGPWMMo-unsplash.jpg
@@ -10,8 +12,6 @@ resources:
       credit: Photo by Sharon McCutcheon on Unsplash
       link: https://unsplash.com/photos/h1RMkGPWMMo
 ---
-
-<span style="color: #999; font-size: 1rem">Note: This is a *DRAFT* post which is still being edited. Help me to [improve it](/contact).</span>
 
 Pride and diversity matter. Much has been written, in the last few years, on how [small diverse groups, perform better](https://www.forbes.com/sites/sianbeilock/2019/04/04/how-diversity-leads-to-better-outcomes/) and [work smarter](
 https://hbr.org/2016/11/why-diverse-teams-are-smarter). Companies and nations invest massively to instil a sense of pride in their people, yet pride cannot exist without diversity, safety and genuine belonging.

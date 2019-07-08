@@ -1,1 +1,3 @@
+/ usage:
+  Usage: {{% markdownify %}} markdown stuff... {{% /markdownify}}
 {{.Inner | markdownify}}
