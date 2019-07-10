@@ -252,13 +252,13 @@
           h5 May 2019 - present
           p Agile & OKR coaching as part of an ambitious agile at scale transformation programme (including 5,000+ people) at one of the world's biggest and oldest banks.
           ul
-            li Definig transformation MVP (including Target Operating Model) for two tribes
-            li Coaching 15+ teams (250+ people) including product owners and senior leadership
+            li Defining transformation MVP (including Target Operating Model) for two tribes
+            li Coaching 10+ teams (200+ people) including product owners and leadership teams
             li Coaching internal coaches and supporting the UK agile community
             li Coaching technical and non-technical teams
-            li Agile ways of working, DevOps/code as craft, and agile at scale
+            li Agile practices, OKRs, DevOps/code as craft, and agile at scale
             li Introducting OKRS across multiple tribes
-            li Teams delivering mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.99% availability
+            li Teams delivering mission-critical  platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability
         .job
           h3 OKR coach
           h4 Various organisations
@@ -267,8 +267,9 @@
           ul
             li On-site training workshops
             li Hourly remote-coaching
+            li Leadership coaching
             li OKR evaluations/auditing
-            li Custom tooling
+            li Custom tooling & configuration
         .job
           h3 Agile & OKR Coach / Delivery Manager
           / i.small (Contract)
@@ -406,13 +407,13 @@
           
           ul
             li Led agile ceremonies and coached in scrum/<b>kanban</b> methods across multiple teams (50+ people)
-            li Multi-million dollar global programme with teams in 4 countries and 6 timezones
+            li Multi-million dollar global programme with teams in 3 regions and 4 countries
             / li Targeting 50 million households at launch
             / li Delivered on time with terrific reception
-            li Managed on-shore, near-shore, and off-shore teams in London, Boston, New York, Bangalore, Munich and Phoenix
+            / li Managed on-shore, near-shore, and off-shore teams in London, Boston, New York, Bangalore, Munich and Phoenix
             li Facilitated agile ceremonies including sprint planning, stand-ups, show &amp; tells, and retrospectives
             / li Allowed teams to define and manage work, provide clear estimates, improve quality, efficiency, and risk mitigation.
-            li Enabled timely, high-quality delivery across responsive web, iOS, and Android
+            li Ensured timely, high-quality delivery across responsive web, iOS, and Android
           
           p <b>Technologies:</b> Jira, Java EE, SDLC, SOA, Scrum, Agile, User Experience (UX), iOS, Android, Responsive Web
           

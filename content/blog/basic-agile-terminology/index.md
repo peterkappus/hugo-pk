@@ -114,7 +114,7 @@ In software development, kanban creates a visible workflow of different states a
 
 Read more about [getting started with kanban](https://medium.com/startup-patterns/kanban-in-5-easy-steps-68e7bd0647b6).
 
-Kanban is useful when you can't predict what's coming next or when you want to use small incremental improvements rather than big changes in your ways of working.
+Kanban is useful when you can't predict what's coming next or when you want to make small incremental improvements rather than big changes in your ways of working.
 
 A kanban board is very useful in showing where work is getting "stuck" so that you can focus on improving those areas and maximising flow.
 
@@ -123,7 +123,7 @@ Many teams using kanban also use daily standups, demos (or reviews) to share wha
 Teams often combine elements of both in something called **Scrumban**. In this model, teams may visualise their work and maximise flow (as in kanban) but use the sprint **timebox** to help define clear goals and measure how much work they can deliver in a given time period.
 
 ## Estimation & Velocity
-Scrum embraces the fact that not all stories are the same size. In this case, a team may estimate the relative size & complexity of a story using **T-shirt sizes** (S,M,L,XL) or **[story points](https://www.mountaingoatsoftware.com/blog/what-are-story-points)**. By adding up how many story points were delivered in a sprint, the teams establish their **velocity**. This number helps teams decide how much to take on in each sprint. Ideally, a team's velocity is constantly increasing as the team matures.
+Scrum embraces the fact that not all stories are the same size. In this case, a team may estimate the relative size & complexity of a story using **T-shirt sizes** (S, M, L, XL) or **[story points](https://www.mountaingoatsoftware.com/blog/what-are-story-points)**. By adding up how many story points were delivered in a sprint, the teams establish their **velocity**. This number helps teams decide how much to take on in each sprint. Ideally, a team's velocity is constantly increasing as the team matures.
 
 In kanban, the goal is usually to slice stories so that they are similar in size and complexity. By measuring the time required to go from idea to implementation (known as **cycle time** or **lead time**) for many stories (or tickets), teams can get very good at predicting how long (on average) a new piece of work will take. This is easier when the work can be standardised.
 
