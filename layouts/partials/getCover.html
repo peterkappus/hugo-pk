@@ -1,12 +1,12 @@
-{{ if (isset .Params "cover") }}
-{{ trim (print "/images/big_pics/"  .Params.cover) "\n" }}
-{{ else }}
-{{ $original := .Resources.GetMatch (printf "%s*" ("cover")) }}
-{{if $original }}
-{{ $options := "800x" }}
-{{/* See options in wide_pic.html*/}}
-{{ .Scratch.Set "image" ($original.Resize $options) }}
-{{ $image := .Scratch.Get "image" }}
-{{ $image.RelPermalink }}
-{{ end }}
-{{ end }}
+{{- if (isset .Params "cover") -}}
+{{- trim (print "/images/big_pics/"  .Params.cover) "\n" -}}
+{{- else -}}
+{{- $original := .Resources.GetMatch (printf "%s*" ("cover")) -}}
+{{- if $original -}}
+{{- $options := "800x" -}}
+{{- /* See options in wide_pic.html*/ -}}
+{{- .Scratch.Set "image" ($original.Resize $options) -}}
+{{- $image := .Scratch.Get "image" -}}
+{{- $image.RelPermalink -}}
+{{- end -}}
+{{- end -}}

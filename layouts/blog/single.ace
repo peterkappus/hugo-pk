@@ -10,7 +10,7 @@
       {{else}}
         .big_pic
           / img.img-fluid src=/images/big_pics/{{.Params.cover}}
-          img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+          img.img-fluid src="{{ partial "getCover.html" . }}"
           .credit
             {{partial "getCoverCredit.html" . }}
       {{ end }}
