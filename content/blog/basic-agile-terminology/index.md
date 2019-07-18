@@ -100,11 +100,11 @@ In scrum, the team commits to what they will do in the sprint in a **sprint plan
 
 Usually every morning, the team has a short (15min maximum) check-in with each other called the **daily stand-up** which is often done standing up near some type of board, screen or other **information radiator** where they can visualise their work in progress (or **WIP**). At the standup, each team member will share what they've done yesterday, what they're committing to doing today, and where they need help from their teammates or the **delivery manager** (sometimes called a **Scrum master** or **Agile master**) to liaise with someone outside the team to remove a **blocker**. It's like a tiny planning and retrospective session covering the previous and current days.
 
-Teams may also update a **burn down chart** every day to show how much work has been completed and how much remains. This helps to see if the team is working at a good pace or if something about the work or workflow needs to be changed. A good burn down should show work being completed at a smooth and continuous rate. 
+Teams may also update a **[burn down chart](https://en.wikipedia.org/wiki/Burn_down_chart)** every day to show how much work has been completed and how much remains. This helps to see if the team is working at a good pace or if something about the work or workflow needs to be changed. A good burn down should show work being completed at a smooth and continuous rate. 
 
-After the designated number of days (usually two weeks) has passed and the committed work has (hopefully) been delivered, the team conducts a **sprint review** (hopefully demonstrating working software to any interested parties). Then they'll hold a full-team **retrospective** to come up with ideas to continually improve their **ways of working** (e.g. the process they follow to do the work). Some people use the term **[Kaizen](https://en.wikipedia.org/wiki/Kaizen)** which means "change for the better" in Japanese.
+After the designated number of days (usually two weeks) has passed and the committed work has (hopefully) been delivered, the team conducts a **sprint review** (hopefully demonstrating working software to any interested parties). Then they'll hold a full-team **retrospective** to come up with ideas to continually improve their **ways of working** (e.g. the process they follow to do the work). 
 
-Some teams also have a **pre-planning** session or **backlog refinement** session to ensure the items at the top of the backlog are well-defined and understood by the whole team.
+Some teams also have a **pre-planning** session or **backlog refinement** session to ensure the items at the top of the backlog are well-defined (meeting the INVEST criteria described above), estimated,  and fully understood by the team.
 
 ## Kanban
 The other major agile framework, **kanban**, comes from another Japanese word which means "signboard". The kanban method originated at Toyota where sign cards would be placed near the bottom of a stack of automobile parts (e.g. tires) to indicate the moment where the assembly technicians should request more stock. In this way, they reduced excess inventory build up and ensured parts were always available when needed.
@@ -136,7 +136,7 @@ Some teams avoid estimating altogether because they believe their work is too va
 Other teams enjoy estimating because it forces them to really dig into each story and ensure they understand all the nuances of how they will deliver it.
 
 ## Continuous improvement
-The most important thing in adopting agile is to **inspect and adapt**. You'll hear this phrase frequently and may also hear **Plan, Do, Check, Adjust** (or PDCA) as a way to describe the continuous process of doing the work, observing how the work happens, and making changes to improve how the work gets done.
+The most important thing in adopting agile is to **inspect and adapt**. You'll hear this phrase frequently and may also hear **Plan, Do, Check, Adjust** (or PDCA) as a way to describe the continuous process of doing the work, observing how the work happens, and making changes to improve how the work gets done. You'll sometimes hear the Japanese word _[kaizen](https://en.wikipedia.org/wiki/Kaizen)_ used to describe this process of continuous improvement.
 
 ## Conclusion
 It can feel daunting in the beginning but as long as you remember to keep talking about ways to improve and keep implementing your ideas and measuring the results, you'll get better and better. This is the heart of agile.
