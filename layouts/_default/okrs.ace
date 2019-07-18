@@ -19,10 +19,11 @@
       .col-md-8
         p Perfect for <b>leadership off-sites</b> and teams just starting with OKRs or looking to "reboot" their OKR practice, this customised, engaging, and highly interactive package includes everything you need to adopt and succeed with OKRs:
         ul
-          li 4 hours of <b>pre-workshop consulting</b> to understand your needs
+          li a few hours of <b>pre-workshop consulting & preparation</b> to learn about your needs and design a customised session for your team
           li A full-day of customised <b>on-site training</b> with the perfect mix of theory, games, and hands-on practice for up to 20 participants
           li Peter's <b>OKR Playbook</b> with clear steps for setting OKRs, running weekly check-ins, and avoiding common pitfalls
           li <b>Follow-up OKR coaching</b> during the quarter to reinforce concepts and answer questions
+          li <b>Review Workshop</b> at the end of the quarter where we'll look at lessons learned and explore what's working well and what we we steps we can take to improve the OKR process moving forward.
         p <a href="/contact">Contact me</a> for a sample agenda, more details, or a customised proposal.
         a.btn.btn-primary.btn-lg href="/contact" Get in touch
     .row
@@ -35,7 +36,7 @@
         p Don't need the whole quarterly package? I can provide half & full-day training on-site in Europe with no pre-planning or ongoing commitment. Using the same engaging activities and games as above, this option lets you mix & match to create one or more training sessions around the following areas:
         ul
           li Introduction to OKRs
-          li A half-day professionally facilitated OKR-setting session (great for leadership teams)
+          li A half-day or full-day professionally facilitated OKR-setting session (great for leadership teams)
           li Sharpen your skills with the wickedly fun "OKR Check-in" game
           li A playful exploration of the inherent paradoxes in your organisation and the underlying common goals
           li A facilitated lean-coffee around OKRs to delve deeper into complex topics
@@ -54,7 +55,7 @@
           li Are your <b>OKR setting workshops</b> rocky?
           li Not sure how to accommodate <b>deadline-based work</b> in your OKRs?
           li Struggling with <b>OKRs that look like tactics</b>? 
-          li Want to do some general OKR Q&A?
+          li Want to do some general OKR <b>Q&A</b>?
         p Use as much or as little time as you need to get clarity, break through tricky issues and get better results with OKRs.
         a.btn.btn-primary.btn-lg href="/contact" Get in touch
     .row
@@ -65,8 +66,8 @@
         h2 About Peter Kappus
       .col-md-8
         p I love helping teams to work better. As a coach, trainer, and engineer I've spent 20+ years helping teams in the UK Government, the BBC, and elsewhere to deliver outstanding results and enjoy the journey along the way. I've worked in a variety of industries including finance, government, media, publishing, bio-tech, advertising and more. 
-        a.btn.btn-primary style="margin-bottom: 1rem" href="/about" Read more about Peter
+        a.btn.btn-primary style="margin-bottom: 1rem" href="/about" Read more about Me
         | &nbsp;
         | &nbsp;
-        a.btn.btn-primary style="margin-bottom: 1rem" href="/cv" Check out Peter's CV
+        a.btn.btn-primary style="margin-bottom: 1rem" href="/cv" Check out my CV
     {{ partial "footer" .}}
