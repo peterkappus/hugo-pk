@@ -13,7 +13,7 @@ resources:
       link: https://unsplash.com/photos/9SewS6lowEU
 ---
 
-Early in my career, when I was getting into "project management", I often felt confused and intimidated by all the terminology I heard people throwing around. I wished there was something simple to explain each term and how they fit together. This is my attempt to write such a thing. I've intentionally avoided "agile" specific words (for now) to focus on more general concepts. 
+Early in my career, when I was getting into "project management", I often felt confused and intimidated by all the terminology I heard people throwing around. I wished there was something simple to explain each term and how they fit together. This is my attempt to write such a thing. I've intentionally avoided "agile" specific words (for now) to focus on more general concepts. _UPDATE_: Check out my [introduction to agile terminology](/blog/a-tour-of-basic-agile-terminology/).
 
 ## Reflecting and planning
 **Work** is the process of turning **resources**  into **outcomes**.
