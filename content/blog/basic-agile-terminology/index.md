@@ -16,7 +16,7 @@ resources:
 ---
 
 Agile concepts often feel quite alien to teams who are used to traditional ways of working, especially when they're involved in a wholesale, large scale "agile transformation" effort. As [John Cutler](https://twitter.com/johncutlefish?lang=en) points out, [agile makes no sense](https://hackernoon.com/agile-makes-no-sense-c8ebbf971012)! :grin: 
-Today I remembered how important it is to give teams an introduction to basic concepts and jargon, so I've written this short guide. You might also enjoy reading my [introduction to basic project management terms](/blog/project-management-terms/).
+While it's best to avoid jargon altogether, there are some basic terms that are useful to know and today I remembered how important it is to introduce teams to those terms and not to assume anyone already knows what they mean, so I've written this short guide. You might also enjoy reading my [introduction to basic project management terms](/blog/project-management-terms/).
  
 Without being exhaustive, this guide aims to be as basic and straight forward as possible. [Let me know](/contact) what I've missed!
 
