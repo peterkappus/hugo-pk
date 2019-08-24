@@ -8,9 +8,8 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 ## Development
 
 ### Using Docker
-
+After building the docker container (above), start it up:
 ```
-# After building the docker container (above), start it up:
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
 ```
 
@@ -19,7 +18,8 @@ Visit: http://localhost:1313
 
 #### Need a newer version of Hugo?
 Delete the old image `docker rmi hugo-pk`
-Then rebuild via `docker build -t hugo-pk`
+Note, you may need to run `docker images` to find the image IDs and containers using this image and delete them all.
+Then rebuild via `docker build -t hugo-pk .`
 
 ### Deployment
 ```
