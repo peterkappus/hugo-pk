@@ -1,5 +1,5 @@
 ---
-title: "OKRs for Research and Operations Teams"
+title: "OKRs for Research, QA, Operations, and Support"
 date: 2019-08-24T18:55:14Z
 categories: blog  
 resources:
@@ -11,7 +11,7 @@ resources:
 
 ---
 >
-'Tain't what you do, it's the way that you do it."  &mdash; Ella Fitzgerald</span>
+"'Tain't what you do, it's the way that you do it." &ndash; Ella Fitzgerald</span>
 
 Teams involved in scientific research, operations, QA, and customer support often struggle to adopt OKRs. I recently had the privilege of training a group of physicists, mathematicians, and computer scientists in Oxford about OKRs. These teams were performing complex quantitative modelling and scientific research activities as well as providing operational & production support for those research activities. 
 
