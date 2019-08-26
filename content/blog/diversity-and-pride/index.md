@@ -2,7 +2,6 @@
 title: "On Diversity and Pride"
 date: 2019-06-30T11:09:36Z
 categories: blog  
-featured: true
 tags:
   - Teams
 resources:

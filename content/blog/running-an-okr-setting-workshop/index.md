@@ -35,9 +35,9 @@ Now that you have a single, inspiring, important, scary objective (or maybe two)
 
 For example, if your objective is to "Become the world's foremost expert on classic synthesizers". You might have a metric around "Number of synth models played this quarter" or, to start forming it as a Key Result: "Have played X different synth models".
 
-A good test of your metric is to pretend that you're mid-way through the next quarter. Does looking at this metric help you decide what do do this week? Or does it feel silly, irrelevant, or even annoying in the context of your "real" goals? If you don't think it would feel important and empowering to talk about this every week, pick something else.
+A good test of your metric is to pretend that you're mid-way through the next quarter. Does looking at this metric help you decide what do do this week? Or does it feel silly, irrelevant, or even annoying in the context of your "real" goals? If it won't feel essential and empowering to talk about this every week, pick something else.
 
-Once you've written these down, do some affinity mapping and dot-voting, then discuss as before to narrow your metrics down to 2-3 per objective.
+Once you've written these down, do some consensus building (maybe using affinity mapping and dot-voting) and discuss as before to narrow your metrics down to 2-3 per objective.
 
 ### Add targets to make metrics into Key Results
 Once you've agreed the right metrics for your objectives, it's time to set some specific targets. This is what sets a metric or KPI apart from a Key Result. It's also the place where you can really dial up or down the level of challenge to achieve the right level of "motivational discomfort"! :wink:
@@ -65,12 +65,12 @@ Look at that crisp, beautifully crafted OKR. Exciting, isn't it? Before you run 
 2. Do the Key Results make sense?
 3. Are they clear and unambiguous?
 4. Are they easy to measure?
-5. Are they actually results and not just "tasks to do"?
+5. Are they actually results and not just "[tasks to do](/blog/okrs-are-not-tactics)"?
 6. Are they tough and inspiring?
-3. Are you happy to measure your team's success this quarter based on reaching 70-90% of this goal (and nothing else)?
+3. Are you happy to measure your team's success this quarter based on reaching 70-90% of these key results (and nothing else)?
 
 ## Share, align, and clarify
-If you've answered "yes" to most of the above, they're ready to show to other teams and stakeholders for feedback. This is your chance to gather valuable feedback, give feedback to others and generally align your goals across the entire organisation. You might discover that you need to tweak some of the language or the targets themselves. You may have missed something major or included something which another part of your organisation didn't expect or is already doing. Spend a couple of weeks debating further within your team, across teams, and with other stakeholders to achieve precise alignment and crystal clear language. Remember to disagree and commit at scale if necessary. Warning: this is easier said than done!
+If you've answered "yes" to most of the above, then they're ready to show to other teams and stakeholders for feedback. This is your chance to gather valuable feedback, give feedback to others and generally align your goals across the entire organisation. You might discover that you need to tweak some of the language or the targets themselves. You may have missed something major or included something which another part of your organisation didn't expect or is already doing. Spend a couple of weeks debating further within your team, across teams, and with other stakeholders to achieve precise alignment and crystal clear language. Remember to disagree and commit at scale if necessary. Warning: this is easier said than done!
 
 
 ## Summary

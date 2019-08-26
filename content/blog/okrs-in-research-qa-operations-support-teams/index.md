@@ -2,6 +2,7 @@
 title: "OKRs for Research, QA, Operations, and Support"
 date: 2019-08-24T18:55:14Z
 categories: blog  
+featured: true
 resources:
   - name: cover
     src: jonas-verstuyft-flsFQ3UTuKw-unsplash.jpg

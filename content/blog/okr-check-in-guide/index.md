@@ -2,9 +2,9 @@
 title: "A guide to OKR check-ins"
 date: 2019-03-31T17:16:06Z
 categories: blog  
+featured: true
 tags:
   - OKRs
-featured: true
 aliases: [/blog/okr-check-ins, /blog/okr-check-in-guide]
 resources:
   - name: cover
@@ -14,7 +14,6 @@ resources:
       link: https://unsplash.com/photos/nNM9dALmmOQ
 
 ---
-<small style="color: #888">DRAFT - This post is still being refined. You can make comments [here](https://paper.dropbox.com/doc/A-guide-to-OKR-check-ins--AabPYQ6H9041XaAcFBVzKEo6Ag-PcNgGH7da8TkWiAAPj3ww) or [contact me](/contact). Thanks for your suggestions!</small>
 
 While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your daily work impacts your **Key Results** or, more accurately, how it impacts your _confidence_ in delivering those key results.
 

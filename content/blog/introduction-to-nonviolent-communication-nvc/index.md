@@ -11,7 +11,6 @@ tags:
 keywords: [featured]
 date: "2018-05-12"
 draft: false
-featured: true
 resources:
 - name: cover
   params:
