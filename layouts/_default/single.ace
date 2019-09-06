@@ -16,8 +16,24 @@
       {{ if isset .Params "top_content" }}
         {{ .Params.top_content | safeHTML}}
       {{else}}
-        img.img-fluid.big_pic src=/images/big_pics/{{.Params.cover}}
+        {{if isset .Params "cover"}}
+          img.img-fluid.big_pic src=/images/big_pics/{{.Params.cover}}
+        {{else}}
+          .big_pic
+            / img.img-fluid src=/images/big_pics/{{.Params.cover}}
+            img.img-fluid src="{{ partial "getCover.html" . }}"
+            .credit
+              {{partial "getCoverCredit.html" . }}
+        {{- end }}
       {{ end }}
+      
+      // Show everything in more_pix folder
+      {{ range .Resources.ByType "image" }}
+        {{if hasPrefix .Name "more_pix"}}
+          img src="{{(.Resize "800x").RelPermalink}}" style="height: 80vh; margin-bottom: 3rem"
+        {{- end}}
+      {{- end }}
+      
       {{ if isset .Params "more_pix"}}
         {{ $folder := .Params.pix_folder}}
         {{ range .Params.more_pix}}

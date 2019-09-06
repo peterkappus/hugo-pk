@@ -18,7 +18,7 @@ Visit: http://localhost:1313
 
 #### Need a newer version of Hugo?
 Delete the old image `docker rmi hugo-pk`
-Note, you may need to run `docker images` to find the image IDs and containers using this image and delete them all.
+Note, you may need to run `docker images | grep hugo-pk` to find the image IDs and containers using this image and delete them all.
 Then rebuild via `docker build -t hugo-pk .`
 
 ### Deployment
@@ -78,6 +78,9 @@ https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-clo
 If you use docker, make sure to use a python:2 image. The LE script isn't compatible w/ python 3
 
 ## Other stuff...
+### Converting SVG to JPG
+`cat infile.svg | docker run -i dbtek/librsvg rsvg-convert -f png -w 1600 > outfile.png`
+
 ### Image manipulation
 This isn't necessary anymore now that I'm using the built-in resource (image cropping) tools within hugo. But in case you ever need to do it with ImageMagick, here you go:
 
