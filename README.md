@@ -10,7 +10,7 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 ### Using Docker
 After building the docker container (above), start it up:
 ```
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache
 ```
 
 Visit: http://localhost:1313

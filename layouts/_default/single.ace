@@ -30,7 +30,7 @@
       // Show everything in more_pix folder
       {{ range .Resources.ByType "image" }}
         {{if hasPrefix .Name "more_pix"}}
-          img src="{{(.Resize "800x").RelPermalink}}" style="height: 80vh; margin-bottom: 3rem"
+          img src="{{(.Resize "1600x").RelPermalink}}" style="width: 100%; margin-bottom: 3rem"
         {{- end}}
       {{- end }}
       
