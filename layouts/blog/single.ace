@@ -67,9 +67,10 @@
       p
         a.btn.btn-primary href="/okr-consulting" Learn about OKR coaching
       |     
-      hr
-      h2 Subscribe
-      = include partials/mailchimpSignup.html .
+      /
+        hr
+        h2 Subscribe
+        = include partials/mailchimpSignup.html .
       /
         h2 Please share
         .share
