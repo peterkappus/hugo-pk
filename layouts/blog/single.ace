@@ -60,21 +60,23 @@
       h2 About Peter Kappus
       p Peter Kappus is an agile & <a href="/okrs">OKR coach</a>, <a href="/cv">business transformation consultant</a>, and <a href="https://github.com/peterkappus">digital tinkerer</a>. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
       p
-        a.btn.btn-primary href="/contact" Get in touch  
-      
+        a.btn.btn-primary href="/contact" Let's talk!        
       hr
       h2 OKR Coaching
       p Interested in on-site or remote OKR training & coaching to help you get the most from OKRs?
       p
         a.btn.btn-primary href="/okr-consulting" Learn about OKR coaching
-          
+      |     
       hr
-      h2 Please share
-      .share
-        a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
-        a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
-        a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
-        a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
+      h2 Subscribe
+      = include partials/mailchimpSignup.html .
+      /
+        h2 Please share
+        .share
+          a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
+          a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
+          a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
+          a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
        /
         / Follow...
         .share

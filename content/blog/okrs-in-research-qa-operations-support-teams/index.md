@@ -16,7 +16,7 @@ resources:
 >
 "'Tain't what you do, it's the way that you do it." &ndash; Ella Fitzgerald</span>
 
-Teams involved in scientific research, operations, QA, and customer support often struggle to adopt OKRs. I recently had the privilege of training a group of physicists, mathematicians, and computer scientists in Oxford about OKRs. These teams were performing complex quantitative modelling and scientific research activities as well as providing operational & production support for those research activities. 
+Teams involved in scientific research, operations, QA, and customer support often struggle to adopt OKRs. I recently had the privilege of training a group of physicists, mathematicians, and computer scientists about OKRs. These teams were performing complex quantitative modelling and scientific research activities as well as providing operational & production support for those research activities. 
 
 Previously I worked with production support engineering teams at the BBC who were responsible for keeping BBC television on the air.
 

@@ -55,3 +55,6 @@ script src="{{$js.Permalink}}"
       ga('send', 'pageview');
       }
   })();
+  
+script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"
+script type="text/javascript" window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us1.list-manage.com","uuid":"10ffa78e08f6e78889f89ddb0","lid":"36bceac653","uniqueMethods":true}) })

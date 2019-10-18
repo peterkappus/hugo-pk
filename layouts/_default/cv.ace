@@ -100,14 +100,14 @@
 
           / financial services payment processing
 
+          li Objectives & Key Results (OKRs)
+          li Agile coaching & delivery
           li Continuous improvement
           li Stakeholder management
           li Legacy transformation
-          li Objectives & Key Results (OKRs)
-          / li Project / Programme / Portfolio management
+          li Programme / Portfolio management
           / li Change management training
           li Data-driven decision making
-          li Lean / agile coaching & delivery
           li Kanban / Scrum
           / li Lean operations
           li Agile finance <!--Budgeting <small>(Beyond Budgeting)</small>-->
@@ -127,7 +127,7 @@
           li Reporting & governance
           / li Rapid prototyping
           li Team leadership & motivation
-          li Liberating Structures
+          / li Liberating Structures
           / li Product / service management
           / li Nonviolent communication
           / li Ruby on Rails, HTML/JS/CSS
@@ -225,7 +225,7 @@
         h3 Technical Skills
       .col-sm-9
         ul.skills
-          li Linux DevOps
+          li Basic Linux DevOps
           li HTML/CSS/JavaScript
           li Ruby on Rails, Slim
           li Docker / Vagrant
@@ -250,20 +250,18 @@
           h3 Agile & OKR Coach
           h4 Société Générale Corporate & Investment Banking (SGCIB) 
           h5 May 2019 - present
-          p Agile & OKR coaching as part of an ambitious agile at scale transformation programme (including 5,000+ people) at one of the world's biggest and oldest banks.
+          p Lead Agile and principle OKR coach across two tribes as part of an ambitious Agile at Acale transformation programme with one of the world's biggest and oldest investment banks.
           ul
             li Defining transformation MVP (including Target Operating Model) for two tribes
-            li Coaching 10+ teams (200+ people) including product owners and leadership teams
+            li Coaching multiple teams including product owners and leadership
             li Coaching internal coaches and supporting the UK agile community
-            li Coaching technical and non-technical teams
-            li Agile practices, OKRs, DevOps/code as craft, and agile at scale
-            li Introducting OKRS across multiple tribes
-            li Teams delivering mission-critical  platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability
+            li Coaching technical and non-technical teams in agile practices, OKRs, and continuous improvement
+            li Teams delivering mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability
         .job
           h3 OKR coach
           h4 Various organisations
           h5 Nov 2018 - Present
-          p Providing OKR training and coaching for various organisations including <b>Médecins Sans Frontières</b>, numerous mid-sized SaaS companies, and more.
+          p Providing OKR training and coaching for various organisations including <b>Médecins Sans Frontières</b>, a global asset management company and numerous start-ups and mid-sized organisations
           ul
             li On-site training workshops
             li Hourly remote-coaching

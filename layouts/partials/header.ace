@@ -24,6 +24,9 @@ html lang="en"
     link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous"
     {{ $style := resources.Get "sass/main.sass" | toCSS | minify | fingerprint }}
     link rel="stylesheet" href="{{ $style.Permalink }}"
+    {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
   body
     .container.fixed-top
       {{if (ne .Type "home")}}

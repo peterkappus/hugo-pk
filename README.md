@@ -10,11 +10,8 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 ### Using Docker
 After building the docker container (above), start it up:
 ```
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache && sleep 5 && open http://localhost:1313
 ```
-
-Visit: http://localhost:1313
-
 
 #### Need a newer version of Hugo?
 Delete the old image `docker rmi hugo-pk`
