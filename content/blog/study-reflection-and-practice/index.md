@@ -32,11 +32,11 @@ In my experience, we too often neglect reflection and, therefore, our practice n
 > Study without practice is like buying new running shoes but never leaving the house.
 <!-- > Study without practice is like reading a travel guide but never leaving the house.-->
 
-It struck me that if this technique is good enough for freeing ourselves from the shackles of [samsara](https://en.wikipedia.org/wiki/Saṃsāra) and [dukkha](https://en.wikipedia.org/wiki/Dukkha) then it's probably good enough for learning things like OKRs, and agile ways of working.
+It struck me that if this technique is good enough for freeing ourselves from the shackles of [samsara](https://en.wikipedia.org/wiki/Saṃsāra) and [dukkha](https://en.wikipedia.org/wiki/Dukkha) then it's probably good enough for learning things like OKRs and agile ways of working.
 
-I'm currently working with several teams who've been through a number of "transformation" programmes and an even greater number of  agile coaches. One consistent theme I've noticed is that everyone thinks they're "doing agile" without really reflecting or decide how to _be_ agile. In other words, most of these teams have _studied_ agile ways of working, but they haven't really _reflected_ and decided how they will change their _practice_ in order to improve. 
+I'm currently working with several teams who've been through a number of transformation programmes and an even greater number of  agile coaches. One consistent theme I've noticed is that everyone thinks they're "doing agile" without really deciding how to _be_ agile. In other words, most of these teams have _studied_ agile ways of working, but they haven't really _reflected_ and decided how to change their _practice_ in order to improve.  
 
-Most of my coaching with these teams consists of inviting them to first reflect on what they've already learned and then to take ownership of their practice and make adjustments that they believe will lead to improvement.
+Most of my coaching with these teams consists of inviting them to first reflect on what they've already learned and then to take ownership of their practice and make adjustments that they believe will lead to improvement. Several teams are now _owning and adjusting_ their practice and the difference is huge.
 
 After doing some research, I found a number of parallels with [Reflective Practice](https://en.wikipedia.org/wiki/Reflective_practice) and even an early reference to [What? So what? Now what?](/blog/what-so-what-now-what) taken from Terry Borton's 1970 reading of [Gestalt therapy](https://en.wikipedia.org/wiki/Gestalt_therapy), there are even a number of [learning cycles](https://en.wikipedia.org/wiki/Learning_cycle) very reminiscent of the (now infamous) "[build, measure, learn](https://en.wikipedia.org/wiki/Lean_startup#Build-Measure-Learn)" loop.
 
