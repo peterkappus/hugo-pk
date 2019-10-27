@@ -10,7 +10,8 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 ### Using Docker
 After building the docker container (above), start it up:
 ```
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache && sleep 5 && open http://localhost:1313
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache 
+open http://localhost:1313
 ```
 
 #### Need a newer version of Hugo?
@@ -19,18 +20,10 @@ Note, you may need to run `docker images | grep hugo-pk` to find the image IDs a
 Then rebuild via `docker build -t hugo-pk .`
 
 ### Deployment
-```
-#generate the files
-docker run --rm -it -v "$PWD":/src -v "$PWD"/public:/target hugo-pk
-
-# set your AWS credentials...
-export AWS_ID=<YOUR AWS KEY ID>
-export AWS_SECRET=<YOUR AWS KEY SECRET>
-
-#upload and set permissions, remove deleted files
-docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws s3 sync . s3://www.peterkappus.com --delete --acl=public-read --exclude=".git*"
-
-```
+Copy `secrets.sample.env` to `secrets.env`
+Add your AWS ID and secret key.
+Verify the bucket name in `deploy.sh`
+Run `./deploy.sh` to generate the site and deploy it.
 
 #### Deploying without Docker
 You can install `s3cmd` locally and run the following:
