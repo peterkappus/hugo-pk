@@ -34,7 +34,7 @@ In my experience, we too often neglect reflection and, therefore, our practice n
 
 It struck me that if this technique is good enough for freeing ourselves from the shackles of [samsara](https://en.wikipedia.org/wiki/Saṃsāra) and [dukkha](https://en.wikipedia.org/wiki/Dukkha) then it's probably good enough for learning things like OKRs and agile ways of working.
 
-I'm currently working with several teams who've been through a number of transformation programmes and an even greater number of  agile coaches. One consistent theme I've noticed is that everyone thinks they're "doing agile" without really deciding how to _be_ agile. In other words, most of these teams have _studied_ agile ways of working, but they haven't really _reflected_ and decided how to change their _practice_ in order to improve.  
+I'm currently working with several teams who've been through a number of transformation programmes and an even greater number of  agile coaches. One  theme I've noticed is teams saying they're "doing agile" without really considering how to _be_ agile. In other words, most of these teams have _studied_ agile ways of working, but they haven't really _reflected_ and decided how to change their _practice_ in order to improve.  
 
 Most of my coaching with these teams consists of inviting them to first reflect on what they've already learned and then to take ownership of their practice and make adjustments that they believe will lead to improvement. Several teams are now _owning and adjusting_ their practice and the difference is huge.
 
