@@ -3,16 +3,16 @@
   h1.name Peter Kappus
   .row style="margin-bottom: 1rem"
     .col-sm-12
-      a href="/blog/on-diversity-and-pride"
-        .pride-bar style="background: #750787"
-        .pride-bar style="background: #004dff"
-        .pride-bar style="background: #008026"
-        .pride-bar style="background: #ffed00"
-        .pride-bar style="background: #ff8c00"
-        .pride-bar style="background: #e40303"
-  
-  / removed for pride time 
-  / hr
+      / turn off for the sombre months...
+        a href="/blog/on-diversity-and-pride"
+          .pride-bar style="background: #750787"
+          .pride-bar style="background: #004dff"
+          .pride-bar style="background: #008026"
+          .pride-bar style="background: #ffed00"
+          .pride-bar style="background: #ff8c00"
+          .pride-bar style="background: #e40303"
+      / back on...
+      hr
   .row style="margin-bottom: 1rem"
     .col-md-6
       a href="/about"
@@ -24,9 +24,9 @@
           h2
             a href="/about" About
         h2
-          a href="/okr-coaching" OKR Consulting
-        h2
           a href="/cv" Experience
+        h2
+          a href="/okr-coaching" OKR Consulting
         h2
           a href="/blog" Blog
         h2
