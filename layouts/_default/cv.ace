@@ -24,8 +24,8 @@
             document.write("<a class='noprint_url' href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
           br
           a.noprint_url href="http://kapp.us/cv" http://kapp.us/cv
-          p.hidden-print
-          p.hidden-print
+          p.noprint
+          p.noprint
             a href="/PeterKappus.pdf"
               span.fa.fa-download aria-hidden="true" style="padding-right: .2rem"
               | Download PDF
@@ -252,10 +252,10 @@
           h5 May 2019 - present
           p Lead Agile and principle OKR coach across two tribes as part of an ambitious Agile at Scale transformation programme with one of the world's biggest and oldest investment banks.
           ul
-            li Defining transformation MVP (including Target Operating Model) for two tribes
+            li Defining transformation MVP (including Target Operating Model) for two tribes (150+ people) spanning 5 regions
             li Coaching multiple teams including product owners, delivery managers, and leadership
             li Coaching internal coaches and supporting the UK agile community
-            li Coaching technical and non-technical teams in agile practices, OKRs, and continuous improvement
+            li Coaching technical and non-technical teams in agile practices including backlog refinement, story mapping, Definition of Done, Definition of Ready, Jira, retrospectives, estimation & velocity, Scrum/Kanban/Scrumban, OKRs, and continuous improvement
             li Teams delivering mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability
         .job
           h3 OKR coach
@@ -524,5 +524,5 @@
         a href="https://docs.google.com/forms/d/e/1FAIpQLSc1RpDfjaDp42cFMfwPGxO5iRvZvted36By-7t3nUiQzrLV1g/viewform?usp=sf_link" target="_blank" Give feedback on this CV.
         / a href="/contact" Contact me now!
         {{ end }}
-        .hidden-print
+        .noprint
         {{ partial "footer" .}}
