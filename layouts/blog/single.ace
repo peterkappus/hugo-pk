@@ -65,21 +65,23 @@
       h2 OKR Coaching
       p Interested in on-site or remote OKR training & coaching to help you get the most from OKRs?
       p
-        a.btn.btn-primary href="/okr-consulting" Learn about OKR coaching
+        a href="/okr-consulting" Learn about OKR coaching
       |     
       /
-        hr
-        h2 Subscribe
-        = include partials/mailchimpSignup.html .
+      hr
+      h2 Keep in touch!
+      p.small Sign up for tips & tools on OKRs, continuous improvement, and a bit of art & music. Unsubscribe anytime.
+      = include partials/mailchimpSignup.html .
+      hr
+      h2 Please share
+      .share
+        a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
+        a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
+        a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
+        a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
       /
-        h2 Please share
-        .share
-          a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
-          a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
-          a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
-          a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
-       /
-        / Follow...
+        hr
+        h2 Follow me!
         .share
           a.fab.fa-twitter href="http://twitter.com/peterkappus"
           a.fab.fa-linkedin href="http://linkedin.com/in/peterkappus"
