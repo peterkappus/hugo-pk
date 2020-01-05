@@ -24,13 +24,13 @@
           h2
             a href="/about" About
         h2
-          a href="/cv" Experience
+          a href="/cv" Experience (CV)
         h2
-          a href="/okr-coaching" OKR Consulting
+          a href="/okr-coaching" OKR consulting
         h2
           a href="/blog" Blog
         h2
-          a href="/contact" Contact
+          a href="/contact" Contact me
         /
           h2
             a href="/music" Music
