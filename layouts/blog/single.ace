@@ -65,43 +65,44 @@
       h2 OKR Coaching
       p Interested in on-site or remote OKR training & coaching to help you get the most from OKRs?
       p
-        a.btn.btn-primary href="/okr-consulting" Learn about OKR coaching
-      |     
+        a href="/okr-consulting" Learn about OKR coaching
+      hr
+      h2 Please share
+      .share
+        a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
+        a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
+        a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
+        a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
       /
         hr
-        h2 Subscribe
-        = include partials/mailchimpSignup.html .
-      /
-        h2 Please share
-        .share
-          a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
-          a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
-          a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
-          a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
-       /
-        / Follow...
+        h2 Follow me!
         .share
           a.fab.fa-twitter href="http://twitter.com/peterkappus"
           a.fab.fa-linkedin href="http://linkedin.com/in/peterkappus"
           a.fab.fa-instagram href="http://instagram.com/abstraktor"
           a.fab.fa-soundcloud href="http://soundcloud.com/peterkappus"
       hr
+      {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 6}}
+      {{ with $related }}  
+      .d-none.d-lg-block.d-md-block.otherPosts
+        h2 Other posts
+        {{ range .}}
+        .row.no-gutters style="margin-bottom: 1rem"
+          .col-sm-6
+            a href="{{ .RelPermalink }}"
+              img src="{{ partial "thumbnail_cover" . }}" style="width: 100%"
+          .col-sm-6 style="padding-left: 0.5rem"
+            p
+              a href="{{ .Permalink }}" {{ .Title }}
+        {{ end }}
+        a href="/blog" More &raquo;
+      {{- end -}} 
+      hr
       .sticky
-        {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 6}}
-        {{ with $related }}  
-        .d-none.d-lg-block.d-md-block.otherPosts
-          h2 Other posts
-          {{ range .}}
-          .row.no-gutters style="margin-bottom: 1rem"
-            .col-sm-6
-              a href="{{ .RelPermalink }}"
-                img src="{{ partial "thumbnail_cover" . }}" style="width: 100%"
-            .col-sm-6 style="padding-left: 0.5rem"
-              p
-                a href="{{ .Permalink }}" {{ .Title }}
-          {{ end }}
-          a href="/blog" More &raquo;
-        {{- end -}}            
+        h2 Keep in touch!
+        p.small Sign up for tips & tools on OKRs, continuous improvement, and a bit of art & music. Unsubscribe anytime.
+        = include partials/mailchimpSignup.html .
+                   
       
         
   = include partials/relatedContent.html .
