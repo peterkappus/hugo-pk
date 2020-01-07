@@ -1,5 +1,5 @@
 {{ partial "header" .}}
-{{ $available_msg := "Available in <b>Jan 2020</b> for interim roles in central London." }}
+{{ $available_msg := "Available in <b>Mar 2020</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 .container.main
@@ -38,26 +38,9 @@
       .col-sm-9.profile
         // /Transformation
         p.top A versatile, innovative, agile/OKR transformation coach and programme, portfolio delivery lead with a natural servant leader approach, I bring strong technical and data skills, a passion for creative problem-solving, and 20+ years of experience spanning finance, media, government, and more.
-
-        // /Developer Advocate
-        / p.top A versatile, innovative, programme/portfolio delivery manager, agile/OKR coach, and engineering advocate, with a natural servant-leader approach, I bring  <!-- and <b>certified scrum master</b> --> strong technical and data skills, a passion for creative problem-solving, and 20+ years of experience <!--delivering value for a range of organisations--> spanning financial services, media, government, and more.
-        
-        // / strategy?
-        / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech.
-
         p From individual contributors to C-Level executives, I love helping individuals, teams, and entire organisations to challenge the status quo, creating a culture of continuous improvement. Through adoption of lean/agile methods, cutting-edge technical practices, and powerful change management frameworks like OKRs and Liberating Structures, I enable lasting positive change while rapidly delivering to the broader organisational context and strategy. 
         p I do this in a way that is sustainable, effective, and even fun.
-        
-        / p A natural servant-leader, I create cross-functional high-performing teams and help them to <!--teams to explore and apply innovative managerial, strategic, and technical solutions to--> deliver outstanding digital products & services that delight customers and increase profitability. I create a culture of continuous, measurable improvement through careful critical thinking, strong interpersonal skills, and creative innovation. My strong goal-setting and strategic alignment skills (e.g. OKRs) combined with a relentless focus on commercial outcomes and financial responsibility (looking after budgets in excess of £150m) ensure outstanding results and highly engaged teams.
 
-        / p I'm happy to roll up my sleeves and build my own tools or try new technologies and ways of working. I create strong internal communities of practice and nurture lasting positive change while rapidly understanding and delivering to the broader organisational context and strategy.
-
-        / p I combine deep technical understanding with excellent communication and leadership skills to <!--work with both in-house teams and external vendors locally and globally to deliver best-of-breed digital products which delight customers and help clients to succeed. Adept at providing--> provide robust, bespoke processes which minimise risk, navigate complex interdependent systems, and meet diverse requirements from multiple lines of business <!--often with competing agendas,--> while providing transparency and predictability throughout.
-
-        / p Possessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
-
-        / p I combine deep, hands-on technical expertise with excellent communication and leadership skills to influence and engage participants from individual contributors to senior stakeholders bringing about steady, measurable, constant improvement in complex, <!-- highly political --> dynamic environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
-        / p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
 
 
     .row
@@ -65,41 +48,9 @@
         hr
     .row
       .col-sm-3
-        h3 Skills
+        h3 Delivery Skills
       .col-sm-9
         ul.skills
-          / Gov Big-data Gig
-            li Lean/Agile Delivery
-            li Scrum / Kanban
-            li Portfolio/Programme Delivery
-            li Scrum &amp; kanban (CSM)
-            li Adaptive risk management
-            li Stakeholder management
-            li Product/service management
-            li Roadmapping & reporting
-            li Data analysis / visualisation
-            li Continuous delivery
-            li Jira, Trello, Pivotal Tracker, etc.
-            li Ruby / Python / Java
-            li Rapid prototyping
-            li Cloud infrastructure (AWS)
-            li Code as infrastructure
-            li Basic Linux DevOps
-            li Workshopping / facilitation
-            li Systems thinking, cynefin
-            li Matrix Management
-            li Business Intelligence (BI)
-            li Accounting / finance
-            li Process design / modeling
-            li Goal Setting / Strategy
-            li Behaviour Driven Dev (BDD)
-            li User Centred Design (UX)
-            li Source control (git)
-            li Service Oriented Architecture
-            li HTML / CSS / javascript
-
-          / financial services payment processing
-
           li Objectives & Key Results (OKRs)
           li Agile coaching & delivery
           li Continuous improvement
@@ -132,91 +83,7 @@
           / li Nonviolent communication
           / li Ruby on Rails, HTML/JS/CSS
 
-          /
-            li Lean / agile delivery
-            li Portfolio / programme delivery
-            li Nonviolent communication
-            li Stakeholder management
-            li Goal setting / strategy
-            li User centred design
-            li Risk management
-            li Budgeting / business planning
-            li Systems thinking / Cynefin
-            li Roadmapping & reporting
-            li Rapid prototyping
-            li Team leadership & motivation
-            li Accounting / finance
-            li Product / service management
-            / li Ruby on Rails, HTML/JS/CSS
-
-
-          /
-            li Lean/Agile Delivery
-            li Portfolio/Programme Delivery
-            li Scrum &amp; kanban (CSM)
-            / li Team setup & turn-around
-            / Teambuilding
-            / li Strategic cloud hosting
-            / li Open source software
-            / li Improving ways of working
-            li Adaptive risk management
-            li Stakeholder management
-            li Product/service management
-            li Roadmapping & reporting
-            li Data analysis / visualisation
-            li Continuous delivery
-            li Jira, Trello, Pivotal Tracker, etc.
-            li Ruby / Python / Java
-            li Rapid prototyping
-            li Cloud infrastructure (AWS)
-            li Code as infrastructure
-            li Basic Linux DevOps
-
-            / li Agile governance
-            / li Digital service design
-            / li Agile / Lean coaching
-            / li Business planning & reporting
-            / li Business transformation
-            li Workshopping / facilitation
-            / li Target operating model (TOM)
-
-            / FINANCE
-            / NOTE THE INDENT to comment these out...
-              li Investment banking
-              li Forex (cash + options)
-              li Regulated Financial Services
-
-            li Systems thinking, cynefin
-            / li Objectives & Key Results (OKRs)
-            li Matrix Management
-            / li Management Information
-            / li Management Information (MI)
-            li Business Intelligence (BI)
-            li Accounting / finance
-            li Process design / modeling
-            li Goal Setting / Strategy
-            / li Impact Mapping
-            / li Test Automation
-            / li Experience Working Globally
-            / li Nonviolent Communication
-            li Behaviour Driven Dev (BDD)
-            / li Cucumber, Capybara, PhantomJS
-            / li JIRA &amp; Greenhopper
-            / li Medical Device Software
-            / li Mobile Development
-            li User Centred Design (UX)
-            / li Social Media Marketing
-            / li Adobe CQ
-            / li Digital Media Strategy
-            / li (Un) Structured data
-            li Source control (git)
-            li Service Oriented Architecture
-            / li Legacy IT integration
-            / (SOA)
-            li HTML / CSS / javascript
-            / li.noline HAML / Sass / Slim
-            / li GDS Service Manual
-            / li GDS Service Assessment
+          
     .row
       .col-sm-12
         hr
