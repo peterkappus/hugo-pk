@@ -1,5 +1,5 @@
 {{ partial "header" .}}
-{{ $available_msg := "Available in <b>Jan 2020</b> for interim roles in central London." }}
+{{ $available_msg := "Available in <b>Mar 2020</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 .container.main

@@ -81,10 +81,10 @@
           a.fab.fa-linkedin href="http://linkedin.com/in/peterkappus"
           a.fab.fa-instagram href="http://instagram.com/abstraktor"
           a.fab.fa-soundcloud href="http://soundcloud.com/peterkappus"
-      hr
       {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 6}}
       {{ with $related }}  
       .d-none.d-lg-block.d-md-block.otherPosts
+        hr
         h2 Other posts
         {{ range .}}
         .row.no-gutters style="margin-bottom: 1rem"
@@ -98,11 +98,11 @@
         a href="/blog" More &raquo;
       {{- end -}} 
       hr
-      .sticky
-        h2 Keep in touch!
-        p.small Sign up for tips & tools on OKRs, continuous improvement, and a bit of art & music. Unsubscribe anytime.
+      .sticky style="margin-bottom: 2rem"
+        h2 Newsletter
+        p.small Sign up fior tips & tools on OKRs, continuous improvement, and a bit of art and music. Unsubscribe anytime.
         = include partials/mailchimpSignup.html .
-                   
+        / hr.d-block.d-sm-none       
       
         
   = include partials/relatedContent.html .
