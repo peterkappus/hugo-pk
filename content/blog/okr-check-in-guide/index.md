@@ -17,9 +17,9 @@ resources:
 
 While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your daily work impacts your **Key Results** or, more accurately, how it impacts your _confidence_ in delivering those key results.
 
-The OKR check-in provides an opportunity to synch up, identify issues, define next actions, and see how those actions are affecting your confidence.
+The OKR check-in provides a regular opportunity to review what's happened recently, discuss how recent events have impacted your delivery confidence, and collectively adopt some next actions to improve that confidence. 
 
-A good OKR check-in is a microcosm of the whole OKR process.
+A good OKR check-in is a variation on [What? So what? Now What?](/blog/what-so-what-now-what) and a microcosm of the whole OKR process.
 
 ## A quick overview (for the impatient)
 Want some basic steps to get you started? Look no further...
@@ -29,6 +29,7 @@ Want some basic steps to get you started? Look no further...
 3. Check in with the team every week (even if the whole team isn't present)
 3. Every week, for each key result:
   1. Review last week's confidence, narrative, and actions
+  2. Briefly discuss what's happened since the last check-in
   2. Measure current confidence with a quick [fist-to-five vote](#f2f)
   1. Hear from the high and low voters
   1. Re-vote for greater consensus (optional)
@@ -59,8 +60,11 @@ The weekly check-in can happen any time. Some teams like using it to kick off th
 
 > Like any new habit, OKR check-ins will feel cumbersome at first. Persist and they'll get easier and more valuable.
 
+## Discuss recent events
+Avoiding the temptation to analyse and judge, simply mention any events since the last check-in which might be relevant or affect confidence. Did you ship something? Or experience an outage? Did anyone join or leave? Did you have any important conversations or make any key decisions or discoveries? 
+
 ## Measure confidence (not progress)
-Remember, [OKRs are not tactics](/blog/okrs-are-not-tactics). **They're not a roadmap or a plan.** They don't describe the _activities you want to do_ but rather the _change_ you want to see _because of whatever you do_. 
+Next look at the list above and think about how it makes you _feel_. Remember, [OKRs are not tactics](/blog/okrs-are-not-tactics). **They're not a roadmap or a plan.** They don't describe the _activities you want to do_ but rather the _change_ you want to see _because of whatever you do_. 
 
 As such, I believe it's more informative to [report on confidence rather than progress](/blog/measure-confidence-not-progress). Reporting progress on key results should be boringly easy. If it isn't, then your key result probably isn't sufficiently measurable. Discussing _confidence_, however, invites team members to get into the _why_ (and the _what next?_) behind their progress. 
 
@@ -69,7 +73,7 @@ As such, I believe it's more informative to [report on confidence rather than pr
 ## Use a "fist-to-five" vote
 I first discovered the "fist-to-five" via the handy [Spotify retro kit](https://labs.spotify.com/2017/12/15/spotify-retro-kit/). It's a terrific, easy, way to get instant feedback from a group on almost any topic. 
 
-Start by reading aloud the **objectives**. Then for each **Key Result**, ask "On a scale of zero to five, how confident are you that we'll deliver this key result?" On the count of three, each team member holds up some  fingers with a fist showing zero confidence and an open hand showing 100% confidence. This is a gut reaction, not a precise scientific measurement. Don't think too hard. <!--Sometimes we incorporate partial fingers or get into a brief debate on [correct finger-counting etiquette](https://en.wikipedia.org/wiki/Finger-counting). :grin: So long as it doesn't slow us down, I encourage anything to make the vote more fun and informative!-->
+For each Key Result, ask "On a scale of zero to five, how confident are you that we'll deliver this key result?" On the count of three, each team member holds up some  fingers with a fist showing zero confidence and an open hand showing 100% confidence. This is a gut reaction, not a precise scientific measurement. Don't think too hard. <!--Sometimes we incorporate partial fingers or get into a brief debate on [correct finger-counting etiquette](https://en.wikipedia.org/wiki/Finger-counting). :grin: So long as it doesn't slow us down, I encourage anything to make the vote more fun and informative!-->
 
 Once you've voted, ask the person with the _highest confidence_ to explain their rationale. Then ask the same from the _least confident_ person. A short discussion may follow. Based on this, you could vote again to see if consensus improves. Once you have a rough consensus (or even if you don't), pick a number that the group can live with. Write it down and move on to the next step.
 
