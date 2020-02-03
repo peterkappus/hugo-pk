@@ -365,8 +365,11 @@ li
 h3.other_posts
 .contact
   .card
-    background: #333
-    padding: 2rem
+    background: #eee
+    padding: 1rem
+    h2
+      padding: 0
+      margin: 0 0 0.8rem
   .info
     font-size: 1rem
   .loc
@@ -375,13 +378,19 @@ h3.other_posts
     margin-right: 0.5rem
 
   form
-    input, textarea, button
+    input[type=button], input[type=text], input[type=email], textarea, button
       margin-right: 2rem
       width: 100%
       display: block
       margin-bottom: 1rem
       padding: 0.5rem
-
+    .form-check
+      margin: 1rem 0
+    .form-check-label
+      margin-left: 0.5rem
+      color: #666
+      font-size: 1rem
+      
 .about ol 
   background: #eee
   padding: 2rem 0 2rem 4rem

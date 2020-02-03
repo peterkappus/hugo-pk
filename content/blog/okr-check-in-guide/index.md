@@ -107,7 +107,7 @@ Sometimes your OKRs look great on paper at the end of an [OKR-setting session](/
 
 Within the first few weeks of the quarter, feel free to change and adjust those OKRs. If you're half-way through, think carefully about why these issues are only now coming to light. Is it a problem with the OKRs or some dependency that we didn't see before? Is it more valuable, at this point, to change the OKRs in question, drop them, or continue and see what lessons we can learn? 
 
-Do this as a team and ensure the experience is valuable.
+Do this as a team and ensure the experience is valuable. [It's okay to tweak your OKRs mid-quarter](/blog/changing-okrs-mid-quarter).
 
 ### We can't get consensus!
 If the team frequently struggles to get consensus around confidence and next actions or the discussion simply requires too much time, it's possible you have **too many OKRs**, they're **not measurable** enough, or you're not actually in a cross-functional team. You may be in [a work group](https://dzone.com/articles/workgroups-vs-teams). :scream:
@@ -115,7 +115,7 @@ If the team frequently struggles to get consensus around confidence and next act
 OKRs are great at exposing this kind of dysfunction/opportunity. It can be scary because it often requires changing the team's structure and how it looks at work. This likely also means rewriting the team's OKRs but it's extremely valuable and can enable even stronger outcomes and better working arrangements. **Don't ignore these signals!**
 
 ### We already have too many meetings!
-While a weekly check-in sounds like yet another meeting (YAM), many teams have reported that starting their weekly progress meetings with an OKR check-in makes them much more productive. Some have even replaced their other weekly status meetings, emails, and reports with a 15 minute OKR check-in. Remember, your OKR check-ins reflect your confidence in delivering your most important goals for the quarter. What else is there to talk about?  :wink:
+While a weekly check-in sounds like yet another meeting (YAM), many teams have reported that starting their weekly progress meetings with an OKR check-in makes them much more productive. Some have even replaced their other weekly status meetings, emails, and reports with a 15 minute OKR check-in. Remember, your OKR check-ins reflect your confidence in delivering your most important goals for the quarter. What else is there to talk about?  :wink: Remember, if the check-ins don't feel useful, [it might be your OKRs](/blog/changing-okrs-mid-quarter).
 
 
 ## Keep going!

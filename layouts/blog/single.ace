@@ -24,9 +24,17 @@
               | &nbsp;
             {{end}}
         {{end}}
-      .blognote
-        h4 Want to go deeper?
-        | I'm available for OKR training and coaching as well as work in programme/portfolio/project management, Agile coaching, DevOps/SRE, and Continuous Delivery. Check out my <a href="/okrs">OKR consulting page</a> or my <a href="/cv">CV</a>. If you'd like to learn even more, <a href="/contact">please get in touch</a>. 
+        .contact style="margin-top: 1rem"
+          .row
+            .col-4.d-none.d-md-block.d-lg-block.d-xl-block
+              img.fluid-img src="/head3_hu9ea92c15a3e0883c032d1ddd2e210b94_1072993_800x0_resize_q75_box.jpg"
+            .col-md-8
+              = include partials/contact_form.html .
+
+        / 
+          .blognote
+          h2 Go deeper
+          | I'm available for OKR training and coaching as well as work in programme/portfolio/project management, Agile coaching, DevOps/SRE, and Continuous Delivery. Check out my <a href="/okrs">OKR consulting page</a> or my <a href="/cv">CV</a>. If you'd like to learn even more, <a href="/contact">please get in touch</a>. 
         
 
       / NOT YET.... (24 March 2018)
