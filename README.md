@@ -10,8 +10,10 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 ## Development
 
 ### Using Docker
+The last version of Hugo which supports Ace template is 0.50. To support sass compilation, we need the "extended" version of hugo so `klakegg/hugo:0.50-ext`
+
 ```
-docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50 server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache 
+docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50-ext server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache 
 open http://localhost:1313
 ```
 
@@ -29,7 +31,7 @@ s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.
 ```
 
 ### Creating new content (posts, etc.)
-`docker run -v "$PWD":/src klakegg/hugo:0.50 new blog/<POST-TITLE>/index.md`
+`docker run -v "$PWD":/src klakegg/hugo:0.50-ext new blog/<POST-TITLE>/index.md`
 
 ### Adding cover images
 [Unsplash](https://unsplash.com/) has great, free images.
@@ -43,14 +45,14 @@ Copy the URL they give you and put this in the "link" attribute in the front mat
 ### Tips
 
 Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
-`docker run --rm -it -v "$PWD":/src -p 1313:1313 klakegg/hugo:0.50 server -D --bind 192.168.0.10 --baseURL http://192.168.0.10` and navigate to http://192.168.0.10 from your phone.
+`docker run --rm -it -v "$PWD":/src -p 1313:1313 klakegg/hugo:0.50-ext server -D --bind 192.168.0.10 --baseURL http://192.168.0.10` and navigate to http://192.168.0.10 from your phone.
 
 
 ## Contact form
 Uses [Formspree](https://formspree.io/).
 
 ## Domains
-The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
+The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 name servers (AWS).
 
 The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance using an S3 Bucket as the origin. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
 

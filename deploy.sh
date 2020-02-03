@@ -1,5 +1,5 @@
 #generate the files
-docker run --rm -it -v "$PWD":/src -v "$PWD"/public:/target hugo-pk
+docker run --rm -it -v "$PWD":/src -v "$PWD"/public:/target klakegg/hugo:0.50-ext
 
 # create this file using secrets.sample.env and add your AWS credentials
 source secrets.env

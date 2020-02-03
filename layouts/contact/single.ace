@@ -25,14 +25,6 @@
               a href="mailto:hello@peterkappus.com" hello@peterkappus.com
         .row
           .col-md-12
-            h2 Send me a message
-            .card style="background: #eee"
-              form action="https://formspree.io/hello2018@peterkappus.com" method="POST"
-                input type="text" name="name" placeholder="Your Name"
-                input type="email" name="_replyto" placeholder="Email"
-                textarea name="message" placeholder="Message"
-                button class="btn btn-primary btn-lg" type="submit" value="Send" Send
-                  i.fa.fa-arrow-alt-circle-right style="padding-left: 20px"
-                small style="color: #999; margin-bottom: 2rem" I promise not to spam you or sell your data. <a href="/privacy">Learn more</a>.
+            = include partials/contact_form.html .
 
     {{ partial "footer" .}}
