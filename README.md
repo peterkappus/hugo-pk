@@ -1,16 +1,17 @@
 # hugo-pk
 My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Bootstrap, and a bunch of other stuff.
 
+**NOTE:** Hugo stopped supporting Ace templates in version 0.62 https://github.com/gohugoio/hugo/issues/6609 If you need/want to upgrade hugo beyond this version, you will have to port all the templates to Go Templates.
+
+
 ## Setup
 1) Sym link the homepage headshot to the one in the Contact folder (to save some space... not sure this is reallly necessary) `ln -s content/contact/head3.jpg content/head3.jpg`
-2) Build docker container: `docker build -t hugo-pk .` (also required when you want to upgrade [hugo](http://gohugo.io)) 
 
 ## Development
 
 ### Using Docker
-After building the docker container (above), start it up:
 ```
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache 
+docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50 server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache 
 open http://localhost:1313
 ```
 
