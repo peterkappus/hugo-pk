@@ -15,11 +15,6 @@ docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50 server --dis
 open http://localhost:1313
 ```
 
-#### Need a newer version of Hugo?
-Delete the old image `docker rmi hugo-pk`
-Note, you may need to run `docker images | grep hugo-pk` to find the image IDs and containers using this image and delete them all.
-Then rebuild via `docker build -t hugo-pk .`
-
 ### Deployment
 Copy `secrets.sample.env` to `secrets.env`
 Add your AWS ID and secret key.
@@ -34,7 +29,7 @@ s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.
 ```
 
 ### Creating new content (posts, etc.)
-`docker run -v "$PWD":/src hugo-pk new blog/<POST-TITLE>/index.md`
+`docker run -v "$PWD":/src klakegg/hugo:0.50 new blog/<POST-TITLE>/index.md`
 
 ### Adding cover images
 [Unsplash](https://unsplash.com/) has great, free images.
@@ -48,7 +43,7 @@ Copy the URL they give you and put this in the "link" attribute in the front mat
 ### Tips
 
 Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
-`docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10` and navigate to http://192.168.0.10 from your phone.
+`docker run --rm -it -v "$PWD":/src -p 1313:1313 klakegg/hugo:0.50 server -D --bind 192.168.0.10 --baseURL http://192.168.0.10` and navigate to http://192.168.0.10 from your phone.
 
 
 ## Contact form
