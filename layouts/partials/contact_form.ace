@@ -1,0 +1,15 @@
+.card.contact
+  h2 Ask a question          
+  form.contact-form action="https://formspree.io/hello2018@peterkappus.com" method="POST"
+    input type="text" data-toggle="validator" name="name" placeholder="Your Name" required="true"
+    input type="email" name="_replyto" placeholder="Email" required="true"
+    textarea name="message" placeholder="Message" required="true"
+    .form-check 
+      input.form-check-input type="checkbox" name="consent" required="true"
+      label.form-check-label I consent to being contacted
+    .form-check
+      input.form-check-input type="checkbox" name="mailing_list_signup" 
+      label.form-check-label Sign me up for the newsletter
+    button class="btn btn-primary btn-lg" type="submit" value="Send" Send
+      i.fa.fa-arrow-alt-circle-right style="padding-left: 20px"
+    small style="color: #999; margin-bottom: 2rem" By clicking submit, you consent to my processing of your personal data. I promise not spam you or sell your info. You can unsubscribe anytime. <a href="/privacy">Learn more</a>.

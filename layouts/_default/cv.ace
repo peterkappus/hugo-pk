@@ -1,5 +1,5 @@
 {{ partial "header" .}}
-{{ $available_msg := "Available in <b>Mar 2020</b> for interim roles in central London." }}
+{{ $available_msg := "Available in <b>Sep 2020</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 .container.main
@@ -125,10 +125,10 @@
             li Coaching technical and non-technical teams in agile practices including backlog refinement, story mapping, Definition of Done, Definition of Ready, Jira, retrospectives, estimation & velocity, Scrum/Kanban/Scrumban, OKRs, and continuous improvement
             li Teams delivering mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability
         .job
-          h3 OKR coach
+          h3 Agile & OKR coach
           h4 Various organisations
           h5 Nov 2018 - Present
-          p Providing OKR training and coaching for various organisations including <b>Médecins Sans Frontières</b>, a global asset management company and numerous start-ups and mid-sized organisations
+          p Providing OKR training and coaching for various organisations including <b>White & Case</b>, <b>Homes England</b>, <b>Médecins Sans Frontières</b>, a global asset management company and numerous start-ups and mid-sized organisations. Work includes the following:
           ul
             li On-site training workshops
             li Hourly remote-coaching
