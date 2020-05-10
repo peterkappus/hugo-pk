@@ -54,14 +54,14 @@ Good OKR check-ins (like OKRs themselves) are light-weight, informative, and act
 ## Setting up for success
 As with any new habit, adopting regular OKR check-ins requires gentle, constant pressure, and strong team commitment. With practice, check-ins will become quick, relatively painless, and valuable.
 
-Nominate an OKR champion for each team who, a bit like the [Speaker of the House of Commons](https://en.wikipedia.org/wiki/Speaker_of_the_House_of_Commons_(United_Kingdom)), facilitates the discussion, captures outputs, and ensures OKRs work hard for the team. Usually a project/delivery manager will start in this role and then hand over to different people throughout the quarter, giving others valuable experience and sharing the load. Try letting the current OKR Champion nominate the next one each week. 
+Nominate an OKR champion for each team to facilitate the discussion, capture outputs, and ensure OKRs work hard for the team. Usually a project/delivery manager will start in this role and then hand over to different people throughout the quarter, giving others valuable experience and sharing the load. Let the current OKR Champion nominate the next one each week. 
 
-The weekly check-in can happen any time. Some teams like using it to kick off the week, or wrap it up, or put it in the middle. See what feels right to your team.
+The weekly check-in can happen any time. Some teams like using it to kick off the week, or wrap it up, or put it in the middle. Do what feels right to your team.
 
 > Like any new habit, OKR check-ins will feel cumbersome at first. Persist and they'll get easier and more valuable.
 
 ## Discuss recent events
-Avoiding the temptation to analyse and judge, simply mention any events since the last check-in which might be relevant or affect confidence. Did you ship something? Or experience an outage? Did anyone join or leave? Did you have any important conversations or make any key decisions or discoveries? 
+Avoid the temptation to analyse and judge. Simply mention any events since the last check-in which might be relevant or affect confidence. Did you ship something? Or experience an outage? Did anyone join or leave? Did you have any important conversations or make any key decisions or discoveries? 
 
 ## Measure confidence (not progress)
 Next look at the list above and think about how it makes you _feel_. Remember, [OKRs are not tactics](/blog/okrs-are-not-tactics). **They're not a roadmap or a plan.** They don't describe the _activities you want to do_ but rather the _change_ you want to see _because of whatever you do_. 
@@ -73,22 +73,22 @@ As such, I believe it's more informative to [report on confidence rather than pr
 ## Use a "fist-to-five" vote
 I first discovered the "fist-to-five" via the handy [Spotify retro kit](https://labs.spotify.com/2017/12/15/spotify-retro-kit/). It's a terrific, easy, way to get instant feedback from a group on almost any topic. 
 
-For each Key Result, ask "On a scale of zero to five, how confident are you that we'll deliver this key result?" On the count of three, each team member holds up some  fingers with a fist showing zero confidence and an open hand showing 100% confidence. This is a gut reaction, not a precise scientific measurement. Don't think too hard. <!--Sometimes we incorporate partial fingers or get into a brief debate on [correct finger-counting etiquette](https://en.wikipedia.org/wiki/Finger-counting). :grin: So long as it doesn't slow us down, I encourage anything to make the vote more fun and informative!-->
+For each Key Result, ask "On a scale of zero to five, how confident are you that we'll deliver this key result?" On the count of three, each team member holds up fingers to represent their level of confidence (with a fist showing zero confidence and an open hand showing 100% confidence). This is a gut reaction, not a precise scientific measurement. Don't think too hard. <!--Sometimes we incorporate partial fingers or get into a brief debate on [correct finger-counting etiquette](https://en.wikipedia.org/wiki/Finger-counting). :grin: So long as it doesn't slow us down, I encourage anything to make the vote more fun and informative!-->
 
-Once you've voted, ask the person with the _highest confidence_ to explain their rationale. Then ask the same from the _least confident_ person. A short discussion may follow. Based on this, you could vote again to see if consensus improves. Once you have a rough consensus (or even if you don't), pick a number that the group can live with. Write it down and move on to the next step.
+If there's no consensus, ask the person with the _highest confidence_ to explain their rationale; then hear from the _least confident_ person. A short discussion may follow. Based on this, you could vote again to see if consensus improves. Once you have a rough consensus (or even if you don't), pick a number that the group can live with for a week, write it down, and move on to the next step.
 
-## Pick some next actions
-If we've picked difficult key results (of course we have! :smile:) then, at some point, our confidence will dip. This is a natural part of growing and taking on hard things. Low confidence is a great teacher of what we need to do next.
+## Commit to next actions
+If we've picked challenging key results (and of course we have! :smile:) then, at some point, our confidence will dip. This is a natural part of growing and taking on hard things. Low confidence is a great teacher of what we need to do next.
 
 Whatever the result of our confidence vote, it's critical to ask the team what we can do to improve that confidence in the next check-in. **The _team_ is in the best position to decide what to do next.** No one else &mdash; not some external stake-holder or advisor &mdash; but the team. Keep this in mind to get the most from OKRs. 
 
-Quickly brainstorm options and pick one or two which can be owned by a team member. Write them down and do them this week.
+Quickly brainstorm options and pick one or two which can be owned by the team (or a specific person). Write them down and make sure they get done.
 
 > Check-ins close the loop between ideas, actions, confidence, and outcomes.
 
-The best part about picking these actions comes the following week (when they've been done). This is when the team gets to vote again and see how much confidence has improved. Once they see how checking-in leads to constructive actions and how performing those actions improves confidence, teams will look forward to repeating the cycle as often as possible. 
+The best part about agreeing and doing these actions comes the following week when the team gets to see how much their confidence has improved based on these actions. Once they see how checking-in leads to constructive actions and how performing those actions improves confidence, teams will look forward to repeating the cycle as often as possible. Actions may not always improve confidence. This is still valuable as it helps steer the team towards the most positively impactful activities and you've only spent a week making this discovery.
 
-**You can improve confidence through careful action.** This is the whole crux of OKRs and effective goal-setting, in general.
+**You can improve confidence through careful action.** OKRs make this learning obvious and direct.
 
 ## The struggle is real. Share it!
 Do this for each key result and each objective. Capture confidence, narrative, and next actions in a [spreadsheet or tool](/blog/free-okr-tracking-templates). Share the results with everyone you can: other teams, senior stakeholders, anyone who would otherwise read a weekly status report. <!--I've used Google sheets before and published the results as a (non-spiderable :spider:) web page which can be shared with a wider audience (stakeholders and other teams). --> This shows everyone:
@@ -107,7 +107,7 @@ Sometimes your OKRs look great on paper at the end of an [OKR-setting session](/
 
 Within the first few weeks of the quarter, feel free to change and adjust those OKRs. If you're half-way through, think carefully about why these issues are only now coming to light. Is it a problem with the OKRs or some dependency that we didn't see before? Is it more valuable, at this point, to change the OKRs in question, drop them, or continue and see what lessons we can learn? 
 
-Do this as a team and ensure the experience is valuable. [It's okay to tweak your OKRs mid-quarter](/blog/changing-okrs-mid-quarter).
+Do this as a team and ensure the experience is valuable. [It's okay to tweak your OKRs during the quarter](/blog/changing-okrs-during-the-quarter).
 
 ### We can't get consensus!
 If the team frequently struggles to get consensus around confidence and next actions or the discussion simply requires too much time, it's possible you have **too many OKRs**, they're **not measurable** enough, or you're not actually in a cross-functional team. You may be in [a work group](https://dzone.com/articles/workgroups-vs-teams). :scream:
@@ -115,7 +115,7 @@ If the team frequently struggles to get consensus around confidence and next act
 OKRs are great at exposing this kind of dysfunction/opportunity. It can be scary because it often requires changing the team's structure and how it looks at work. This likely also means rewriting the team's OKRs but it's extremely valuable and can enable even stronger outcomes and better working arrangements. **Don't ignore these signals!**
 
 ### We already have too many meetings!
-While a weekly check-in sounds like yet another meeting (YAM), many teams have reported that starting their weekly progress meetings with an OKR check-in makes them much more productive. Some have even replaced their other weekly status meetings, emails, and reports with a 15 minute OKR check-in. Remember, your OKR check-ins reflect your confidence in delivering your most important goals for the quarter. What else is there to talk about?  :wink: Remember, if the check-ins don't feel useful, [it might be your OKRs](/blog/changing-okrs-mid-quarter).
+While a weekly check-in sounds like yet another meeting (YAM), many teams have reported that starting their weekly progress meetings with an OKR check-in makes them much more productive. Some have even replaced their other weekly status meetings, emails, and reports with a 15 minute OKR check-in. Remember, your OKR check-ins reflect your confidence in delivering your most important goals for the quarter. What else is there to talk about?  :wink: Remember, if the check-ins don't feel useful, [it might be your OKRs](/blog/changing-okrs-during-the-quarter).
 
 
 ## Keep going!

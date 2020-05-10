@@ -66,6 +66,31 @@ https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-clo
 If you use docker, make sure to use a python:2 image. The LE script isn't compatible w/ python 3
 
 ## Other stuff...
+
+### Git workflow
+
+```
+#create a new 'working' branch for experimentation
+git checkout -b working
+
+#auto-commit to this new branch every 2min
+watch -n 120 git commit -am autosave
+
+#ready to merge & commit to master?
+
+#switch back to master
+git checkout master
+
+#squash all commits from the "working" branch into changes on this one
+git merge --squash working
+
+#commit these changes with a meaningful commit comment
+git commit -am "My useful comment about this new feature"
+
+# delete the old working branch
+git branch -d working
+```
+
 ### Converting SVG to JPG
 `cat infile.svg | docker run -i dbtek/librsvg rsvg-convert -f png -w 1600 > outfile.png`
 
