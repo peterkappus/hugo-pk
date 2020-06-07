@@ -3,6 +3,9 @@ title: "Changing OKRs During the Quarter"
 date: 2020-02-03T17:33:10Z
 alias: ["/blog/changing-okrs-mid-quarter","/blog/changing-okrs-during-the-quarter"]
 categories: blog  
+featured: true
+tags:
+  - OKRs
 resources:
   - name: cover
     src: brendan-church-pKeF6Tt3c08-unsplash.jpg

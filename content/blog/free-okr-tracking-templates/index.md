@@ -8,6 +8,7 @@ aliases: [/blog/okr-templates]
 featured: true
 tags:
   - okrs
+  - checkins
 resources:
   - name: cover
     src: rawpixel-191102-unsplash.jpg
@@ -29,14 +30,14 @@ To get the real benefit of OKRs, it's essential to check in regularly and, while
 ## Upping your confidence
 After doing a quick vote, I'll check in with the highest and lowest votes to see why they feel the way they do, giving each person about 20 seconds to state their reasoning. Then we vote again until we have a good consensus. If confidence is any less than 5, I'll ask the group "What would it take to increase your confidence by one whole finger?" We discuss for a minute and then I ask "What actions (if any) will we commit to doing this week to make that happen?" Usually one or two key actions will come up for each Key Result. We write them down on our weekly scorecard and move on, promising to check in on these actions throughout the week during our Daily Stand-ups.-->
 
-## Free OKR tracking templates!
-To do this, I've created two simple spreadsheet templates you can use. They work great in a tool like Google Sheets where anyone can view and modify them at any time and you always have a single source of truth but can also be used as traditional file-based spreadsheets. To make them even better, publish the dashboard views as a web page and share the URL every week or print them out, put them on the wall as an information radiator for everyone to see.
+## Free Google Sheets OKR tracking templates!
+To do this, I've created two simple Google Sheet templates you can use. I love Google Sheets because anyone can view and modify them at any time and you always have a single source of truth. To make them even better, publish the dashboard views as a web page and share the URL every week or print them out, put them on the wall as an information radiator for everyone to see.
 
 
 ### A portfolio OKR tracker for data nerds
 My personal favourite, this [single or multi-team portfolio OKR tracking template](https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960) provides an easy way to store multiple teams' OKRs and weekly confidence scores (as well as a weekly narrative) in a single sheet and with a nice "dashboard view" to show the latest information and highlight at-risk key results. You can also store lessons learned and final outcomes in this sheet. It scales beautifully when you want to add more teams or more quarters. You can apply filters to quickly dig into the data and the spark line graphs show how your confidence changes over time. Use this when you want a single view of OKRs for an entire portfolio to quickly identify Key Results that need help.
  
-With a bit of elbow grease, you could even create a Google Form to make inputting weekly updates even faster.
+With a bit of elbow grease, you could even create a Google Form to make inputting weekly updates even faster. _Disclaimer: this template won't work in Excel._
 
 <a href="https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960" class="btn btn-large btn-primary">Get the portfolio OKR tracker</a>
 

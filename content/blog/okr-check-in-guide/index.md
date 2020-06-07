@@ -5,6 +5,7 @@ categories: blog
 featured: true
 tags:
   - OKRs
+  - checkins
 aliases: [/blog/okr-check-ins, /blog/okr-check-in-guide]
 resources:
   - name: cover

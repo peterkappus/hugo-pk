@@ -1,0 +1,5 @@
+.share
+  a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
+  a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
+  a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
+  a.fas.fa-envelope style="padding-right: 0" href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"

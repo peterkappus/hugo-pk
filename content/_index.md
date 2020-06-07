@@ -7,4 +7,4 @@ resources:
     src: head3.jpg
 ---
 
-Hi! I'm Peter and I coach teams in [OKRs](/okr-consulting), [lean/agile ways of working, and basic DevOps](/cv). I'm also an <a href="/art">artist</a> and <a href="/music">musician</a>. Read my <a href="/blog">blog</a> or <a href="/contact">contact me.</a>
+Hi! I'm Peter, an [OKR](/okr-consulting) and [lean/agile](/cv) coach. I help teams get clear on what they're doing and why, and then get better at doing it. Read my <a href="/blog">blog</a> or <a href="/contact">get in touch.</a>

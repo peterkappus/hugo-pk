@@ -10,21 +10,23 @@
           {{partial "getCoverCredit.html" . }}
       .col-md-8
         .row
-          .col-md-6
-            {{ .Content}}        
-          .col-md-6.connect
-            h2 Connect
-            .info
-              .loc UK: 
-              | +44 (0) 203 468 4224
-              br
-              .loc US: 
-              | +1 (206) 651-4428
-            .info style="padding-bottom: 1rem"
-              .loc Email: 
-              a href="mailto:hello@peterkappus.com" hello@peterkappus.com
-        .row
           .col-md-12
+            {{ .Content}}
+             
+          /
+            .col-md-6.connect
+              h2 Connect
+              .info
+                .loc UK: 
+                | +44 (0) 203 468 4224
+                br
+                .loc US: 
+                | +1 (206) 651-4428
+              .info style="padding-bottom: 1rem"
+                .loc Email: 
+                a href="mailto:hello@peterkappus.com" hello@peterkappus.com
+        .row
+          .col-md-12 style="margin-top: 1rem"
             = include partials/contact_form.html .
 
     {{ partial "footer" .}}

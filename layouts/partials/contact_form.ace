@@ -10,6 +10,9 @@
     .form-check
       input.form-check-input type="checkbox" name="mailing_list_signup" 
       label.form-check-label Sign me up for the newsletter
+      input type="hidden" name="page" 
     button class="btn btn-primary btn-lg" type="submit" value="Send" Send
       i.fa.fa-arrow-alt-circle-right style="padding-left: 20px"
     small style="color: #999; margin-bottom: 2rem" By clicking submit, you consent to my processing of your personal data. I promise not spam you or sell your info. You can unsubscribe anytime. <a href="/privacy">Learn more</a>.
+  script language="javascript"
+    | document.forms[0].elements['page'].value = document.location.href;

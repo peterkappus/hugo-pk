@@ -2,7 +2,7 @@
 title: "Study, Reflection, and Practice"
 date: 2019-10-27T20:05:23Z
 categories: blog  
-featured: true
+featured: false
 tags: 
   - agile
   - buddhism
