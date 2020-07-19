@@ -2,30 +2,59 @@
   .container.okrs
     .top
       .vertical-center
-        h1 {{ .Title}}
+        h1 Remote OKR Quickstart Training Programme
     hr
     .row
       .col-md-6
-        p.leader Simple, fun, and effective OKR training and coaching <!--based in Europe--> to help your teams get the most from OKRs. 
+        p.leader 
+           iframe width="100%" height="315" src="https://www.youtube.com/embed/GxaUMvoIz3o?modestbranding=1&autohide=1&showinfo=0&controls=1" frameborder="0" allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+        / {{ - Simple, fun, and effective OKR training and coaching <!--based in Europe--> to help your teams get the most from OKRs. 
       .col-md-6
-        p Since 2015, I’ve helped dozens of teams across Europe at start-ups, mid-sized companies, the <b>UK’s Government Digital Service</b> and <b>the BBC</b> to use the OKR method to clarify their ambitions, align their efforts, and supercharge delivery.
-        p Find out about <a href="/cv">my experience</a> or read on to see how I can help you, too!
+        p.leader Engaging, effective, <i>fully remote</i> OKR training and coaching <!--based in Europe--> to help your teams get the most from OKRs. 
+        p Since 2015, I’ve helped thousands of people in dozens of teams across world-leading organisations like the <b>UK’s Government Digital Service</b>, <b>the BBC</b>, and Doctors Without Borders to get the most from OKRs. 
+        p Read on to find out about this simple, 6 week remote programme.
+        / p Learn more about <a href="/cv">my experience</a> or read on to see how I can help you, too!
     .row
       .col-md-12
         hr
     .row
-      .col-md-4
-        h2 The OKR quickstart package
-      .col-md-8
-        p Perfect for <b>leadership off-sites</b> and teams just starting with OKRs or looking to "reboot" their OKR practice, this customised, engaging, and highly interactive package includes everything you need to adopt and succeed with OKRs:
+      .col-md-12 style="min-height: 8rem; display: flex; align-items: center;  justify-content: center;align: center;"
+        div style="width: 80%; height; 200px"
+          h2 style="text-align: center; ; font-size: 2.5rem;" The OKR Toolkit
+    .row
+      .col-md-3
+        h4.subhead Session 1
+        h3 Background and OKR Setting
+      .col-md-9
+        p This programme will give up to <b>10 members of your organisation</b> the training, tools, and confidence they need to effectively set, align, and check-in on OKRs across multiple teams. The course will include the following.
         ul
-          li a few hours of <b>pre-workshop consulting & preparation</b> to learn about your needs and design a customised session for your team
-          li A full-day of customised <b>on-site training</b> with the perfect mix of theory, games, and hands-on practice for up to 20 participants
-          li Peter's <b>OKR Playbook</b> with clear steps for setting OKRs, running weekly check-ins, and avoiding common pitfalls
-          li <b>Follow-up OKR coaching</b> during the quarter to reinforce concepts and answer questions
-          li <b>Review Workshop</b> at the end of the quarter where we'll look at lessons learned and explore what's working well and what we we steps we can take to improve the OKR process moving forward.
-        p <a href="/contact">Contact me</a> for a sample agenda, more details, or a customised proposal.
-        a.btn.btn-primary.btn-lg href="/contact" Get in touch
+          li A brief overview on the background & benefits of OKRs (15-20min)
+          li A 1 hour session on running OKR setting workshops with multiple teams using my proven technique:
+          ul          
+            li Framing the invitation & what to do before the session.
+            li Drafting OKRs from the outside-in (Objectives to Initiatives)
+            li Drafting OKRs from the inside-out(Initiatives to Objectives)
+            li Vertical and horizontal alignment (not "tight cascading" per se)
+            li Running an OKR "Festival" to socialise, refine, and align OKRs
+            li Using my OKR drafting template with your teams
+            li Simple tests to see if your OKRS are ready to use or need more tweaking
+            li Get hands-on practice by running a mock OKR setting session for multiple teams
+            li Special considerations for remote OKR workshops
+            li Q&A and debrief
+          li Homework: after the session, I'll ask the participants to practice what they've learned by writing some OKRs with their teams. We'll review these in the second session.
+        ul
+          li
+        a.btn.btn-primary.btn-lg href="/contact" Book a all to learn more.
+    .row
+      .col-md-3
+        h4.subhead Session 2
+        h3 Checking In
+      .col-md-9
+        ul
+          li Step by step training for running weekly check-ins using my personal technique based on "What? So what? Now what?"
+          li How and why to measure confidence (not just progress)
+          li Communicating OKR check-ins to stakeholders (and observers)
+          li A custom 
     .row
       .col-md-12
         hr

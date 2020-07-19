@@ -60,6 +60,12 @@ Consider the above questions as objectives (e.g. "Have the right monitoring in p
 ### When setting OKRs for QA, operations, & support teams:
  - Don't try to predict **what issues** you'll find and solve 
  - Do commit to improving **how** you'll find and solve any issue
+ - Use SLA's as a starting point. 
+
+#### Consider the following Key Results:
+- Respond to any issue within 15min
+- Run our full regression suite in under 5 minutes
+- Achieve an internal Net Promoter Score (NPS) of 85
 
 ## In summary
 Research, operations, and support teams (in contrast to product development, or sales, for example) exist to discover or deal with the unknown and the unpredictable. OKRs in general, should focus not on outputs but on outcomes; on impacts rather than tactics. This is even more true of research, operations, QA, and support. 
