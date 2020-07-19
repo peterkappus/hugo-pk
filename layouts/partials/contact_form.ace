@@ -1,4 +1,4 @@
-.card.contact
+card.contact
   h2 Ask a question          
   form.contact-form action="https://formspree.io/hello2018@peterkappus.com" method="POST"
     input type="text" data-toggle="validator" name="name" placeholder="Your Name" required="true"
