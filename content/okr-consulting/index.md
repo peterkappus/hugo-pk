@@ -3,7 +3,7 @@ title: "OKR training and coaching"
 date: 2019-03-23T12:44:29Z
 layout: okrs
 type: okrs
-aliases: [/okr-coaching, /okrs, /okr]
+aliases: [/training, /okr-coaching, /okrs, /okr]
 
 resources:
   - name: cover

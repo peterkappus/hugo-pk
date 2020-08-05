@@ -77,15 +77,17 @@
       {{ end }}
     .col-md-4.sidebar
       hr.d-lg-none.d-md-none
+      h2 OKR Training
+      p Interested in remote OKR training & coaching to help your teams get the most from OKRs?
+      p
+        a.btn.btn-primary href="/okr-consulting" Learn more
+      hr
       h2 About Peter Kappus
       p Peter Kappus is an agile & <a href="/okrs">OKR coach</a>, <a href="/cv">business transformation consultant</a>, and <a href="https://github.com/peterkappus">digital tinkerer</a>. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
       p
-        a.btn.btn-primary href="/contact" Let's talk!        
-      hr
-      h2 OKR Coaching
-      p Interested in on-site or remote OKR training & coaching to help you get the most from OKRs?
-      p
-        a href="/okr-consulting" Learn about OKR coaching
+        a.btn.btn-primary href="/contact" Contact me     
+      
+      
       /
         hr
         h2 Follow me!
