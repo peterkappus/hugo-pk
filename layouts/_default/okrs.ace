@@ -1,9 +1,8 @@
 {{ partial "header" .}}
   .container.okrs
-    .top
-      .vertical-center
-        h1 Simple. Live. Remote. 
-        h1 The OKR Champions programme
+    .top style="display: table; width: 100%"
+      h1 Simple. Live. Remote. 
+      h1 The OKR Champions programme
     hr
     .row
       .col-md-6
@@ -114,7 +113,19 @@
     .row
       .col-md-12.header
         a.btn.btn-primary.btn-lg href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/peterkappus/30min'});return false;" Still have questions? Let's talk!
-        
+    
+    .row
+      .col-md-12
+        hr
+    .row
+      .col-md-4
+        h2 About Peter Kappus
+      .col-md-8
+        p I love helping organisations to work better. I've spent 20+ years as a coach, trainer, and engineer helping teams in at UK Government, MSF, an investment bank, the BBC, and countless small  & medium organisations to deliver outstanding results and enjoy the journey along the way. I've worked in a variety of industries including finance, government, media, publishing, bio-tech, advertising and more. 
+        a.btn.btn-primary style="margin-bottom: 1rem" href="/about" Read more about Me
+        | &nbsp;
+        | &nbsp;
+        a.btn.btn-primary style="margin-bottom: 1rem" href="/cv" Check out my CV    
             
     /
       .row
@@ -149,16 +160,4 @@
             li Want to do some general OKR <b>Q&A</b>?
           p Use as much or as little time as you need to get clarity, break through tricky issues and get better results with OKRs.
           a.btn.btn-primary.btn-lg href="/contact" Get in touch
-      .row
-        .col-md-12
-          hr
-      .row
-        .col-md-4
-          h2 About Peter Kappus
-        .col-md-8
-          p I love helping teams to work better. As a coach, trainer, and engineer I've spent 20+ years helping teams in the UK Government, the BBC, and elsewhere to deliver outstanding results and enjoy the journey along the way. I've worked in a variety of industries including finance, government, media, publishing, bio-tech, advertising and more. 
-          a.btn.btn-primary style="margin-bottom: 1rem" href="/about" Read more about Me
-          | &nbsp;
-          | &nbsp;
-          a.btn.btn-primary style="margin-bottom: 1rem" href="/cv" Check out my CV
     {{ partial "footer" .}}
