@@ -2,6 +2,7 @@
 buy_link:
 - http://www.redbubble.com/people/peterkappus/works/8505765-cheerful-robotic-poppies
 cover: poppies/cover.jpg
+draft: true
 more_pix:
 - good1.jpg
 - good2.jpg

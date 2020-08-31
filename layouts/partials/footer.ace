@@ -26,7 +26,7 @@ script src="{{$js.Permalink}}"
     jQuery("h1.cvname").fitText(0.75);
     jQuery("b.headline").fitText(.55);
     jQuery(".headline h1").fitText(1.25);
-    //jQuery(".okrs h1").fitText(1.25);
+    jQuery(".okrs h1").fitText(1);
     //jQuery(".okrs h1").flowtype({ minimum: 1200, maximum: 2000});
     jQuery(".big").fitText(0.85);
     

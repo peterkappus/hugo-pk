@@ -7,7 +7,7 @@ nav.navbar.navbar-expand-md.navbar-light.bg-white.px-0
       #navbarSupportedContent.collapse.navbar-collapse
         ul.navbar-nav.mr-auto          
           li.nav-item class="{{if (eq .Type "okrs")}}active{{end}}"
-            a.nav-link href="/okr-consulting" OKR Training
+            a.nav-link href="/okrs" OKRs
           li.nav-item class="{{if (eq .Type "cv")}}active{{end}}"
             a.nav-link href="/cv" CV
           li.nav-item class="{{if (eq .Type "blog")}}active{{end}}"

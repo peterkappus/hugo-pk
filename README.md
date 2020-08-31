@@ -13,7 +13,8 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 The last version of Hugo which supports Ace template is 0.50. To support sass compilation, we need the "extended" version of hugo so `klakegg/hugo:0.50-ext`
 
 ```
-docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50-ext server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache 
+docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50-ext server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache &
+sleep 5
 open http://localhost:1313
 ```
 
@@ -58,12 +59,7 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 
 ## HTTPS Certificates
-REMINDER: You've got a [private gist](https://gist.github.com/peterkappus) with a script.
-
-Otherwise, follow this guide:
-https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2
-
-If you use docker, make sure to use a python:2 image. The LE script isn't compatible w/ python 3
+Use AWS Certificates. I'm no longer using Lets Encrypt. Too much hassle...
 
 ## Other stuff...
 

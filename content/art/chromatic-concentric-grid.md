@@ -4,6 +4,7 @@ buy_link:
 - http://www.redbubble.com/people/peterkappus/works/8567402-chromatic-concentric-disc-grid
 categories:
 - Art
+draft: true
 cover: chromatic-concentric-grid/cover.jpg
 date: "2012-03-06"
 title: Chromatic Concentric Grid

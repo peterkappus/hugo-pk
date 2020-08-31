@@ -9,7 +9,6 @@ sgt_slide:
 title: ABSTRAKTOR
 url: /art/abstraktor
 ---
-
 Swaggering gallantly (but relatively ineptly) into the worlds of mathematics and biology, ABSTRAKTOR is a vaguely authoritarian, non-gendered art collective (of one) using algorithms, pattern, and selective mutation to explore the limits of mechanised human expression.
 
 In other words, an excuse to make pretty things with code.
