@@ -1,17 +1,17 @@
 {{ partial "header" .}}
   .container.okrs
     .top style="display: table; width: 100%"
-      h1 Remote OKR Training & Coaching
+      h1 OKR Training & Coaching
     hr
     .row
       .col-md-6
-        p.leader 
-           iframe width="100%" height="315" src="https://www.youtube.com/embed/GxaUMvoIz3o?modestbranding=1&autohide=1&showinfo=0&controls=1" frameborder="0" allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+        p.leader Whether your organisation is brand new to OKRs or just wants to make them a smooth and consistently valuable part of your delivery culture, I bring a clear, pragmatic, and actionable approach to OKRs.
+        / iframe width="100%" height="315" src="https://www.youtube.com/embed/GxaUMvoIz3o?modestbranding=1&autohide=1&showinfo=0&controls=1" frameborder="0" allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
         / {{ - Simple, fun, and effective OKR training and coaching <!--based in Europe--> to help your teams get the most from OKRs. 
       .col-md-6
-        p.leader Whether your organisation is brand new to OKRs or just wants to make them a smooth, and consistently valuable part of the delivery culture, I bring a clear, pragmatic, and actionable approach to OKRs.
+        
         / p I offer Build a confident, empowered group of OKR champions in your organisation in just 4 sessions with effective, live, remote training.
-        p Since 2015, I've helped thousands of people in teams across world-leading organisations like the BBC, the UK Government, and a global investment bank to get the most from OKRs.  
+        p Since 2015, I've helped thousands of people in teams across world-leading organisations like the BBC, the UK Government, and a global investment bank to get the most from OKRs building a confident internal community of OKR champions along the way.  
         |
           <!-- Calendly link widget begin -->
           <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -29,10 +29,10 @@
           p I offer a variety of workshops, courses, and individualised coaching.
     .row.how-it-works
       .col-md-4
-        h3 The OKR Quickstart programme
-        p See below for how I can help train up a group of OKR champions within your organisation in just 4 highly interactive, remote sessions including my custom templates, and step-by-step guides. <a href="#quickstart">See below.</a>
+        h3 The OKR quickstart programme
+        p See below for how I can help train up a group of OKR champions within your organisation with a set of highly interactive, remote sessions including my custom templates, and step-by-step guides. <a href="#quickstart">See below.</a>
       .col-md-4
-        h3 OKR Facilitation
+        h3 OKR facilitation
         p Need some professional help to set OKRs across multiple teams or improve your check-in process? I'm happy to provide expert remote facilitation for these sessions and teach you more techniques which you can use on your own.
       .col-md-4
         h3 Ad-hoc coaching
@@ -83,7 +83,7 @@
       .col-md-9              
         p In the first session, we'll talk briefly about the history and best practice behind OKRs and learn my <b>simple, proven technique for setting OKRs</b> which anyone can use in any team to set inspiring, measurable OKRs. Then we'll learn to <b>align OKRs both vertically and horizontally</b> across every team in your organisation. 
         
-        a class="btn btn-primary btn-sm" href="#" onclick="$('#session1').toggle(); return(false)" See more
+        a#s1 class="btn btn-primary btn-sm" href="#" onclick="$('#session1').toggle(); $('#s1').hide(); return(false)" Show more
         #session1 style="display: none"
           ul          
             li Quick overview of OKR background and best practice
@@ -103,11 +103,11 @@
     .row.course-item
       .col-md-3
         h4.subhead Session 2
-        h3 Going Deeper into OKRs
+        h3 Going deeper into OKRs
       .col-md-9
-        p In this session we'll explore more <b>advanced topics</b> to understand what makes OKRs really effective as well as <b>common pitfalls, and how to avoid them</b>.
+        p In this session we'll explore more <b>advanced OKR topics</b> like dealing with KPIs, initiatives, and BAU work to understand what makes OKRs really effective as well as <b>common pitfalls, and how to avoid them</b>.
         
-        a class="btn btn-primary btn-sm" href="#" onclick="$('#session2').toggle(); return(false)" See more
+        a#s2 class="btn btn-primary btn-sm" href="#" onclick="$('#session2').toggle(); $('#s2').hide(); return(false)" Show more
         #session2 style="display: none"
 
           ul
@@ -126,7 +126,7 @@
       .col-md-9    
         p <b>Smooth, repeatable, informative check-ins</b> are essential to a successful OKR practice. Done well, they show teams how their day-to-day work supports their most important strategic goals. They can inspire teams by telling teams exactly where to focus and what to do next. Weak (or non-existant) OKR check-ins can leave teams puzzled, frustrated, and disengaged.
         
-        a class="btn btn-primary btn-sm" href="#" onclick="$('#session3').toggle(); return(false)" See more
+        a#s3 class="btn btn-primary btn-sm" href="#" onclick="$('#session3').toggle(); $('#s3').hide(); return(false)" Show more
         #session3 style="display: none"
         
           ul
@@ -139,10 +139,10 @@
             li <b>Homework</b>: After the session, I'll invite participants to run a few check-ins with their teams using the techniques they've learned and their new OKRs, adding the results to the template.
     .row.course-item
       .col-md-3
-        h4.subhead Session 4
-        h3 Personalised OKR Coaching
+        h4.subhead Follow-up
+        h3 Personalised OKR coaching
       .col-md-9    
-        p In the final session, we'll have time with teams or individuals to talk through specific questions, ideas, and challenges that have come up during our training and during real practice with the teams. This is a chance to connect theory with reality and deal with any unique challenges and opportunities presented by your organisational context. This time can also be split into 2 shorter sessions. Past topics have included:
+        p After the training & practice workshops we'll have time with teams or individuals to talk through specific questions, ideas, and challenges that have come up during our training and during real practice with the teams. This is a chance to connect theory with reality and deal with any unique challenges and opportunities presented by your organisational context. This time can also be split into 2 shorter sessions. Past topics have included:
         ul
           li Dealing with real-world challenges
           li Keeping the OKR Champions community going
