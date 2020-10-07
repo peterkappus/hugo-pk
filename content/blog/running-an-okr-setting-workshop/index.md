@@ -35,7 +35,7 @@ Now that you have a single, inspiring, important, scary objective (or maybe two)
 
 For example, if your objective is to "Become the world's foremost expert on classic synthesizers". You might have a metric around "Number of synth models played this quarter" or, to start forming it as a Key Result: "Have played X different synth models".
 
-A good test of your metric is to pretend that you're mid-way through the next quarter. Does looking at this metric help you decide what do do this week? Or does it feel silly, irrelevant, or even annoying in the context of your "real" goals? If it won't feel essential and empowering to talk about this every week, pick something else.
+A good test of your metric is to pretend that you're mid-way through the next quarter. Does looking at this metric help you decide what to do this week? Or does it feel silly, irrelevant, or even annoying in the context of your "real" goals? If it won't feel essential and empowering to talk about this every week, pick something else.
 
 Once you've written these down, do some consensus building (maybe using affinity mapping and dot-voting) and discuss as before to narrow your metrics down to 2-3 per objective.
 

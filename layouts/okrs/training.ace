@@ -5,7 +5,7 @@
     hr
     .row
       .col-md-6
-        p.leader Whether your organisation is brand new to OKRs or just wants to make them a smooth and consistently valuable part of your delivery culture, I bring a clear, pragmatic, and actionable approach to OKRs.
+        p.leader Whether your organisation is brand new to OKRs or just wants to make them a smooth and consistently valuable part of your delivery culture, I bring a clear, pragmatic, and actionable approach to OKR training, facilitation, and coaching.
         / iframe width="100%" height="315" src="https://www.youtube.com/embed/GxaUMvoIz3o?modestbranding=1&autohide=1&showinfo=0&controls=1" frameborder="0" allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
         / {{ - Simple, fun, and effective OKR training and coaching <!--based in Europe--> to help your teams get the most from OKRs. 
       .col-md-6
@@ -74,9 +74,9 @@
       .col-md-12.header
         div
           a name="quickstart"
-          h2 The OKR quickstart programme
-          p Looking to get started quickly and create a set of "OKR Champions" within your organisation? This series of 4 highly interactive sessions conducted 
-    .row
+          h2 style="margin-top: 1rem" The OKR Quickstart Programme
+          p style="margin-top: 1rem" Looking to get started quickly and create a set of "OKR Champions" within your organisation? This series of highly interactive sessions conducted over a couple of weeks with up to 15 participants will get you and your teams applying OKR best practices <i>fast</i>.
+    .row style="margin-top: 2rem"
       .col-md-3
         h4.subhead Session 1
         h3 Setting OKRs with confidence
