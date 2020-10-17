@@ -146,7 +146,7 @@
         ul
           li Dealing with real-world challenges
           li Keeping the OKR Champions community going
-          li Opportunities for further study          
+          li Opportunities for further study & practice      
     .row
       .col-md-12.header
         a.btn.btn-primary.btn-lg href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/peterkappus/30min'});return false;" Still have questions? Let's talk!

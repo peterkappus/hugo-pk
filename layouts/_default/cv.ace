@@ -51,17 +51,19 @@
         h3 Delivery Skills
       .col-sm-9
         ul.skills
-          li Objectives & Key Results (OKRs)
           li Agile coaching & delivery
           li Continuous improvement
           li Stakeholder management
-          li Legacy transformation
+          / li Legacy rescue
+          li Digital & Agile transformation
+          li Target Operating Model (TOM)
+          li Objectives & Key Results (OKRs)
           li Programme / Portfolio management
           / li Change management training
-          li Data-driven decision making
+          / li Data-driven decision making
           li Kanban / Scrum
           / li Lean operations
-          li Agile finance <!--Budgeting <small>(Beyond Budgeting)</small>-->
+          li Agile finance & budgeting <!--Budgeting <small>(Beyond Budgeting)</small>-->
           / li Business planning
           / li Basic Accounting / finance
           / li Goal setting / OKRs
@@ -94,14 +96,14 @@
         ul.skills
           li Basic Linux DevOps
           li HTML/CSS/JavaScript
-          li Ruby on Rails, Slim
+          li Basic Ruby on Rails
           li Docker / Vagrant
           li Cloud Migration (AWS)
           li Data-wrangling
           li Continuous integration (Jenkins)
           li Git & Github
-          li BDD / Cucumber
-          li Basic test automation
+          li CI/CD Automation
+          li Test automation BDD / Cucumber
           li Basic Java, Maven, Tomcat
           li Rapid prototyping
 
@@ -113,21 +115,11 @@
       .col-sm-3
         h3 Experience
       .col-sm-9
-        .job
-          h3 Agile & OKR Coach
-          h4 Société Générale Corporate & Investment Banking (SGCIB) 
-          h5 May 2019 - present
-          p Lead Agile and principle OKR coach across two tribes as part of an ambitious Agile at Scale transformation programme with one of the world's biggest and oldest investment banks.
-          ul
-            li Defining transformation MVP (including Target Operating Model) for two tribes (150+ people) spanning 5 regions
-            li Coaching multiple teams including product owners, delivery managers, and leadership
-            li Coaching internal coaches and supporting the UK agile community
-            li Coaching technical and non-technical teams in agile practices including backlog refinement, story mapping, Definition of Done, Definition of Ready, Jira, retrospectives, estimation & velocity, Scrum/Kanban/Scrumban, OKRs, and continuous improvement
-            li Teams delivering mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability
+        
         .job
           h3 Agile & OKR coach
           h4 Various organisations
-          h5 Nov 2018 - Present
+          h5 Nov 2010 - Present
           p Providing OKR training and coaching for various organisations including <b>White & Case</b>, <b>Homes England</b>, <b>Médecins Sans Frontières</b>, a global asset management company and numerous start-ups and mid-sized organisations. Work includes the following:
           ul
             li On-site training workshops
@@ -135,12 +127,25 @@
             li Leadership coaching
             li OKR evaluations/auditing
             li Custom tooling & configuration
+            
+        .job
+          h3 Senior Agile & OKR Coach
+          h4 Société Générale Corporate & Investment Banking (SGCIB) 
+          h5 May 2019 - July 2020
+          p Lead Agile and principle OKR coach across two tribes as part of an ambitious Agile at Scale transformation programme with one of the world's biggest and oldest investment banks.
+          ul
+            li Defined transformation MVP (including Target Operating Model) for two tribes (150+ people) spanning 5 regions
+            li Teams deployed both SAFe and Spotify model for scaling agile
+            li Coached multiple teams including product owners, delivery managers, and leadership in agile practices including backlog refinement, story mapping, Definition of Done, Definition of Ready, Jira, retrospectives, estimation & velocity, Scrum/Kanban/Scrumban, OKRs, and continuous improvement
+            li Coached internal coaches and led the UK agile community
+            li Coached both technical and non-technical/onboarding/service teams 
+            li Scope included mission-critical platforms for listed derivitives, cash equities and algorithmic trading at a global scale with better than 24x6 99.999% availability      
         .job
           h3 Agile & OKR Coach / Delivery Manager
           / i.small (Contract)
           h4 British Broadcasting Corporation - Proteus Team
           h5 Nov 2017 - Feb 2019
-          p Providing agile coaching and delivery management for the 15+ year old legacy Proteus platform enabling the commissioning and scheduling of <b>every second of audio played on BBC Radio</b> and managing meta-data for <b>hundreds of millions</b> of briefs, proposals, commissions, programmes, episodes and transmissions from the past <b>90+ years</b>.
+          p Agile coaching and delivery management for the 15+ year old legacy Proteus platform which handled commissioning and scheduling of <b>every second of audio played on BBC Radio</b> and managing meta-data for <b>hundreds of millions</b> of briefs, proposals, commissions, programmes, episodes and transmissions covering <b>90+ years</b>.
           ul
             li Reduced mean time between releases from <b>4 months to 8 days</b>
             li Reduced deployment time from <b>4 hours to 5 minutes</b>
