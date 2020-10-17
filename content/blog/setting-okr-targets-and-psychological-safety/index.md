@@ -5,10 +5,10 @@ draft: false
 categories: blog  
 resources:
   - name: cover
-    src: erda-estremera-581452-unsplash.jpg
+    src: fionn-claydon-zu9l6Lqi4bE-unsplash.jpg
     params:
-      credit: Photo by Erda Estremera on Unsplash
-      link: https://unsplash.com/photos/sxNt9g77PE0
+      credit: Photo by Fionn Claydon on Unsplash
+      link: https://unsplash.com/photos/zu9l6Lqi4bE
 
 ---
 
@@ -107,4 +107,4 @@ In other words, know your audience, don't torch  your OKR implementation by insi
 How do you find your edge? How much should you push? Get in touch below and let me know!
 
 
-<div style="color:#555; padding: 1rem 0">1. Measure What Matters, chapter 13</div>
+<div style="color:#555; padding: 1rem 0">1. Measure What Matters: Chapter 13</div>
