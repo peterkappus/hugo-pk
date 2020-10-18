@@ -1,7 +1,7 @@
 ---
 title: "Setting OKR Targets and Psychological Safety"
 date: 2020-10-17T19:20:36Z
-draft: true
+draft: false
 categories: blog  
 resources:
   - name: cover
@@ -63,7 +63,6 @@ In times of great upheaval and transition (hello, 2020!), psychological safety i
 
 As Dr. Edmondson says in the video above, nobody shows up to work wanting to look “[ignorant, incompetent, intrusive, or negative](https://www.youtube.com/watch?v=LhoLuui9gX8&t=1m40s)”. We want to be seen as capable, positive, and consistently delivering on our commitments. In some organisations, this is a matter of survival. 
 
-
  [Writing in 2003](https://www.researchgate.net/publication/8150380_A_Typology_of_Organisational_Cultures), sociologist Ron Westrum identified three primary organisational types:  Pathological, Bureaucratic, and Generative. Pathological organisations are marked by low coöperation, low responsibility, "blamestorming", and nonexistent innovation. Generative organisations are marked by high coöperation, learning from mistakes, and implementing novel approaches.
  
 There is almost always a degree of pressure (whether motivated by politics, team dynamics, or personal pride) to appear "reliable" and to "deliver on our commitments". 
@@ -82,7 +81,7 @@ Imagine that you have a big "dial" next to your Key Result targets. In an ideal 
 
 I know: I'm telling you to ignore all the OKR literature out there, even John Doerr, himself... but above all, I'm a pragmatist. 
 
-If people are being pushed too hard to "aim high" and "be ambitious" and it becomes a question of losing face in a scary environment, people will either reject OKRs outright (which can be addressed) or pick Key Results that don't actually matter and just pay lip service to the practice while it slowly dies on the vine and gives the organisation no benefit, while stifling future innovation by eroding trust in leadership and further willingness to try new things.
+If people are being pushed too hard to "aim high" and "be ambitious" and it becomes a question of losing face in a scary environment, people will either reject OKRs outright  or pick Key Results that don't actually matter and just pay lip service to the practice while it slowly dies on the vine and actually damages the organisation's ability to innovate (stifling future innovation by eroding trust in leadership and further willingness to try new things).
 
 ## What about OKR grading?
 
@@ -98,7 +97,7 @@ How does this look in the context of grading OKRs?
 
 1. Remember that every OKR is a scientific experiment, not a task to complete.
 2. Be ambitious in your own goals and celebrate when you come up short and learn something in the process
-3. Ask powerful questions. Where were we unlucky vs unskilled? What didn't work? What will we do differently? 
+3. Ask powerful questions. What didn't work? What will we do differently? 
 
 In this way, we use OKRs to explore and understand reality, not to control it. It strengthens our foundations and operating position, ultimately enabling far greater outcomes.
 
@@ -109,11 +108,11 @@ In practice, this means that you may, initially, be delivering Key Results to 80
 
 Ideally, teams would model this behaviour across the entire organisation. If not, you may find yourself acting as a team which appears to deliver less than the other teams but which has far more challenging goals. Tread carefully, work closely with other teams and make sure you're ready to be a trailblazer.
 
-As Ken Schwaber says "[A dead sheepdog is a useless sheepdog.](https://littlecode.in/2019/07/30/a-dead-scrum-master-is-a-useless-scrum-master-ken-schwaber/#:~:text=A%20DEAD%20Scrum%20Master%20is%20a%20USELESS%20Scrum%20Master%20%E2%80%93%20Ken%20Schwaber,-In%20Ken%20Schwaber's&text=Remember%20that%20Scrum%20is%20the,%E2%80%9C)". Like anything transformative, adopting OKRs requires great sensitivity. The most important thing you can do while adopting OKRs is to understand reality. Used well, OKRs are the most powerful tool there is for understanding how your organisation works, how the environment around your organisation works and where you have the greatest leverage for change.
+As Ken Schwaber says "[A dead sheepdog is a useless sheepdog.](https://littlecode.in/2019/07/30/a-dead-scrum-master-is-a-useless-scrum-master-ken-schwaber/#:~:text=A%20DEAD%20Scrum%20Master%20is%20a%20USELESS%20Scrum%20Master%20%E2%80%93%20Ken%20Schwaber,-In%20Ken%20Schwaber's&text=Remember%20that%20Scrum%20is%20the,%E2%80%9C)" Like anything transformative, adopting OKRs requires great sensitivity. The most important thing you can do while adopting OKRs is to understand reality. Used well, OKRs are the most powerful tool there is for understanding how your organisation works, how the environment around your organisation works and where you have the greatest leverage for change.
 
-In other words, know your audience, don't torch  your OKR implementation by insisting that people move too far out of their comfort zone. Be patient. Remember that OKRs are there to serve your organisation in the most holistic sense. OKRs should enhance psychological safety. It will vary for every team and individual but find your edge, figure out exactly how far to push, and, above all, be sensitive. 
+In other words, know your audience, don't scorch your OKR implementation by insisting that people move too far out of their comfort zones. Be patient. Remember that OKRs are there to serve your organisation in the most holistic sense. OKRs should enhance psychological safety. It will vary for every team and individual but find your edge, figure out exactly how far to push, and, above all, be sensitive. 
 
 How do you find your edge in a safe way? How much should you push? Get in touch below and let me know!
 
 
-<div style="color:#555; padding: 1rem 0">1. Measure What Matters: Chapter 13</div>
+<div style="color:#666; padding: 1rem 0; font-size: 0.8rem">1. Measure What Matters: Chapter 13</div>
