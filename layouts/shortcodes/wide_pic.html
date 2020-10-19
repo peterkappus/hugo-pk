@@ -1,6 +1,8 @@
 {{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get 0)) }}
 {{ $command := .Get 1 }}
 {{ $options := .Get 2 }}
+{{ $credit := .Get 3 }}
+
 {{ if eq $command "Fit"}}
 	{{ .Scratch.Set "image" ($original.Fit $options) }}
 {{ else if eq $command "Resize"}}
@@ -16,7 +18,7 @@
 	<img src="{{ $image.RelPermalink }}">
 	<figcaption style="margin-bottom: 3rem">
 	<div class="credit">
-		{{$original.Params.credit}}
+		{{$credit}}
 		<!--<a href="{{$original.Params.link}}">		{{$original.Params.credit}}</a>-->
 	</div>
 </figcaption>
