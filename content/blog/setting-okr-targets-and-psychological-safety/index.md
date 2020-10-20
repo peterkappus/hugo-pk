@@ -1,6 +1,6 @@
 ---
 title: "Setting OKR Targets and Psychological Safety"
-date: 2020-10-17T19:20:36Z
+date: 2020-10-20T09:20:36Z
 draft: false
 categories: blog  
 resources:
@@ -65,25 +65,25 @@ Unfortunately, most organisations don’t work this way. Yours probably doesn’
 
 ## "Psychological Safety"?
 
-At work (or anywhere for that matter), [Psychological safety](https://en.wikipedia.org/wiki/psychological_safety) is critical to allowing people to do their best, to learn and support each other, and (quite often) to prevent catastrophe. It's what allows people to be free from fear, shame, and guilt so that they speak up, ask difficult questions, and try new things. **It's the basis of both resilience and innovation**.
+At work (or anywhere for that matter), [psychological safety](https://en.wikipedia.org/wiki/psychological_safety) is critical to allowing people to do their best, to learn and support each other, and (quite often) to prevent catastrophe. It's what allows people to be free from fear, shame, and guilt so that they speak up, ask difficult questions, and try new things. **It's the basis of both resilience and innovation**.
 
 In times of great upheaval and transition (hello, 2020!), psychological safety is vital to the survival of any organisation, social construct, or relationship. [Amy Edmondson](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6451) has written a [whole book](https://fearlessorganization.com/) on the topic and gave [this short talk](https://www.youtube.com/watch?v=LhoLuui9gX8) if you’d like a primer.
 
-As Dr. Edmondson says in the video above, nobody shows up for work wanting to look “[ignorant, incompetent, intrusive, or negative](https://www.youtube.com/watch?v=LhoLuui9gX8&t=1m40s)”. We want to be seen as capable, positive, and consistently delivering on our commitments. 
+As Edmondson says in the video above, nobody shows up for work wanting to look “[ignorant, incompetent, intrusive, or negative](https://www.youtube.com/watch?v=LhoLuui9gX8&t=1m40s)”. We want to be seen as capable, positive, and consistently delivering on our commitments. 
 
  [Writing in 2003](https://www.researchgate.net/publication/8150380_A_Typology_of_Organisational_Cultures), sociologist Ron Westrum identified three primary organisational types:  Pathological, Bureaucratic, and Generative. _Pathological_ organisations are marked by low coöperation, low responsibility, "blamestorming", and nonexistent innovation. At the opposite end, _generative_ organisations are marked by high coöperation, learning from mistakes, and implementing novel approaches.
  
 The thing is, innovation requires risk and risk usually involves some degree of failure along the way. The only way to guarantee 100% "success" 100% of the time is to follow an established process to the letter and give up on innovation.
 
-A line cook will rarely make a bad omelet :fried_egg: but a bold chef will very often come up with disastrous recipes on the way to creating a new dish which is surprising and delightful. Thomas Edison famously tried thousands of different materials before landing on a tungsten filament. Between 2008 and 2010 the Google Chrome team repeatedly set (and "failed" to achieve) audacious stretch goals for weekly active users starting at 20 million and eventually achieving 111 million weekly active users.<sup>1</sup>
+A line cook will rarely make a bad omelet :fried_egg: but a bold chef will very often come up with disastrous recipes on the way to creating something groundbreaking and delightful. Thomas Edison famously tried thousands of different materials before landing on a tungsten lightbulb filament. Between 2008 and 2010 the Google Chrome team repeatedly set (and "failed" to achieve) audacious stretch goals for weekly active users starting at 20 million and eventually achieving 111 million weekly active users.<sup>1</sup>
 
 > I have not failed. I've just found 10,000 ways that won't work. <br> – Thomas Edison
 
 ## What to do?
 
-If you find yourself in a **pathological** or **bureaucratic** organisation with low **psychological safety**, OKRs can still be a useful tool for self-knowledge and improvement across the org. If teams are under pressure to deliver at (or near) 100%, you can simply scale your ambitions accordingly.
+If you find yourself in a **pathological** or **bureaucratic** organisation with low **psychological safety**, OKRs can still be a useful tool for self-knowledge and improvement across the organisation. If teams are under pressure to deliver at (or near) 100%, you can simply scale your ambitions accordingly.
 
-Imagine that you have a big "dial" next to your Key Result targets. In an ideal world, you'd start with 50/50 confidence. In other words, you'd pick targets which get you "uncomfortably excited" (to quote Larry Page)<sup>1</sup>. In your world, **you might have to dial down your ambition** so that you can get closer to 100% and manage the optics around what you can do. Maybe it's not a 40% increase in revenue, but a 25% increase...or less.
+Imagine that you have a big "dial" next to your Key Result targets. In an ideal world, you'd start with 50/50 confidence. In other words, you'd pick targets which get you "uncomfortably excited" (to quote Larry Page)<sup>1</sup>. In your world, **you might have to dial down your ambition** so that you can get closer to 100% and manage the optics around what you can do. Maybe it's not a 40% increase in revenue, but a 25% increase...or less. If you need to turn down the heat while your teams get comfortable with OKRs, do it.
 
 {{< wide_pic moja-msanii-vO9-gal54go-unsplash Resize 800x "Photo by Moja Msanii on Unsplash" "https://unsplash.com/photos/vO9-gal54go?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">}}
 
@@ -92,7 +92,7 @@ Imagine that you have a big "dial" next to your Key Result targets. In an ideal 
 
 I know: I'm telling you to ignore all the OKR literature out there, even John Doerr, himself... but above all, I'm a pragmatist. 
 
-If people are being pushed too hard to "aim high" and "be ambitious" and it becomes a question of losing face in a scary environment, people will either reject OKRs outright  or pick Key Results that don't actually matter and just pay lip service to the practice while it slowly dies on the vine and actually damages the organisation's ability to innovate (by stifling future innovation by eroding trust in leadership and further willingness to try new things).
+If people are being pushed too hard to "aim high" and "be ambitious" and it becomes a question of losing face in a scary environment, people will either reject OKRs outright  or pick Key Results that don't actually matter and just pay lip service to the practice while it slowly dies on the vine and actually damages the organisation's ability to innovate (by eroding trust in leadership and appetite for risk).
 
 ## What about OKR grading?
 
@@ -106,7 +106,7 @@ In the [video above](https://www.youtube.com/watch?v=LhoLuui9gX8), Amy Edmondson
 
 How does this look in the context of grading OKRs?
 
-1. Remember that every OKR is a scientific experiment, not a task to complete.
+1. Remember that every OKR is a scientific experiment, not a task to complete
 2. Be ambitious in your own goals and celebrate when you come up short and learn something in the process
 3. Ask powerful questions. What didn't work? What will we do differently? Make sure you can answer these :smile: 
 
@@ -118,9 +118,9 @@ In this way, we use OKRs to explore and understand reality, not to control it. I
 
 ## Keep your eyes on the prize
 
-Remember that OKRs are continuous improvement framework. They're there to help your teams understand reality and, ultimately, to work better together and deliver great outcomes. This takes time.
+Remember that OKRs are a continuous improvement framework, designed to help your teams understand reality and, ultimately, to work better together and deliver stronger outcomes. This takes time.
 
-In practice, this means that you may, initially, be delivering Key Results to 80-100% (or even above 100%) and as the environment becomes more "safe" (and transparent), you can become more ambitious and begin to deliver your Key Results at 60-70% of your Key Results.  This requires care and lots of buy-in and communication from the top since, optically, it looks like teams are actually delivering less. In reality, they're probably delivering much more.
+In practice, this means that you may, initially, be delivering Key Results to 80-100% (or even above 100%) of target and as the environment becomes more "safe" (and transparent), you can become more ambitious and begin to deliver your Key Results at 60-70% of your Key Results.  This requires care and lots of buy-in and communication from the top since, optically, it looks like teams are actually delivering less. In reality, they're probably delivering much more.
 
 
 Ideally, teams would model this behaviour across the entire organisation. If not, you may find yourself acting as a team which appears to deliver less than the other teams but which has far more challenging goals. This is tricky but worthwhile work which can give other teams permission to stretch as long as they have support of leadership. Tread carefully, know the context, work closely with other teams and make sure you're ready to be a trailblazer.
