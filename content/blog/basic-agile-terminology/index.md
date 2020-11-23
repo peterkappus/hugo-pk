@@ -3,7 +3,6 @@ title: "A Tour of Basic Agile Terminology"
 date: 2019-07-08T19:28:24Z
 categories: blog  
 draft: false
-featured: true
 tags: 
   - agile
 resources:

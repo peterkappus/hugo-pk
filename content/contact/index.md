@@ -5,6 +5,7 @@ resources:
     #src: head2.jpg
     src: head3.jpg
 title: Let's talk!
+contact_form_title: Send me a message!
 type: contact
 ---
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">

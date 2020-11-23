@@ -3,6 +3,8 @@ categories:
 - Blog
 tags:
   - NVC
+  - teams
+  - communication
 featured: false
 date: "2018-07-10"
 resources:

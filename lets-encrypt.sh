@@ -1,3 +1,8 @@
+# DEPRECATED - Now using built-in SSL via AWS
+# Keeping this for future reference
+
+
+
 # Run: docker run -it python:2.7.15 bash
 
 #Insert your AWS credentials below but DO NOT SAVE. :)

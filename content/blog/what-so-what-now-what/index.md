@@ -3,6 +3,7 @@ categories:
 - Blog
 date: "2018-08-12"
 featured: false
+tags: [teams]
 resources:
 - name: cover
   params:

@@ -8,6 +8,8 @@ categories:
 - NVC
 tags: 
   - NVC
+  - Teams
+  - Communication
 keywords: [featured]
 date: "2018-05-12"
 draft: false

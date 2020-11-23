@@ -10,37 +10,36 @@ resources:
 ---
 
 <div style="background: #eee; padding: 2rem 2rem 1.2rem 2rem; margin-bottom: 2rem; font-size: 2rem;">
-  <p style="line-height: 2.5rem"> For the past twenty years I've helped teams to get better at building digital products and have fun while they do it.</p>
+  <p style="line-height: 2.5rem">The world needs your ideas, your passion, and your expertise. I help teams in the world's most digital organisations to work better together, deliver outstanding outcomes, and have more fun while they do it.</p>
 </div>
 
-I was born in **London** (UK), raised in St. Louis MO (USA) and lived in Denver, Boulder, Brooklyn, and Seattle, returning to London in 2009. I studied computer science and architecture, helped to build a successful [digital agency](http://designcommission.com/), a wireless web-enabled insulin pump, a Forex trading platform, social media data-mining tools, a more [digital UK Government](https://gds.blog.gov.uk/) and lately, lots of [OKR Coaching](/okr-consulting) and [Agile Coaching](/cv).
+Born in London, raised in St. Louis MO, shaped in Boulder, Brooklyn, Seattle, and now back in London, I've had the privilege to help build a successful  [digital agency](http://designcommission.com/), a [research, analytics, trading, and reporting platform](https://www.credit-suisse.com/ch/en/investment-banking/global-markets/equities/credit-suisse-plus.html), a more [digital UK Government](https://gds.blog.gov.uk/) and a [better BBC](https://www.bbc.com/backstage/design-engineering). 
 
-I've been a web developer, a project, programme, & portfolio manager, a floor-mopper, start-up furniture assembler, a linux systems administrator, a CTO, and more.
+I've been a web developer, a project, programme, portfolio manager, flat-pack furniture-assembler, linux systems administrator, CTO, and coach.
 
-_I love helping teams to do the following:_
+Along the way, I've learned to value **diverse perspectives**, **experimentation**, and **strong relationships**. 
 
-1. Get clear on what they're doing 
-2. Get clear on why they're doing it
-3. Get better at doing what they're doing
-4. Enjoy the journey!
+Using **lean/agile** practices, ultra-inclusive facilitation techniques (like **Liberating Structures**), and powerful goal setting frameworks (like **OKRs**) I help teams to consistently challenge the status quo and redefine their peak performance.
+
+I've also been known to [make art](http://www.abstraktor.com) and [improvise on the piano](https://piano.peterkappus.com). I'd love to know what you're working on.
 
 ## A few of my clients
 
   * The BBC: Design + Engineering (including iPlayer)
   * The UK's [Government Digital Service](https://gds.blog.gov.uk/)
   * A global hedge fund
+  * Doctors Without Borders (MSF)
   * Société Générale Corporate & Investment Banking
   * Credit Suisse
   * American Express
   * Homes England
   * White & Case
-  * Doctors Without Borders (MSF)
   * Pearson Publishing
   * And many more...
   
 
-<a href="/okr-consulting" class="btn btn-primary btn-lg">More about OKR Consulting</a>
 <a href="/cv" class="btn btn-primary btn-lg">See my full CV</a>
+<a href="/okr-consulting" class="btn btn-primary btn-lg">OKR training & coaching</a>
 
 <!--
 I've helped teams in banking, government, media, bio-tech, and more to adopt tools like lean/agile practices, DevOps/SRE, systems thinking, [Objectives & Key Results](/okr-consulting), [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc) to reach (and redefine) their peak. I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. In fact, you're looking at [some of my code](/colophon) right now.
@@ -48,6 +47,5 @@ I've helped teams in banking, government, media, bio-tech, and more to adopt too
 <a href="/cv" class="btn btn-primary btn-lg">Check out my experience</a> 
 -->
 
-I'd love to know what you're working on, see if I can help and maybe talk about <a href="/art">art</a>, <a href="/music">music</a>, and culture.
 
 ## Sound good? [Get in touch!](/contact)

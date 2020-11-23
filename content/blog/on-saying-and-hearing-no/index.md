@@ -3,9 +3,11 @@ title: On hearing and saying "no"
 date: 2018-08-16
 draft: false
 featured: false
-keywords: [nvc]
+keywords: [nvc, teams, communication]
 tags:
   - NVC
+  - teams
+  - communication
 categories:
   - Blog  
 resources:

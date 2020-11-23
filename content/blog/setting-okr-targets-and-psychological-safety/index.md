@@ -3,6 +3,8 @@ title: "Setting OKR Targets and Psychological Safety"
 date: 2020-10-20T09:20:36Z
 draft: false
 categories: blog  
+featured: true
+tags: [okrs,safety]
 resources:
   - name: cover
     src: fionn-claydon-zu9l6Lqi4bE-unsplash.jpg
@@ -120,7 +122,7 @@ In this way, we use OKRs to explore and understand reality, not to control it. I
 
 Remember that OKRs are a continuous improvement framework, designed to help your teams understand reality and, ultimately, to work better together and deliver stronger outcomes. This takes time.
 
-In practice, this means that you may, initially, be delivering Key Results to 80-100% (or even above 100%) of target and as the environment becomes more "safe" (and transparent), you can become more ambitious and begin to deliver your Key Results at 60-70% of your Key Results.  This requires care and lots of buy-in and communication from the top since, optically, it looks like teams are actually delivering less. In reality, they're probably delivering much more.
+In practice, this means that you may, initially, be delivering Key Results to 80-100% (or even above 100%) of target and as the environment becomes more "safe" (and transparent), you can become more ambitious and begin to deliver your Key Results at 60-70% of your Key Results. This requires care and lots of buy-in and communication from the top since, optically, it looks like teams are actually delivering less. In reality, they're probably delivering much more.
 
 
 Ideally, teams would model this behaviour across the entire organisation. If not, you may find yourself acting as a team which appears to deliver less than the other teams but which has far more challenging goals. This is tricky but worthwhile work which can give other teams permission to stretch as long as they have support of leadership. Tread carefully, know the context, work closely with other teams and make sure you're ready to be a trailblazer.

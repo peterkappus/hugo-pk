@@ -12,9 +12,9 @@ nav.navbar.navbar-expand-md.navbar-light.bg-white.px-0
             a.nav-link href="/cv" CV
           li.nav-item class="{{if (eq .Type "blog")}}active{{end}}"
             a.nav-link href="/blog" Blog
-          li.nav-item class="{{if (eq .Type "art")}}active{{end}}"
+          / li.nav-item class="{{if (eq .Type "art")}}active{{end}}"
             a.nav-link href="/art"  Art
-          li.nav-item class="{{if (eq .Type "music")}}active{{end}}"
+          / li.nav-item class="{{if (eq .Type "music")}}active{{end}}"
             a.nav-link href="/music"  Music
           li.nav-item class="{{if (eq .Type "about")}}active{{end}}"
             a.nav-link href="/about"  About

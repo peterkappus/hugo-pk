@@ -38,6 +38,21 @@
           h2
             a href="/art" Art
   
+  .row
+    .col-md-12
+      h3.other_posts Featured Clients
+      hr
+  #logos.row.d-flex.flex-wrap.align-items-center
+    .col-md-4
+      a href="/cv" 
+        img src="/images/logos/bbc.svg" 
+    .col-md-4
+      a href="/cv" 
+        img src="/images/logos/socgen.svg" 
+    .col-md-4
+      a href="/cv" 
+        img src="/images/logos/hm-gov.svg"
+
   = include partials/relatedContent.html .
 
   {{ partial "footer" .}}
