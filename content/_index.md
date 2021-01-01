@@ -7,4 +7,4 @@ resources:
     src: head3.jpg
 ---
 
-Hello! I'm a UK-based organisational coach using <a href="/okrs">OKRs</a> and <a href="/cv">agile practices</a> to help teams maximise clarity, delivery, and joy.
+Hello! I'm Peter Kappus, a UK-based organisational coach using <a href="/okrs">OKRs</a> and <a href="/cv">agile practices</a> to help teams maximise clarity, delivery, and joy.
