@@ -8,11 +8,15 @@ html lang="en"
     meta name="google-site-verification" content="Uid-gGEl8uJ6t3AarJMtDSEYrtif0mmzR7u2Yhe4km0"
     {{ template "_internal/opengraph.html" . }}
     meta property="og:image" content="{{ .Site.BaseURL}}{{ partial "getCover.html" . }}"
-    / meta property="og:title" content="{{ .Title }}"
-      meta name="description" property="og:description" content="{{ .Summary }}"
-      meta property="og:url" content="{{ .Permalink }}"
-    link rel="icon" type="image/png" href="/images/icon.png"
-    link rel="shortcut icon" href="/images/icon.png" type="image/x-icon"
+    meta property="og:title" content="{{ .Title }}"
+    meta name="description" property="og:description" content="{{ .Summary }}"
+    meta property="og:url" content="{{ .Permalink }}"
+    link rel="icon" type="image/png" href="/apple-touch-icon.png"
+    / link rel="shortcut icon" href="/images/icon.png" type="image/x-icon"
+    link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"
+    link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"
+    link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"
+    link rel="manifest" href="/site.webmanifest"
     {{ $pageTitle := .Title | default ""}}
     {{ if eq $pageTitle "" }}
       title Peter Kappus

@@ -85,16 +85,7 @@
       h2 About Peter Kappus
       p Peter Kappus is a UK-based organisational coach using <a href="/okrs">OKRs</a> and <a href="/cv">agile practices</a> to help teams maximise clarity, delivery, and joy.
       p
-        a.btn.btn-primary href="/contact" Let's talk! 
-      
-      /
-        hr
-        h2 Follow me!
-        .share
-          a.fab.fa-twitter href="http://twitter.com/peterkappus"
-          a.fab.fa-linkedin href="http://linkedin.com/in/peterkappus"
-          a.fab.fa-instagram href="http://instagram.com/abstraktor"
-          a.fab.fa-soundcloud href="http://soundcloud.com/peterkappus"
+        a.btn.btn-primary href="/contact" Let's talk!       
       {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 6}}
       {{ with $related }}  
       .d-none.d-lg-block.d-md-block.otherPosts
@@ -117,6 +108,13 @@
         p.small Sign up for tips & tools on OKRs, continuous improvement, and a bit of art and music. Unsubscribe anytime.
         = include partials/mailchimpSignup.html .
         / hr.d-block.d-sm-none       
+        hr
+        h2 Follow me!
+        .share
+          a.fab.fa-twitter href="http://twitter.com/peterkappus"
+          a.fab.fa-linkedin href="http://linkedin.com/in/peterkappus"
+          a.fab.fa-instagram href="http://instagram.com/abstraktor"
+          a.fab.fa-soundcloud href="http://soundcloud.com/peterkappus"
       
         
   = include partials/relatedContent.html .
