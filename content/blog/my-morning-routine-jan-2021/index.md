@@ -21,7 +21,7 @@ During the break, I've begun following a morning routine that will probably fall
 
 Here it is (in more detail than you require):
 
-* ⏰ Wake up around with the gentle [alarm on my phone](https://support.apple.com/en-us/HT208655)
+* ⏰ Wake up with the gentle [alarm on my phone](https://support.apple.com/en-us/HT208655)
 * Hit snooooze 2-3 times (I'm a realist)
 * Turn off the alarm (ignoring any notifications)
 * Take a big breath, stretch, & sit up
@@ -33,7 +33,7 @@ Here it is (in more detail than you require):
 * Unroll my yoga mat
 * Blow my nose vigorously :nose:
 * Pour boiling water over the oats and make [tea](https://www.pukkaherbs.com/uk/en/products/organic-teas/revitalise.html)
-* 🧘‍♂️ Meditate for 10min (with [this app](https://tannerchristensen.com/center))
+* 🧘‍♂️ Meditate for 10 min (with [this app](https://tannerchristensen.com/center))
 * Put on some [yoga music](https://open.spotify.com/album/1fTdrtfcU3mW4xSMdBHRHe?si=wtVW1cnaTKSnIwcHj6pSNg)
 * Do a few sun salutations
 * ~2 min of [Shavansana](https://en.wikipedia.org/wiki/Shavasana)
@@ -45,10 +45,10 @@ To help establish some of these things as "habits" I've taken the "[Don't break 
 
 {{<wide_pic habit_sheet Resize 800x >}}
 
-The meditation is very light right now. I started with just a few minutes a day and, even now, only do around 10min per day but my current focus is on consistency, and making it a habit, not so much on duration. Same with the yoga. I may introduce longer sessions during the week to get more of a workout. For now, I give myself "credit" for simply getting into a meditation/yoga/book-reading space for even a few minutes.
+The meditation is very light right now. I started with just a few minutes a day and, even now, only do around 10 minutes per day but my current focus is on consistency, and making it a habit, not so much on duration. Same with the yoga. I may introduce longer sessions during the week to get more of a workout. For now, I give myself "credit" for simply getting into a meditation/yoga/book-reading space for even a few minutes.
 
 
-As the Prussian military commander [Helmuth von Moltke](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder) famously said, "[No plan survives first contact with the enemy](https://en.wikiquote.org/wiki/Helmuth_von_Moltke_the_Elder)", and once the work routine and the school routine collide with this morning routine, there will be plenty of opportuity to inspect and adapt! Nevertheless, this is the first time I've written down a routine so that's a minor win!
+As the Prussian military commander [Helmuth von Moltke](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder) famously said, "[No plan survives first contact with the enemy](https://en.wikiquote.org/wiki/Helmuth_von_Moltke_the_Elder)", and once the work routine and the school routine collide with this morning routine, there will be plenty of opportunity to inspect and adapt! Nevertheless, this is the first time I've written down a routine so that's a minor win!
 
 How does your morning routine look? Get in touch below and let me know! Or tell me [on Twitter](https://www.twitter.com/peterkappus).
 
