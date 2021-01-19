@@ -104,8 +104,8 @@
       {{- end -}} 
       hr
       .sticky style="margin-bottom: 2rem"
-        h2 Newsletter
-        p.small Sign up for tips & tools on OKRs, continuous improvement, and a bit of art and music. Unsubscribe anytime.
+        h2 Keep in touch!
+        p.small Sign up for may latest & tools on OKRs, continuous improvement, and a bit of art and music. Unsubscribe anytime.
         = include partials/mailchimpSignup.html .
         / hr.d-block.d-sm-none       
         hr

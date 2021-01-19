@@ -12,7 +12,7 @@
           .pride-bar style="background: #ff8c00"
           .pride-bar style="background: #e40303"
       / Regular black rule
-      hr
+      hr style="margin-top: 0.5rem"
   .row style="margin-bottom: 1rem"
     .col-md-6
       a href="/about"
@@ -54,5 +54,7 @@
         img src="/images/logos/hm-gov.svg"
 
   = include partials/relatedContent.html .
+  
+  = include partials/footer_email_signup.html .
 
   {{ partial "footer" .}}

@@ -11,4 +11,4 @@ source secrets.env
 docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws s3 sync . s3://www.peterkappus.com --delete --size-only --acl=public-read --exclude=".git*"
 #docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws s3 sync . s3://www.peterkappus.com --delete --exact-timestamps --acl=public-read --exclude=".git*"
 
-source secrets.env && docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws cloudfront create-invalidation --distribution-id EVU06526BKPXZ --paths "/blog/*" "/css/main.css"
+source secrets.env && docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws cloudfront create-invalidation --distribution-id EVU06526BKPXZ --paths "/index.html" "/blog/*" "/css/main.css"
