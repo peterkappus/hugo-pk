@@ -38,6 +38,10 @@
           h2
             a href="/art" Art
   
+  .row
+    .col-md-12
+      h3.other_posts Featured Clients
+      hr
   = include partials/clients.html .
 
   = include partials/relatedContent.html .

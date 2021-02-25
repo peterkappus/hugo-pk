@@ -287,7 +287,7 @@ ul.skills
         text-align: center
         font-size: 2.5rem
   h3
-    font-size: 2.6rem
+    font-size: 3vw
   .top 
     //position: relative
     //width: 100%
@@ -343,6 +343,23 @@ h1
   font-size: 4rem
 
 
+
+#logos 
+  text-align: center
+  div
+    img :first
+      margin-left: 0 !important
+    img :last
+      margin-right: 0 !important
+      text-align: right
+    img
+      margin-right: 2rem
+      margin-bottom: 1rem
+      width: 80%
+      
+      
+      
+
 @media print
   .noprint
     display: none
@@ -355,6 +372,8 @@ h1
 
 .page-break
   page-break-after: always
+
+
 
 @media(max-width: 550px)
   .main, .headline
@@ -375,6 +394,19 @@ h1
   .relatedContent
     .col-md-4
       padding-bottom: 2rem
+  #logos 
+    text-align: center
+    div
+      img :first
+        margin-left: 0 !important
+      img :last
+        margin-right: 0 !important
+        text-align: right
+      img
+        margin-bottom: 1rem
+        width: 40vw    
+      
+      
 .relatedContent
   .img
     margin-bottom: 0.5rem
@@ -440,10 +472,3 @@ h3.other_posts
   background-color: white
   font-size: 20px
   
-#logos div
-  img :first
-    margin-left: 0 !important
-  img
-    margin-right: 2rem
-    margin-bottom: 1rem
-    width: 80%

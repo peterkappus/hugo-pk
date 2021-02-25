@@ -1,0 +1,16 @@
+#logos.row.d-flex.flex-wrap.align-items-center
+  .col-md
+    a href="/cv" 
+      img src="/images/logos/bbc.svg" 
+  .col-md
+    a href="/cv" 
+      img src="/images/logos/socgen.svg" 
+  .col-md
+    a href="/cv" 
+      img src="/images/logos/hm-gov.svg"
+  .col-md
+    a href="/cv" 
+      img src="/images/logos/msf-medecins-sans-frontieres.svg"
+  .col-md
+    a href="/cv" 
+      img src="/images/logos/wikimedia-foundation.svg"
