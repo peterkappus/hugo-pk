@@ -1,4 +1,5 @@
 {{ partial "header" .}}
+link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css"
   .container.okrs
     .top style="display: table; width: 100%"
       h1 OKR Training & Coaching
@@ -29,18 +30,22 @@
           p I offer a variety of workshops, courses, and individualised coaching.
     .row.how-it-works
       .col-md-4
+        h2 class="bi-signpost-split-fill"
         h3 The OKR quickstart programme
         p See below for how I can help train up a group of OKR champions within your organisation with a set of highly interactive, remote sessions including my custom templates, and step-by-step guides. <a href="#quickstart">See below.</a>
       .col-md-4
+        h2 class="bi-tools"
         h3 OKR facilitation
         p Need some professional help to set OKRs across multiple teams or improve your check-in process? I'm happy to provide expert remote facilitation for these sessions and teach you more techniques which you can use on your own.
       .col-md-4
+        h2 class="bi-people-fill"
         h3 Ad-hoc coaching
         p Have some specific questions or challenges? Want more practice in the techniques we've learned in the training sessions? I can provide hourly one-to-one or group coaching on any area of OKRs where you'd like extra help.
     .row
       .col-md-12 style="text-align: center"
         a class="btn btn-lg btn-primary" href="/contact" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/peterkappus/30min'});return false;" Book a call
 
+    = include partials/clients.html .
 
     /
       .row
@@ -67,7 +72,7 @@
       .row
         .col-md-12.header
           a.btn.btn-primary.btn-lg href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/peterkappus/30min'});return false;" Ready? Start now!
-    .row style="margin-top: 4rem"
+    .row
       .col-md-12
         hr
     .row
@@ -157,6 +162,9 @@
     .row
       .col-md-4
         h2 About Peter Kappus
+        {{- $image := resources.Get "images/head3.jpg" -}}
+        {{ $image := $image.Resize "200x" -}}
+        img src="{{ $image.RelPermalink }}" style="height: 16vw; margin-top: 1rem; clip-path: circle(35% at 50% 32%);   overflow: hidden;"
       .col-md-8
         p I love helping organisations to work better. I've spent 20+ years as a coach, trainer, and engineer helping teams in UK Government, Doctors Without Borders, investment banks, the BBC, and countless small & medium organisations to deliver outstanding results and enjoy the journey along the way. I've worked in a variety of industries including finance, government, media, publishing, bio-tech, advertising and more. 
         a.btn.btn-primary style="margin-bottom: 1rem" href="/about" Read more about Me

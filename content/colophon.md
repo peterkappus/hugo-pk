@@ -17,3 +17,5 @@ I considered using one of the many, beautiful free themes out there but (embraci
 All the code is open source and kept on [GitHub](https://github.com/peterkappus/hugo-pk).
 
 Checkout my [privacy policy](/privacy). Thanks for visiting!
+
+<small>Wikimedia Logo and trademark of the Wikimedia Foundation, designed by Wikipedia user Neolŭ (SVG version created by DarkEvil, revised by Philip Ronan and optimized by Zscout370 and Artem Karimov) Later revised by Wikimedia Foundation., CC BY-SA 3.0, via Wikimedia Commons</small>
