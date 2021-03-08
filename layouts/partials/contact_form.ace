@@ -1,7 +1,7 @@
 .card.contact
   h2 {{if isset .Params "contact_form_title" }} {{ .Params.contact_form_title}}{{else}}Ask a Question {{end}}
 
-  form.contact-form action="https://formspree.io/hello2018@peterkappus.com" method="POST"
+  form.contact-form id="questionForm" action="https://formspree.io/hello2018@peterkappus.com" method="POST"
     input type="text" data-toggle="validator" name="name" placeholder="Your Name" required="true"
     input type="email" name="_replyto" placeholder="Email" required="true"
     textarea name="message" placeholder="Message" required="true"
@@ -16,4 +16,4 @@
       i.fa.fa-arrow-alt-circle-right style="padding-left: 20px"
     small style="color: #999; margin-bottom: 2rem" By clicking submit, you consent to my processing of your personal data. I promise not spam you or sell your info. You can unsubscribe anytime. <a href="/privacy">Learn more</a>.
   script language="javascript"
-    | document.forms[0].elements['page'].value = document.location.href;
+    | document.forms['questionForm'].elements['page'].value = document.location.href;

@@ -36,10 +36,46 @@ To do this, I've created two simple Google Sheet templates you can use. I love G
 
 ### A portfolio OKR tracker for data nerds
 My personal favourite, this [single or multi-team portfolio OKR tracking template](https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960) provides an easy way to store multiple teams' OKRs and weekly confidence scores (as well as a weekly narrative) in a single sheet and with a nice "dashboard view" to show the latest information and highlight at-risk key results. You can also store lessons learned and final outcomes in this sheet. It scales beautifully when you want to add more teams or more quarters. You can apply filters to quickly dig into the data and the spark line graphs show how your confidence changes over time. Use this when you want a single view of OKRs for an entire portfolio to quickly identify Key Results that need help.
+
+{{<wide_pic screenshot Resize "1600x">}}
  
 With a bit of elbow grease, you could even create a Google Form to make inputting weekly updates even faster. _Disclaimer: this template won't work in Excel._
 
-<a href="https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960" class="btn btn-large btn-primary">Get the portfolio OKR tracker</a>
+<a id="openSignup" href="#" class="btn btn-large btn-primary">Get the portfolio OKR tracker</a>
+<!--https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960-->
+
+
+
+<script language="javascript">
+
+  document.getElementById('openSignup').addEventListener('click', function(event) {
+    event.preventDefault();
+    event.stopPropagation();
+    $("#openSignup").hide();
+    $("#signup").toggle();
+  }, false);
+
+</script>
+
+<div class="container" id="signup" style="display: none; background: #ffe; border: 1px solid #333; padding-bottom: 1rem">
+<h2>Nearly there...</h2>
+<p>Please sign up for my mailing list and instantly receive your link to the Google Sheets multi-team (portfolio) OKR tracker.</p>
+  <form id="mc-embedded-subscribe-form" class="validate form-inline" action="https://peterkappus.us1.list-manage.com/subscribe/post?u=10ffa78e08f6e78889f89ddb0&amp;id=36bceac653" method="post" name="mc-embedded-subscribe-form" target="_blank">
+    <div class="d-inline-flex" style="width:100%">
+      <div style="flex-grow: 1">
+        <label class="sr-only" for="EMAIL">Email</label> <input id="mce-EMAIL" class="form-control form-control-lg mr-3 required email" style="width:100%" type="email" value name="EMAIL" placeholder="Email" required>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          <input type="text" name="b_10ffa78e08f6e78889f89ddb0_36bceac653" tabindex="-1" value></div>
+        </div>
+        <div>
+          <input class="btn btn-primary btn-lg" type="submit" value="Subscribe" name="subscribe" style="margin-left: 2rem"><div id="mce-responses" class="clear"></div>
+          <div id="mce-error-response" class="response" style="display:none"></div>
+          <div id="mce-success-response" class="response" style="display:none"></div>
+        </div>
+      </div>
+    </form>
+</div>
+
 
 ### A basic OKR tracker for small teams
 The [simple single team template](https://docs.google.com/spreadsheets/d/11oc_gVInaBYuY_4zSddWR1x_2m0moOPmTfc7Ds3Dl5Y/edit#gid=0) provides a space for the current OKRs, weekly actions, a 4-6 week "look-ahead" and a set of metrics which you DON'T want to change during the quarter. These could be things like team happiness, customer satisfaction, or uptime. Even as you're chasing OKRs, you don't want these to slip. This one works by simply copying the previous week's sheet and filling in the latest narrative, confidence, and actions for the team to think about. By the end, you'll have 13 tabs you can refer back to to see how the quarter went.
