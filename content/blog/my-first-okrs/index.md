@@ -1,9 +1,10 @@
 ---
-title: "My First Okrs"
+title: "My First OKRs"
 date: 2021-03-10T22:17:01Z
 categories: blog 
 tags: 
   - OKRs 
+featured: true
 resources:
   - name: cover
     src: sarah-kilian-52jRtc2S_VE-unsplash.jpg
