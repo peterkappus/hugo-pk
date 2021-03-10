@@ -16,6 +16,10 @@ The last version of Hugo which supports Ace template is 0.50. To support sass co
 docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50-ext server --disableFastRender --navigateToChanged --bind=0.0.0.0 --gc --noHTTPCache
 ```
 
+### Creating new content (posts, etc.)
+`docker run -v "$PWD":/src klakegg/hugo:0.50-ext new blog/<POST-TITLE>/index.md`
+
+
 ### Deployment
 Copy `secrets.sample.env` to `secrets.env`
 Add your AWS ID and secret key.
@@ -29,8 +33,6 @@ hugo
 s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com
 ```
 
-### Creating new content (posts, etc.)
-`docker run -v "$PWD":/src klakegg/hugo:0.50-ext new blog/<POST-TITLE>/index.md`
 
 ### Adding cover images
 [Unsplash](https://unsplash.com/) has great, free images.

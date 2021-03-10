@@ -35,16 +35,13 @@ To do this, I've created two simple Google Sheet templates you can use. I love G
 
 
 ### A portfolio OKR tracker for data nerds
-My personal favourite, this [single or multi-team portfolio OKR tracking template](https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960) provides an easy way to store multiple teams' OKRs and weekly confidence scores (as well as a weekly narrative) in a single sheet and with a nice "dashboard view" to show the latest information and highlight at-risk key results. You can also store lessons learned and final outcomes in this sheet. It scales beautifully when you want to add more teams or more quarters. You can apply filters to quickly dig into the data and the spark line graphs show how your confidence changes over time. Use this when you want a single view of OKRs for an entire portfolio to quickly identify Key Results that need help.
+My personal favourite, the single or multi-team portfolio OKR tracking template (link below) provides an easy way to store multiple teams' OKRs and weekly confidence scores (as well as a weekly narrative) in a single sheet and with a nice "dashboard view" to show the latest information and highlight at-risk key results. You can also store lessons learned and final outcomes in this sheet. It scales beautifully when you want to add more teams or more quarters. You can apply filters to quickly dig into the data and the spark line graphs show how your confidence changes over time. Use this when you want a single view of OKRs for an entire portfolio to quickly identify Key Results that need help.
 
 {{<wide_pic screenshot Resize "1600x">}}
  
 With a bit of elbow grease, you could even create a Google Form to make inputting weekly updates even faster. _Disclaimer: this template won't work in Excel._
 
 <a id="openSignup" href="#" class="btn btn-large btn-primary">Get the portfolio OKR tracker</a>
-<!--https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960-->
-
-
 
 <script language="javascript">
 
