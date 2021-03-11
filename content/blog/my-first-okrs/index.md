@@ -33,20 +33,20 @@ In early February 2016 my OKRs looked like this:
 
 {{< wide_pic my-first-okrs Resize 800x >}}
 
-I did manage to salvage “date night” later in the quarter but still missed most of my targets (but OKRs are meant to be super aspirational, right?). The bigger issue that you eagle-eyed OKR aficionados will notice is that these key results were really [initiatives in disguise](https://www.peterkappus.com/blog/okrs-are-not-tactics/), giving me things to do (but not actually demonstrating that I had achieved the objective).
+I managed to (somewhat) salvage “date night” later in the quarter but still missed most of my targets (OKRs are meant to be aspirational, right?). The bigger issue is that these key results were really [initiatives in disguise](https://www.peterkappus.com/blog/okrs-are-not-tactics/). They gave me things *to do* but doing those things didn't actually demonstrate that I had reached the objective.
 
-The other issue is that the objectives, themselves, used pretty weak & flabby language with words like “help” and “more” or “better”. They would’ve been more powerful if I’d rephrased them to say:
+The objectives, themselves, used pretty weak & flabby language. They were written in the third person which isn't very exciting and they used words like “help” and “more” or “better”. They would’ve been more powerful if I’d rephrased them to say:
 
-Dad will…
+This quarter *I* will…
 
-* Be an outstanding partner
-* Take exceptional care of his health and wellbeing
-* Nurture robust relationships with friends & family
+* Be an outstanding life partner
+* Take exceptional care of my health and wellbeing
+* Build great relationships with my friends & family
 
 I might have measured these by surveying my wife (uncool), surveying myself (I’ve done this, actually… and it works), and surveying my friends but, in this case, measuring how many times we hung out felt like proof enough.
 
 ## Keep at it!
-Despite not "achieving" all of my key results, this was a powerful exercise. I realised that OKRs could be a useful tool for helping me to pursue personal goals that would actually improve my quality of life (even if I fell short). My wife and I started talking more about what would make life better. We started behaving differently... we got more sleep.
+Despite not "achieving" all of my key results, this was a valuable exercise. I learned how to strengthen the language around objectives, I realised that key results should be measurable outcomes (not tasks) and, most importantly, I realised that OKRs could be a useful tool for helping me to focus my efforts and improve my quality of life (even when I fell short). My wife and I started talking more about what would make life better. We started behaving differently... we got more sleep.
 
 And over time I realised the importance of tracking confidence and creating key results that were actually results (not just tasks to have done).
 
