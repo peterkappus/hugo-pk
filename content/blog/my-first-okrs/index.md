@@ -14,7 +14,7 @@ resources:
 
 ---
 
-I’m super excited that I’ve been asked to join Ryan Panchadsaram & Elizabeth Dunne on their OKR podcast ["CFRs"](https://www.youtube.com/watch?v=MOcKKswivlc) (watch this space)! Elizabeth warned me that they like to ask all their guests about their [first OKRs](https://www.youtube.com/watch?v=g2uJWkt2NEs). I had to confess that mine were pretty geeky...
+I’m super excited that I’ve been asked to join [Ryan Panchadsaram](https://en.wikipedia.org/wiki/Ryan_Panchadsaram) & Elizabeth Dunne on their OKR podcast ["CFRs"](https://www.youtube.com/watch?v=MOcKKswivlc) (watch this space)! Elizabeth warned me that they like to ask all their guests about their [first OKRs](https://www.youtube.com/watch?v=g2uJWkt2NEs). I had to confess that mine were pretty geeky...
 
 In mid 2015, I came across a couple of [blog posts](https://www.infoq.com/articles/agile-goals-okr/ ) [about OKRs](https://eleganthack.com/the-art-of-the-okr-redux/) and got excited. I was helping the UK’s [government digital service](https://gds.blog.gov.uk/about/) to ask the treasury for [nearly £500m](https://civilservice.blog.gov.uk/2015/12/08/digital-in-the-spending-review/) to continue its digital transformation work (making the UK the [world’s most digital government in 2016](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2016)) and I was looking for ways to help teams scope out their ambition. 
 
