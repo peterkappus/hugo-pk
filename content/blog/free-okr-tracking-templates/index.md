@@ -60,6 +60,12 @@ With a bit of elbow grease, you could even create a Google Form to make inputtin
   <form id="mc-embedded-subscribe-form" class="validate form-inline" action="https://peterkappus.us1.list-manage.com/subscribe/post?u=10ffa78e08f6e78889f89ddb0&amp;id=36bceac653" method="post" name="mc-embedded-subscribe-form" target="_blank">
     <div class="d-inline-flex" style="width:100%">
       <div style="flex-grow: 1">
+        <div class="mc-field-group">
+          <label for="mce-FIRST_NAME" class="sr-only">First Name </label>
+          <input class="form-control form-control-lg mr-3 required email" style="width:90%"  type="text" value="" name="FIRST_NAME" id="mce-FIRST_NAME" placeholder="First name">
+        </div>
+      </div>
+      <div style="flex-grow: 1">
         <label class="sr-only" for="EMAIL">Email</label> <input id="mce-EMAIL" class="form-control form-control-lg mr-3 required email" style="width:100%" type="email" value name="EMAIL" placeholder="Email" required>
         <div style="position: absolute; left: -5000px;" aria-hidden="true">
           <input type="text" name="b_10ffa78e08f6e78889f89ddb0_36bceac653" tabindex="-1" value></div>

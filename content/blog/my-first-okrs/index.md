@@ -14,28 +14,28 @@ resources:
 
 ---
 
-I’m super excited that I’ve been asked to join [Ryan Panchadsaram](https://en.wikipedia.org/wiki/Ryan_Panchadsaram) & Elizabeth Dunne on their OKR podcast ["CFRs"](https://www.youtube.com/watch?v=MOcKKswivlc) (watch this space)! Elizabeth warned me that they like to ask all their guests about their [first OKRs](https://www.youtube.com/watch?v=g2uJWkt2NEs). I had to confess that mine were pretty geeky...
+I’m really excited that [Ryan Panchadsaram](https://en.wikipedia.org/wiki/Ryan_Panchadsaram) & Elizabeth Dunne have asked me to join their OKR podcast ["CFRs"](https://www.youtube.com/watch?v=MOcKKswivlc). Watch this space! Elizabeth warned me that they like to ask all their guests about their [first OKRs](https://www.youtube.com/watch?v=g2uJWkt2NEs). I had to confess that mine were pretty geeky...
 
-In mid 2015, I came across a couple of [blog posts](https://www.infoq.com/articles/agile-goals-okr/ ) [about OKRs](https://eleganthack.com/the-art-of-the-okr-redux/) and got excited. I was helping the UK’s [government digital service](https://gds.blog.gov.uk/about/) to ask the treasury for [nearly £500m](https://civilservice.blog.gov.uk/2015/12/08/digital-in-the-spending-review/) to continue its digital transformation work (making the UK the [world’s most digital government in 2016](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2016)) and I was looking for ways to help teams scope out their ambition. 
+In mid 2015, I came across a couple of [blog posts](https://www.infoq.com/articles/agile-goals-okr/ ) [about OKRs](https://eleganthack.com/the-art-of-the-okr-redux/) and got excited. I was helping the UK’s [government digital service](https://gds.blog.gov.uk/about/) ask the treasury for [nearly £500m](https://civilservice.blog.gov.uk/2015/12/08/digital-in-the-spending-review/) to continue its digital transformation work and ultimately make the UK the [world’s most digital government in 2016](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2016)). 
 
-OKRs were a perfect fit.
+OKRs were a perfect fit for helping teams to scope out their ambition.
 
-By the end of 2015, I’d seen how OKRs could help teams to focus and reach for the stars. Now, I wanted to know how they could help me, personally. Like many folks, I’ve been known to set [New Year’s goals](/blog/my-morning-routine-january-2021-edition/) so when 2016 arrived, I jumped on the opportunity to set some personal OKRs.
+By the end of 2015, I’d seen how OKRs could help teams to focus and reach for the stars. Now, I wanted to know how they could help me. Like many folks, I’ve been known to set [New Year’s goals](/blog/my-morning-routine-january-2021-edition/) so when 2016 arrived, I jumped on the opportunity to set some personal OKRs.
 
 My wife and I had recently moved, we had an energetic 3-year-old, and I’d been working...a lot. All of this had put a strain on our relationship, my friendships, my sleep, and my physical health. In short, life had room to improve.
 
 ## OKRs to the rescue...maybe?
-I sat down one Saturday morning in early January with my trusty Sharpies and sticky notes and doodled (what felt like) some sensible OKRs. I carefully hand-wrote them on a sheet of thick paper (presentation matters...kinda!) which I hung up on the wall. 
+I sat down one Saturday morning in early January with my trusty Sharpies and sticky notes and drafted what felt like some sensible OKRs. I carefully hand-wrote them on a sheet of thick paper and hung them on the wall. 
 
-Later I started doing [regular checkins](/blog/a-guide-to-okr-check-ins) and putting sticky notes on the side to track my progress (I hadn't, yet, started [measuring confidence](/blog/measure-confidence-not-progress)). Eventually, I developed a [simple tracking tool I made in Google Sheets](/blog/free-okr-tracking-templates) but sticky notes were a good start!
-
-In early February 2016 my OKRs looked like this:
+They looked like this:
 
 {{< wide_pic my-first-okrs Resize 800x >}}
 
-I managed to (somewhat) salvage “date night” later in the quarter but still missed most of my targets (OKRs are meant to be aspirational, right?). The bigger issue is that these key results were really [initiatives in disguise](https://www.peterkappus.com/blog/okrs-are-not-tactics/). They gave me things *to do* but doing those things didn't actually demonstrate that I had reached the objective.
+Later I started doing [regular checkins](/blog/a-guide-to-okr-check-ins) and putting sticky notes on the side to track my progress (I hadn't, yet, started [measuring confidence](/blog/measure-confidence-not-progress)). Later, I developed a [simple tracking tool I made in Google Sheets](/blog/free-okr-tracking-templates) but sticky notes were a good start!
 
-The objectives, themselves, used pretty weak & flabby language. They were written in the third person which isn't very exciting and they used words like “help” and “more” or “better”. They would’ve been more powerful if I’d rephrased them to say:
+I missed most of my targets. OKRs are meant to be aspirational, right? Looking back, the bigger issue is that these key results were really [initiatives in disguise](/blog/okrs-are-not-tactics/). They gave me things *to do* but doing those things didn't actually demonstrate that I had reached the objective. It's useful to remember that OKRs define a measurable, desired _end state_ but not the _specific path_ you will take to get there. 
+
+The objectives, themselves, used weak language. They were written in the third person and used words like “help” and “more” or “better”. They would’ve been more powerful if I’d rephrased them to say:
 
 This quarter *I* will…
 
@@ -45,7 +45,7 @@ This quarter *I* will…
 
 I might have measured these by surveying my wife (uncool), surveying myself (I’ve done this, actually… and it works), and surveying my friends but, in this case, measuring how many times we hung out felt like proof enough.
 
-## Keep at it!
+## Get better; not perfect
 Despite not "achieving" all of my key results, this was a valuable exercise. I learned how to strengthen the language around objectives, I realised that key results should be measurable outcomes (not tasks) and, most importantly, I realised that OKRs could be a useful tool for helping me to focus my efforts and improve my quality of life (even when I fell short). My wife and I started talking more about what would make life better. We started behaving differently... we got more sleep.
 
 And over time I realised the importance of tracking confidence and creating key results that were actually results (not just tasks to have done).
