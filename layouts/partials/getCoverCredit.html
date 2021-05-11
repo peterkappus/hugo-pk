@@ -3,6 +3,6 @@
 {{ else }}
   {{ $cover := .Resources.GetMatch "*cover*"}} 
   {{ if $cover }}
-    {{ $cover.Params.credit }}
+    {{ $cover.Params.credit | safeHTML }}
   {{ end }}
 {{ end }}

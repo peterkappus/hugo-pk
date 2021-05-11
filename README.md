@@ -17,8 +17,21 @@ docker run --rm -it -v "$(pwd)":/src -p 1313:1313 klakegg/hugo:0.50-ext server -
 ```
 
 ### Creating new content (posts, etc.)
-`docker run -v "$PWD":/src klakegg/hugo:0.50-ext new blog/<POST-TITLE>/index.md`
-
+1. Create a new branch `git checkout -b working`
+1. Have a topic and some notes? Create a new post like so: `docker run -v "$PWD":/src klakegg/hugo:0.50-ext new blog/<POST-TITLE>/index.md`
+2. Write your post...
+3. Autosave:  `git commit -am autosave`
+2. Pick an image via [Unsplash](https://unsplash.com/)
+3. Download it into the blog post folder
+4. Copy the "Photo by..." line they give you.
+5. Paste it into the front matter.
+6. Then click on it, and click the "Share" button
+7. Copy the URL they give you and put this in the "link" attribute in the front matter.
+8. Publish! (see below) `./deploy.sh`
+9. Switch branches to main `git checkout main`
+10. Merge the changes: `git merge --squash working`
+11. push! `git commit -am "new post: [subject]`
+12. `git push`
 
 ### Deployment
 Copy `secrets.sample.env` to `secrets.env`
@@ -32,16 +45,6 @@ You can install `s3cmd` locally and run the following:
 hugo
 s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com
 ```
-
-
-### Adding cover images
-[Unsplash](https://unsplash.com/) has great, free images.
-- Find a picture...
-- Download it into the blog post folder
-- Copy the "Photo by..." line they give you.
-- Paste it into the front matter.
-- Then click on it, and click the "Share" button
-Copy the URL they give you and put this in the "link" attribute in the front matter.
 
 ### Tips
 
