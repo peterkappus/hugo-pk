@@ -19,14 +19,14 @@ Many orgs are adopting an operating model that includes multiple small, cross-fu
 
 Small, cross-functional, autonomous teams are terrific for removing dependencies, sharing product knowledge, keeping the focus on the customer, and keeping systems lightweight and easy to maintain (you built it, you run it). The model does, however, present a few problems.
 
-Being the only data-scientist or Michelin-starred chef in your squad can be a bit lonely. How do you know you're doing things the best way? Where do you go for help or to share best practice? Who are your mentors and coaches? Moreover, when the time comes to move to another squad, it can feel like moving to a completely different company if there's no broader agreement about how to do X.
+Being the only data-scientist or Michelin-starred chef in your squad can be a bit lonely. How do you know you're doing things the best way? Where do you go for help or to share best practice? Who are your mentors and coaches? Moreover, when the time comes to move to another squad, it can feel like moving to a completely different company if there's no broad agreement about how to do X.
 
-Chapters solve these problems and more. A chapter is simply a group of people who do similar kinds of work (think front-end development, data-science, or cake decorating). Note: many orgs have started using the team "Communities of Practice" which avoids the religious overtones and does a better job of communicating what they actually are. I use the terms interchangeably.
+Chapters solve these problems and more. A chapter is simply a group of people who do similar kinds of work (think front-end development, data-science, or cake decorating). Note: many orgs have started using the team "Communities of Practice" which avoids the religious history of the word "chapter" and does a better job of communicating what they actually are. I prefer "Communities of Practice" but use the terms interchangeably.
 
 ## How do chapters work?
 Like any community, a chapter or Community of Practice provides support, a safe place to learn and get help, a place to practice things and teach others, a place to help an entire group get better, stronger, and more reliable in how they do things while still embracing new methods and continuously improving.
 
-On the surface, chapter activities can be pretty straight forward. The might involve:
+On the surface, chapter activities are pretty ordinary and include:
 
 - Getting folks together to talk about their work
 - Sharing and defining what good practice looks like (often setting and adopting standards)
