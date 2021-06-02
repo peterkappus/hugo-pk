@@ -21,7 +21,7 @@
       .intro
         {{ .Content }}
         h2
-          a href="/okrs" OKR training
+          a href="/okrs" OKR Coaching
         h2
           a href="/blog" Blog
 
