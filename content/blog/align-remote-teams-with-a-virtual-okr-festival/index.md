@@ -1,5 +1,5 @@
 ---
-title: "Align Teams with a (virtual) OKR Festival"
+title: "Align Remote Teams with a Virtual OKR Festival"
 date: 2021-06-28T11:22:07Z
 categories: blog  
 resources:
