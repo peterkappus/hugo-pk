@@ -25,7 +25,7 @@ The OKR Festival (sometimes called an "OKR Jam") is an opportunity for leaders a
 
 This is where alignment happens.
 
-Channeling the spirit of an "[unconference](https://en.wikipedia.org/wiki/Unconference)" or an actual music festival, the OKR Festival offers multiple venues where anyone who is interested can hear about OKRs and ask questions to challenge, clarify, or refine those OKRs. Unlike a formla show & tell, people can drop in or out whenever they like and join any session for as much or as little as they want.
+Channeling the spirit of an "[unconference](https://en.wikipedia.org/wiki/Unconference)" or an actual music festival, the OKR Festival offers multiple venues where anyone who is interested can hear about OKRs and ask questions to challenge, clarify, or refine those OKRs. Unlike a formula show & tell, people can drop in or out whenever they like and join any session for as much or as little as they want.
 
 ## When to run the OKR Festival?
 It’s best to run the OKR festival after teams have closed their current OKRs and captured their “lessons learned” and after they’ve had a chance to draft some early OKRs for the next quarter but before teams have done too many check-ins and feel too invested in the OKRs. Do it while the clay is still soft, usually right around the start of the quarter.
@@ -36,16 +36,16 @@ I like the festival analogy because it has a number of key roles: headliners, su
 
 In a smaller organisation you might think of the **headliners** as the big teams that everyone wants to hear from: the CEO, the senior leadership team, a critical product team, etc. The **supporting acts** might be teams who help the headliners do their thing: component teams, finance, HR, and operations. *Anyone* can be a **festival roadie** helping to organise and setup and teardown. The **promoters** might be well-connected folks within various teams who are excited stir up engagement. 
 
-Finally, **fans or a hecklers** can come from all over to participate. 
+Finally, **fans and hecklers** can come from all over to participate. 
 
 
 ## Design the session(s)
 
-It's helpful to create a small team of promoters and roadies to help organise. They can engage with teams, plan the sessions, and understand where there is more or less interest to present or debate. *Pick a context* – is it one product area? One department? The whole organisation? If this is your first time, start with just a handful of teams who are alrady aligned around a common purpose. Not every team needs to present and not every team should even have OKRs – it's okay to be a fan.
+It's helpful to create a small team of promoters and roadies to help organise. They can engage with teams, plan the sessions, and understand where there is more or less interest to present or debate. *Pick a context* – is it one product area? One department? The whole organisation? If this is your first time, start with just a handful of teams who are already aligned around a common purpose. Not every team needs to present and not every team should even have OKRs – it's great to be an active audience member.
 
-*Decide the line-up* – how many teams will be presenting? Which ones should have multiple sessions to make it easier for everyone to attend? What teams can present simultaneously becuase there probably isn't much overlap in audiences? Build out a schedule like the one below to share in your invite:
+*Decide the line-up* – how many teams will be presenting? Which ones should have multiple sessions to make it easier for everyone to attend? What teams can present simultaneously because there probably isn't much overlap in audiences? Build out a schedule like the one below to share in your invite:
 
-Depending on the number of teams and size of your context, you might want to set asside 3-4 hours with a solid break in between. You can also break your OKR Fest over a few days. 
+Depending on the number of teams and size of your context, you might want to set aside 3-4 hours with a solid break in between. You can also break your OKR Fest over a few days. 
 
 #### A sample line up:
 
