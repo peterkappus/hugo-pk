@@ -21,20 +21,22 @@ You can hope and pray that people make time to chat in hallways at water coolers
 I began adopting this approach during my time with Design + Engineering teams at the BBC (e.g. iPlayer) and have evolved it subsequently. It emerged because teams realised they wanted a slightly more formal venue to share and discuss their OKRs with other teams and they started inviting other teams to do this.
 
 ## What's an OKR Festival?
-The OKR Festival (sometimes called an "OKR Jam") is an opportunity for leaders and teams in a particular area or an entire org to come together, share their draft OKRs, get feedback, and challenge and negotiate with each other to achieve stronger alignment and shared understanding around their most important outcomes for this OKR period – usually a quarter. While OKRs shoudl be quite punchy – e.g. 1 objective and 3 key results for each team – you'll want more than 30 words in a shared document to provide the back-story and rationale and you want an opportunity for other teams to challenge you and clarify and ask you to help them achieve their own OKRs through yours. This is how alignment happens.
+The OKR Festival (sometimes called an "OKR Jam") is an opportunity for leaders and teams in a particular area or an entire org to come together, share their draft OKRs, get feedback, and challenge and negotiate with each other to achieve stronger alignment and shared understanding around their most important outcomes for this OKR period – usually a quarter. While OKRs should be quite punchy – e.g. 1 objective and 3 key results for each team – the backstories can be quite lengthy. It takes more than 30 words in a shared document to provide context and rationale. Most importantly, it's an opportunity for other teams to challenge your plans,  clarify their own understanding, and ask you to align your OKRs to theirs so everyone succeeds. 
+
+This is where alignment happens.
 
 Channeling the spirit of an "[unconference](https://en.wikipedia.org/wiki/Unconference)" or an actual music festival, the OKR Festival offers multiple venues where anyone who is interested can hear about OKRs and ask questions to challenge, clarify, or refine those OKRs. Unlike a formla show & tell, people can drop in or out whenever they like and join any session for as much or as little as they want.
 
 ## When to run the OKR Festival?
-It’s best to run the OKR festival after teams have closed their current OKRs and captured their “lessons learned” and after they’ve had a chance to draft some early OKRs for the next quarter but before teams have done too many check-ins and feel too invested in the OKRs. Do it while the clay is still soft. This is usually right around the start of the quarter for quarterly OKRs.
+It’s best to run the OKR festival after teams have closed their current OKRs and captured their “lessons learned” and after they’ve had a chance to draft some early OKRs for the next quarter but before teams have done too many check-ins and feel too invested in the OKRs. Do it while the clay is still soft, usually right around the start of the quarter.
 
 ## The roles in a festival
 
-I like the festival analogy because it has a number of key roles: headliners, supporting acts, screaming fans, hecklers, promoters, bouncers, and roadies.
+I like the festival analogy because it has a number of key roles: headliners, supporting acts, fans, hecklers, promoters, bouncers, and roadies.
 
-In a smaller organisation you might think of the **headliners** as the big teams that everyone wants to hear from: the CEO, the senior leadership team, a critical product team, etc. The **supporting acts** might be teams who help the headliners do their things, component teams, finance, HR, and operations. The **promoters** might be well-connected folks within various teams who are excited to present or debate and can help stir up participation. *Anyone* can be a **festival roadie** helping to organise and setup and teardown. 
+In a smaller organisation you might think of the **headliners** as the big teams that everyone wants to hear from: the CEO, the senior leadership team, a critical product team, etc. The **supporting acts** might be teams who help the headliners do their thing: component teams, finance, HR, and operations. *Anyone* can be a **festival roadie** helping to organise and setup and teardown. The **promoters** might be well-connected folks within various teams who are excited stir up engagement. 
 
-Finally **fans or a hecklers** come from all over to participate. 
+Finally, **fans or a hecklers** can come from all over to participate. 
 
 
 ## Design the session(s)
@@ -43,7 +45,7 @@ It's helpful to create a small team of promoters and roadies to help organise. T
 
 *Decide the line-up* – how many teams will be presenting? Which ones should have multiple sessions to make it easier for everyone to attend? What teams can present simultaneously becuase there probably isn't much overlap in audiences? Build out a schedule like the one below to share in your invite:
 
-Depending on the number of teams and size of your context, you might want to set asside 3-4 hours with a solid break in between. You can also break up your OKR Fest over a few days. 
+Depending on the number of teams and size of your context, you might want to set asside 3-4 hours with a solid break in between. You can also break your OKR Fest over a few days. 
 
 #### A sample line up:
 
@@ -71,7 +73,7 @@ getElementByXpath("//div[contains(@class,'blog')]/table").className = 'table'
 
 
 ## Craft a compelling invitation! 
-As any festival promoter will tell you, good promotion is key. Make it fun and compelling. Remind participants that:
+As any festival promoter will tell you, good promotion is key. Make it fun and compelling. Silly hats are definitely encouraged. Remind participants that:
 
 1. This is a chance to hear what people are planning to achieve next quarter
 2. Everyone is welcome but only the presenters are "required"

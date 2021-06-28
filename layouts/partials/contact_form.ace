@@ -1,5 +1,5 @@
 .card.contact
-  h2 {{if isset .Params "contact_form_title" }} {{ .Params.contact_form_title}}{{else}}Ask a Question {{end}}
+  h2 {{if isset .Params "contact_form_title" }} {{ .Params.contact_form_title}}{{else}}Get in touch {{end}}
 
   form.contact-form id="questionForm" action="https://formspree.io/hello2018@peterkappus.com" method="POST"
     input type="text" data-toggle="validator" name="name" placeholder="Your Name" required="true"
