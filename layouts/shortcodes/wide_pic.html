@@ -2,6 +2,7 @@
 {{ $command := .Get 1 }}
 {{ $options := .Get 2 }}
 {{ $credit := .Get 3 }}
+{{ $credit_link := .Get 4 }}
 
 {{ if eq $command "Fit"}}
 	{{ .Scratch.Set "image" ($original.Fit $options) }}
@@ -18,7 +19,7 @@
 	<img src="{{ $image.RelPermalink }}">
 	<figcaption style="margin-bottom: 3rem">
 	<div class="credit">
-		{{$credit}}
+		<a href="{{$credit_link}}" target="_blank">{{$credit}}</a>
 		<!--<a href="{{$original.Params.link}}">		{{$original.Params.credit}}</a>-->
 	</div>
 </figcaption>

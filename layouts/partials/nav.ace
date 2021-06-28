@@ -21,7 +21,7 @@ nav.navbar.navbar-expand-md.navbar-light.bg-white.px-0
           li.nav-item class="{{if (eq .Type "contact")}}active{{end}}"
             a.nav-link href="/contact" Contact me
 / yay, pride!
-/ a href="/blog/on-diversity-and-pride"
+a href="/blog/on-diversity-and-pride"
   .pride-bar style="background: #750787"
   .pride-bar style="background: #004dff"
   .pride-bar style="background: #008026"
@@ -30,4 +30,4 @@ nav.navbar.navbar-expand-md.navbar-light.bg-white.px-0
   .pride-bar style="background: #e40303"
 
 / booring (enable during less diverse times ;)
-.pride-bar style="background: #000; width:100%"
+  .pride-bar style="background: #000; width:100%"

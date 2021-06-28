@@ -5,26 +5,30 @@ type: about
 layout: page
 resources:
   - name: cover
-    src: peterkappus.jpg
+    src: peter-kappus-leeds-castle.jpeg
 
 ---
 
 <div style="background: #eee; padding: 2rem 2rem 1.2rem 2rem; margin-bottom: 2rem; font-size: 2rem;">
-  <p style="line-height: 2.5rem">The world needs your ideas, your passion, and your expertise. I help teams in the world's most digital organisations to work better together, deliver outstanding outcomes, and have more fun while they do it.</p>
+  <p style="line-height: 2.5rem">As an organisational coach, I help teams in the world's most digital organisations to work better together, deliver outstanding outcomes, and have more fun while they do it.</p>
 </div>
+
+Using **lean/agile** practices, ultra-inclusive facilitation techniques (like **Liberating Structures**), and powerful goal setting frameworks (like **OKRs**) I help teams to consistently challenge the status quo and redefine their peak performance.
 
 Born in London, raised in St. Louis MO, shaped in Boulder, Brooklyn, Seattle, and now back in London, I've had the privilege to help build a successful  [digital agency](http://designcommission.com/), a [research, analytics, trading, and reporting platform](https://www.credit-suisse.com/ch/en/investment-banking/global-markets/equities/credit-suisse-plus.html), a more [digital UK Government](https://gds.blog.gov.uk/) and a [better BBC](https://www.bbc.com/backstage/design-engineering). 
 
-I've been a web developer, a project, programme, portfolio manager, flat-pack furniture-assembler, linux systems administrator, CTO, and coach.
+I've been a web developer, a project, programme, portfolio manager, flat-pack furniture-assembler, linux systems administrator, CTO, and coach. Along the way, I've learned to value **diverse perspectives**, **experimentation**, and **strong relationships**. 
 
-Along the way, I've learned to value **diverse perspectives**, **experimentation**, and **strong relationships**. 
+Here's a video I did with the What Matters crew:
 
-Using **lean/agile** practices, ultra-inclusive facilitation techniques (like **Liberating Structures**), and powerful goal setting frameworks (like **OKRs**) I help teams to consistently challenge the status quo and redefine their peak performance.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_k2H6LfOjkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I've also been known to [make art](http://www.abstraktor.com) and [improvise on the piano](https://piano.peterkappus.com). I'd love to know what you're working on.
 
 ## A few of my clients
 
+  * Genomics England
+  * Wikimedia Foundation
   * The BBC: Design + Engineering (including iPlayer)
   * The UK's [Government Digital Service](https://gds.blog.gov.uk/)
   * A global hedge fund
