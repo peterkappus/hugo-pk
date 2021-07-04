@@ -14,9 +14,12 @@ resources:
 
 ---
 
-I’m really excited that [Ryan Panchadsaram](https://en.wikipedia.org/wiki/Ryan_Panchadsaram) & Elizabeth Dunne have asked me to join their OKR podcast ["CFRs"](https://www.youtube.com/watch?v=MOcKKswivlc). Watch this space! Elizabeth warned me that they like to ask all their guests about their [first OKRs](https://www.youtube.com/watch?v=g2uJWkt2NEs). I had to confess that mine were pretty geeky...
+<small> *NOTE: A revised version of this post has been published at [What Matters](https://www.whatmatters.com/articles/how-to-be-a-better-leader/).* </small>
 
-In mid 2015, I came across a couple of [blog posts](https://www.infoq.com/articles/agile-goals-okr/ ) [about OKRs](https://eleganthack.com/the-art-of-the-okr-redux/) and got excited. I was helping the UK’s [government digital service](https://gds.blog.gov.uk/about/) ask the treasury for [nearly £500m](https://civilservice.blog.gov.uk/2015/12/08/digital-in-the-spending-review/) to continue its digital transformation work and ultimately make the UK the [world’s most digital government in 2016](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2016)). 
+<!--A few weeks back, [Ryan Panchadsaram](https://en.wikipedia.org/wiki/Ryan_Panchadsaram) & Elizabeth Dunne asked me to join their OKR podcast ["CFRs"](https://www.youtube.com/watch?v=_k2H6LfOjkw). Watch this space! Elizabeth warned me that they like to ask all their guests about their first OKRs. I had to confess that mine were pretty geeky.-->
+
+
+In mid 2015, I came across a couple of [blog posts](https://eleganthack.com/the-art-of-the-okr-redux/) [about OKRs](https://www.infoq.com/articles/agile-goals-okr/) and got excited. I was helping the [UK's Government Digital Service](https://gds.blog.gov.uk/about/) to scope their complex change portfolio and secure nearly £500m in funding to continue its digital transformation work and ultimately make the UK the [world’s most digital government in 2016](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2016). 
 
 OKRs were a perfect fit for helping teams to scope out their ambition.
 
@@ -33,7 +36,7 @@ They looked like this:
 
 Later I started doing [regular checkins](/blog/a-guide-to-okr-check-ins) and putting sticky notes on the side to track my progress (I hadn't, yet, started [measuring confidence](/blog/measure-confidence-not-progress)). Later, I developed a [simple tracking tool I made in Google Sheets](/blog/free-okr-tracking-templates) but sticky notes were a good start!
 
-I missed most of my targets. OKRs are meant to be aspirational, right? Looking back, the bigger issue is that these key results were really [initiatives in disguise](/blog/okrs-are-not-tactics/). They gave me things *to do* but doing those things didn't actually demonstrate that I had reached the objective. It's useful to remember that OKRs define a measurable, desired _end state_ but not the _specific path_ you will take to get there. 
+I missed most of my targets. OKRs are meant to be aspirational, right? Looking back, the bigger issue is that these key results were really [initiatives in disguise](/blog/okrs-are-not-tactics/). They gave me things *to do* but doing those things didn't actually demonstrate that I had reached the objective. It's useful to remember that OKRs define a measurable, desired _end state_ but not the _specific path_ you will take to get there. OKRs are for alignment, not project management.
 
 The objectives, themselves, used weak language. They were written in the third person and used words like “help” and “more” or “better”. They would’ve been more powerful if I’d rephrased them to say:
 
