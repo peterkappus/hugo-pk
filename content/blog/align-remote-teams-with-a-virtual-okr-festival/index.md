@@ -14,11 +14,11 @@ resources:
 
 Bring on the wrist bands and glow-sticks! 
 
-Great things happen when people get together and talk and play and experiment. I often remind people that <i>OKRs are not an execution framework, but an alignment framework</i> and the real value of OKRs is in the conversations that they enable (or require) among people in various teams throughout an organisation.
+It’s not quite Glastonbury, but Great things do happen when people get together to talk and play and experiment with goals. I often remind people that *OKRs are not an execution framework, but an alignment framework* and the real value of OKRs is in the conversations that they enable (or require) among people in various teams throughout an organisation.
 
-You can hope and pray that people make time to chat in hallways at water coolers, in the pub, etc. but as more of us are working remotely, distributed, and asynchronously, the best way I've found to do this is via a remote "<b>OKR Jam</b>" or "<b>OKR Festival</b>".
+You can hope and pray that people make time to chat in hallways, at water coolers, in the pub, etc. but as more of us are working remotely, distributed, and asynchronously, the best way I’ve found to spur collaboration is via a remote "**OKR Jam**" or "**OKR Festival**".
 
-I began adopting this approach during my time with Design + Engineering teams at the BBC (e.g. iPlayer) and have evolved it subsequently. It emerged because teams realised they wanted a slightly more formal venue to share and discuss their OKRs with other teams and they started inviting other teams to do this.
+I began adopting this approach during my time with Design + Engineering teams at the BBC (e.g. iPlayer). The need emerged because teams realised they wanted a slightly more formal venue to share and discuss their OKRs with other teams and they started inviting other teams to do this.
 
 ## What's an OKR Festival?
 The OKR Festival (sometimes called an "OKR Jam") is an opportunity for leaders and teams in a particular area or an entire org to come together, share their draft OKRs, get feedback, and challenge and negotiate with each other to achieve stronger alignment and shared understanding around their most important outcomes for this OKR period – usually a quarter. While OKRs should be quite punchy – e.g. 1 objective and 3 key results for each team – the backstories can be quite lengthy. It takes more than 30 words in a shared document to provide context and rationale. Most importantly, it's an opportunity for other teams to challenge your plans,  clarify their own understanding, and ask you to align your OKRs to theirs so everyone succeeds. 
@@ -34,7 +34,7 @@ It’s best to run the OKR festival after teams have closed their current OKRs a
 
 I like the festival analogy because it has a number of key roles: headliners, supporting acts, fans, hecklers, promoters, bouncers, and roadies.
 
-In a smaller organisation you might think of the **headliners** as the big teams that everyone wants to hear from: the CEO, the senior leadership team, a critical product team, etc. The **supporting acts** might be teams who help the headliners do their thing: component teams, finance, HR, and operations. *Anyone* can be a **festival roadie** helping to organise and setup and teardown. The **promoters** might be well-connected folks within various teams who are excited stir up engagement. 
+In a smaller organisation you might think of the **headliners** as the big teams that everyone wants to hear from: the CEO, the senior leadership team, a critical product team, etc. The **supporting acts** might be teams who help the headliners do their thing: component teams, finance, HR, and operations. *Anyone* can be a **festival roadie** helping to organise and setup and teardown. The **promoters** might be well-connected folks within various teams who are excited to stir up engagement. 
 
 Finally, **fans and hecklers** can come from all over to participate. 
 
@@ -56,8 +56,8 @@ Depending on the number of teams and size of your context, you might want to set
 | 11:00 - 11:30 | Team A	| Dept A	| Team C
 | 11:30 - 12:30 | BREAK
 | 12:30 - 13:00	| Department B	| Team E	| Team B  
-| 13:00 - 13:30	| Team C	| Team D 	| Dep’t C  
-| 13:00 - 13:30	| Team A	| Team E 	| Dep't B  
+| 13:00 - 13:30	| Team C	| Team D 	| Dept C  
+| 13:30 - 14:00	| Team A	| Team E 	| Dept B  
 
 *Notice the duplicates!*
 
@@ -77,10 +77,10 @@ As any festival promoter will tell you, good promotion is key. Make it fun and c
 
 1. This is a chance to hear what people are planning to achieve next quarter
 2. Everyone is welcome but only the presenters are "required"
-3. Presenters will have about 5min to present their OKR(s) and 20min of debate, negotiation, heckling, Q&A
+3. Presenters will have about 5min to present their OKR(s) and 20 min of debate, negotiation, heckling, and Q&A
 2. Not every team has to present their OKRs – not every team should <i>have</i> OKRs.
 3. Participants are welcome to come and go from any session at any time
-4. Some sessions will be repeated, so don't worry about fear of missing out (FOMO)!
+4. Some sessions will be repeated, so no FOMO!
 
 ### Tips
 * In your video chat tool, create a "room" for each track (probably 3) lasting the entire duration of the festival.
