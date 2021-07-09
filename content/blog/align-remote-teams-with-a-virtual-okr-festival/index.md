@@ -14,14 +14,14 @@ resources:
 
 Bring on the wrist bands and glow-sticks! 
 
-It’s not quite Glastonbury, but Great things do happen when people get together to talk and play and experiment with goals. I often remind people that *OKRs are not an execution framework, but an alignment framework* and the real value of OKRs is in the conversations that they enable (or require) among people in various teams throughout an organisation.
+While not quite Glastonbury, great things happen when people get together to talk, play and negotiate around their goals. I often remind people that *OKRs are [not an execution framework, but an alignment framework](https://www.peterkappus.com/blog/okrs-are-not-tactics)* and the real value of OKRs is in the conversations that they enable (or require) among people in various teams throughout an organisation.
 
-You can hope and pray that people make time to chat in hallways, at water coolers, in the pub, etc. but as more of us are working remotely, distributed, and asynchronously, the best way I’ve found to spur collaboration is via a remote "**OKR Jam**" or "**OKR Festival**".
+After [setting some draft OKRs](/blog/running-an-okr-setting-workshop/) but before starting to [check in on them regularly](/blog/a-guide-to-okr-check-ins/), teams need time to discuss, clarify, and simplify their OKRs to make sure they're really aligned. You can encourage people to chat in hallways, at water coolers, in the pub, etc. but this almost never happens. Firstly, many of us are working in remote, distributed, and asynchronous ways most of the time and these ad-hoc interactions just don't happen as frequently. Secondly, people need to be given time and space outside of their own daily work to connect with each other and consider how they collectively contribute to the bigger picture. The best way I’ve found to spur this kind of collaboration and reflection is via a remote "**OKR Jam**" or "**OKR Festival**".
 
 I began adopting this approach during my time with Design + Engineering teams at the BBC (e.g. iPlayer). The need emerged because teams realised they wanted a slightly more formal venue to share and discuss their OKRs with other teams and they started inviting other teams to do this.
 
 ## What's an OKR Festival?
-The OKR Festival (sometimes called an "OKR Jam") is an opportunity for leaders and teams in a particular area or an entire org to come together, share their draft OKRs, get feedback, and challenge and negotiate with each other to achieve stronger alignment and shared understanding around their most important outcomes for this OKR period – usually a quarter. While OKRs should be quite punchy – e.g. 1 objective and 3 key results for each team – the backstories can be quite lengthy. It takes more than 30 words in a shared document to provide context and rationale. Most importantly, it's an opportunity for other teams to challenge your plans,  clarify their own understanding, and ask you to align your OKRs to theirs so everyone succeeds. 
+The OKR Festival (sometimes called an "OKR Jam") is an opportunity for leaders and teams in a particular area or an entire organisation to come together, share their draft OKRs, get feedback, and challenge and negotiate with each other to achieve stronger alignment and shared understanding around their most important outcomes for this OKR period – usually a quarter. While OKRs should be quite punchy – e.g. 1 objective and 3 key results for each team – the backstories can be quite lengthy. It takes more than 30 words in a shared document to provide context and rationale. Most importantly, it's an opportunity for other teams to challenge your plans,  clarify their own understanding, and ask you to align your OKRs to theirs so everyone succeeds. 
 
 This is where alignment happens.
 
@@ -52,10 +52,10 @@ Depending on the number of teams and size of your context, you might want to set
 | Time  |	Room 1	| Room 2	| Room 3  |
 | ----- | ------- | ------- | ------- | 
 | 9:30 - 10:15	| Org Wide OKRs		
-| 10:30  - 11:00	| Department A	| Department B	| Dep't C
+| 10:30  - 11:00	| Department A	| Dept B | Dept C
 | 11:00 - 11:30 | Team A	| Dept A	| Team C
 | 11:30 - 12:30 | BREAK
-| 12:30 - 13:00	| Department B	| Team E	| Team B  
+| 12:30 - 13:00	| Dept B	| Team E	| Team B
 | 13:00 - 13:30	| Team C	| Team D 	| Dept C  
 | 13:30 - 14:00	| Team A	| Team E 	| Dept B  
 
